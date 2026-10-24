@@ -1,0 +1,630 @@
+{
+  "grades": {
+    "10": [
+      {
+        "id": "10-C1",
+        "number": 1,
+        "title": "Cấu tạo nguyên tử",
+        "lessons": [
+          {
+            "id": "10-1",
+            "number": 1,
+            "title": "Thành phần của nguyên tử",
+            "review": false
+          },
+          {
+            "id": "10-2",
+            "number": 2,
+            "title": "Nguyên tố hóa học",
+            "review": false
+          },
+          {
+            "id": "10-3",
+            "number": 3,
+            "title": "Cấu trúc lớp vỏ electron nguyên tử",
+            "review": false
+          },
+          {
+            "id": "10-4",
+            "number": 4,
+            "title": "Ôn tập chương 1",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "10-C2",
+        "number": 2,
+        "title": "Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn",
+        "lessons": [
+          {
+            "id": "10-5",
+            "number": 5,
+            "title": "Cấu tạo của bảng tuần hoàn các nguyên tố hóa học",
+            "review": false
+          },
+          {
+            "id": "10-6",
+            "number": 6,
+            "title": "Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm",
+            "review": false
+          },
+          {
+            "id": "10-7",
+            "number": 7,
+            "title": "Xu hướng biến đổi thành phần và một số tính chất của hợp chất trong một chu kì",
+            "review": false
+          },
+          {
+            "id": "10-8",
+            "number": 8,
+            "title": "Định luật tuần hoàn, ý nghĩa của bảng tuần hoàn các nguyên tố hóa học",
+            "review": false
+          },
+          {
+            "id": "10-9",
+            "number": 9,
+            "title": "Ôn tập chương 2",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "10-C3",
+        "number": 3,
+        "title": "Liên kết hóa học",
+        "lessons": [
+          {
+            "id": "10-10",
+            "number": 10,
+            "title": "Quy tắc octet",
+            "review": false
+          },
+          {
+            "id": "10-11",
+            "number": 11,
+            "title": "Liên kết ion",
+            "review": false
+          },
+          {
+            "id": "10-12",
+            "number": 12,
+            "title": "Liên kết cộng hóa trị",
+            "review": false
+          },
+          {
+            "id": "10-13",
+            "number": 13,
+            "title": "Liên kết hydrogen và tương tác van der Waals",
+            "review": false
+          },
+          {
+            "id": "10-14",
+            "number": 14,
+            "title": "Ôn tập chương 3",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "10-C4",
+        "number": 4,
+        "title": "Phản ứng oxi hóa - khử",
+        "lessons": [
+          {
+            "id": "10-15",
+            "number": 15,
+            "title": "Phản ứng oxi hóa - khử",
+            "review": false
+          },
+          {
+            "id": "10-16",
+            "number": 16,
+            "title": "Ôn tập chương 4",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "10-C5",
+        "number": 5,
+        "title": "Năng lượng hóa học",
+        "lessons": [
+          {
+            "id": "10-17",
+            "number": 17,
+            "title": "Biến thiên enthalpy trong các phản ứng hóa học",
+            "review": false
+          },
+          {
+            "id": "10-18",
+            "number": 18,
+            "title": "Ôn tập chương 5",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "10-C6",
+        "number": 6,
+        "title": "Tốc độ phản ứng",
+        "lessons": [
+          {
+            "id": "10-19",
+            "number": 19,
+            "title": "Tốc độ phản ứng",
+            "review": false
+          },
+          {
+            "id": "10-20",
+            "number": 20,
+            "title": "Ôn tập chương 6",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "10-C7",
+        "number": 7,
+        "title": "Nguyên tố nhóm halogen",
+        "lessons": [
+          {
+            "id": "10-21",
+            "number": 21,
+            "title": "Nhóm halogen",
+            "review": false
+          },
+          {
+            "id": "10-22",
+            "number": 22,
+            "title": "Hydrogen halide. Muối halide",
+            "review": false
+          },
+          {
+            "id": "10-23",
+            "number": 23,
+            "title": "Ôn tập chương 7",
+            "review": true
+          }
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "11-C1",
+        "number": 1,
+        "title": "Cân bằng hóa học",
+        "lessons": [
+          {
+            "id": "11-1",
+            "number": 1,
+            "title": "Khái niệm về cân bằng hóa học",
+            "review": false
+          },
+          {
+            "id": "11-2",
+            "number": 2,
+            "title": "Cân bằng trong dung dịch nước",
+            "review": false
+          },
+          {
+            "id": "11-3",
+            "number": 3,
+            "title": "Ôn tập chương 1",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "11-C2",
+        "number": 2,
+        "title": "Nitrogen - Sulfur",
+        "lessons": [
+          {
+            "id": "11-4",
+            "number": 4,
+            "title": "Nitrogen",
+            "review": false
+          },
+          {
+            "id": "11-5",
+            "number": 5,
+            "title": "Ammonia - Muối ammonium",
+            "review": false
+          },
+          {
+            "id": "11-6",
+            "number": 6,
+            "title": "Một số hợp chất của nitrogen với oxygen",
+            "review": false
+          },
+          {
+            "id": "11-7",
+            "number": 7,
+            "title": "Sulfur và sulfur dioxide",
+            "review": false
+          },
+          {
+            "id": "11-8",
+            "number": 8,
+            "title": "Sulfuric acid và muối sulfate",
+            "review": false
+          },
+          {
+            "id": "11-9",
+            "number": 9,
+            "title": "Ôn tập chương 2",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "11-C3",
+        "number": 3,
+        "title": "Đại cương về hóa học hữu cơ",
+        "lessons": [
+          {
+            "id": "11-10",
+            "number": 10,
+            "title": "Hợp chất hữu cơ và hóa học hữu cơ",
+            "review": false
+          },
+          {
+            "id": "11-11",
+            "number": 11,
+            "title": "Phương pháp tách biệt và tinh chế hợp chất hữu cơ",
+            "review": false
+          },
+          {
+            "id": "11-12",
+            "number": 12,
+            "title": "Công thức phân tử hợp chất hữu cơ",
+            "review": false
+          },
+          {
+            "id": "11-13",
+            "number": 13,
+            "title": "Cấu tạo hóa học hợp chất hữu cơ",
+            "review": false
+          },
+          {
+            "id": "11-14",
+            "number": 14,
+            "title": "Ôn tập chương 3",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "11-C4",
+        "number": 4,
+        "title": "Hydrocarbon",
+        "lessons": [
+          {
+            "id": "11-15",
+            "number": 15,
+            "title": "Alkane",
+            "review": false
+          },
+          {
+            "id": "11-16",
+            "number": 16,
+            "title": "Hydrocarbon không no",
+            "review": false
+          },
+          {
+            "id": "11-17",
+            "number": 17,
+            "title": "Arene (hydrocarbon thơm)",
+            "review": false
+          },
+          {
+            "id": "11-18",
+            "number": 18,
+            "title": "Ôn tập chương 4",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "11-C5",
+        "number": 5,
+        "title": "Dẫn xuất halogen - Alcohol - Phenol",
+        "lessons": [
+          {
+            "id": "11-19",
+            "number": 19,
+            "title": "Dẫn xuất halogen",
+            "review": false
+          },
+          {
+            "id": "11-20",
+            "number": 20,
+            "title": "Alcohol",
+            "review": false
+          },
+          {
+            "id": "11-21",
+            "number": 21,
+            "title": "Phenol",
+            "review": false
+          },
+          {
+            "id": "11-22",
+            "number": 22,
+            "title": "Ôn tập chương 5",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "11-C6",
+        "number": 6,
+        "title": "Hợp chất carbonyl - Carboxylic acid",
+        "lessons": [
+          {
+            "id": "11-23",
+            "number": 23,
+            "title": "Hợp chất carbonyl",
+            "review": false
+          },
+          {
+            "id": "11-24",
+            "number": 24,
+            "title": "Carboxylic acid",
+            "review": false
+          },
+          {
+            "id": "11-25",
+            "number": 25,
+            "title": "Ôn tập chương 6",
+            "review": true
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "12-C1",
+        "number": 1,
+        "title": "Ester - Lipid",
+        "lessons": [
+          {
+            "id": "12-1",
+            "number": 1,
+            "title": "Ester - Lipid",
+            "review": false
+          },
+          {
+            "id": "12-2",
+            "number": 2,
+            "title": "Xà phòng và chất giặt rửa",
+            "review": false
+          },
+          {
+            "id": "12-3",
+            "number": 3,
+            "title": "Ôn tập chương 1",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "12-C2",
+        "number": 2,
+        "title": "Carbohydrate",
+        "lessons": [
+          {
+            "id": "12-4",
+            "number": 4,
+            "title": "Giới thiệu về carbohydrate. Glucose và fructose",
+            "review": false
+          },
+          {
+            "id": "12-5",
+            "number": 5,
+            "title": "Saccharose và maltose",
+            "review": false
+          },
+          {
+            "id": "12-6",
+            "number": 6,
+            "title": "Tinh bột và cellulose",
+            "review": false
+          },
+          {
+            "id": "12-7",
+            "number": 7,
+            "title": "Ôn tập chương 2",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "12-C3",
+        "number": 3,
+        "title": "Hợp chất chứa nitrogen",
+        "lessons": [
+          {
+            "id": "12-8",
+            "number": 8,
+            "title": "Amine",
+            "review": false
+          },
+          {
+            "id": "12-9",
+            "number": 9,
+            "title": "Amino acid và peptide",
+            "review": false
+          },
+          {
+            "id": "12-10",
+            "number": 10,
+            "title": "Protein và enzyme",
+            "review": false
+          },
+          {
+            "id": "12-11",
+            "number": 11,
+            "title": "Ôn tập chương 3",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "12-C4",
+        "number": 4,
+        "title": "Polymer",
+        "lessons": [
+          {
+            "id": "12-12",
+            "number": 12,
+            "title": "Đại cương về polymer",
+            "review": false
+          },
+          {
+            "id": "12-13",
+            "number": 13,
+            "title": "Vật liệu polymer",
+            "review": false
+          },
+          {
+            "id": "12-14",
+            "number": 14,
+            "title": "Ôn tập chương 4",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "12-C5",
+        "number": 5,
+        "title": "Pin điện và điện phân",
+        "lessons": [
+          {
+            "id": "12-15",
+            "number": 15,
+            "title": "Thế điện cực và nguồn điện hóa học",
+            "review": false
+          },
+          {
+            "id": "12-16",
+            "number": 16,
+            "title": "Điện phân",
+            "review": false
+          },
+          {
+            "id": "12-17",
+            "number": 17,
+            "title": "Ôn tập chương 5",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "12-C6",
+        "number": 6,
+        "title": "Đại cương về kim loại",
+        "lessons": [
+          {
+            "id": "12-18",
+            "number": 18,
+            "title": "Cấu tạo và liên kết trong tinh thể kim loại",
+            "review": false
+          },
+          {
+            "id": "12-19",
+            "number": 19,
+            "title": "Tính chất vật lí và tính chất hóa học của kim loại",
+            "review": false
+          },
+          {
+            "id": "12-20",
+            "number": 20,
+            "title": "Kim loại trong tự nhiên và phương pháp tách kim loại",
+            "review": false
+          },
+          {
+            "id": "12-21",
+            "number": 21,
+            "title": "Hợp kim",
+            "review": false
+          },
+          {
+            "id": "12-22",
+            "number": 22,
+            "title": "Sự ăn mòn kim loại",
+            "review": false
+          },
+          {
+            "id": "12-23",
+            "number": 23,
+            "title": "Ôn tập chương 6",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "12-C7",
+        "number": 7,
+        "title": "Nguyên tố nhóm IA và nhóm IIA",
+        "lessons": [
+          {
+            "id": "12-24",
+            "number": 24,
+            "title": "Nguyên tố nhóm IA",
+            "review": false
+          },
+          {
+            "id": "12-25",
+            "number": 25,
+            "title": "Nguyên tố nhóm IIA",
+            "review": false
+          },
+          {
+            "id": "12-26",
+            "number": 26,
+            "title": "Ôn tập chương 7",
+            "review": true
+          }
+        ]
+      },
+      {
+        "id": "12-C8",
+        "number": 8,
+        "title": "Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+        "lessons": [
+          {
+            "id": "12-27",
+            "number": 27,
+            "title": "Đại cương về kim loại chuyển tiếp dãy thứ nhất",
+            "review": false
+          },
+          {
+            "id": "12-28",
+            "number": 28,
+            "title": "Sơ lược về phức chất",
+            "review": false
+          },
+          {
+            "id": "12-29",
+            "number": 29,
+            "title": "Một số tính chất và ứng dụng của phức chất",
+            "review": false
+          },
+          {
+            "id": "12-30",
+            "number": 30,
+            "title": "Ôn tập chương 8",
+            "review": true
+          }
+        ]
+      }
+    ]
+  },
+  "reference_urls": {
+    "10": "https://www.sgkvn.com/lop-10-13/ket-noi-tri-thuc-voi-cuoc-song-3/hoa-hoc-10-3643.html",
+    "11": "https://sgkvn.com/lop-11-14/ket-noi-tri-thuc-voi-cuoc-song-3/hoa-hoc-1169.html",
+    "12": "https://www.sgkvn.com/lop-12-15/ket-noi-tri-thuc-voi-cuoc-song-3/hoa-hoc-12-3683.html"
+  }
+}

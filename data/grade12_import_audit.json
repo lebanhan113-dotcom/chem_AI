@@ -1,0 +1,167 @@
+[
+  {
+    "grade": 12,
+    "chapter": 1,
+    "name": "Ester - Lipid",
+    "teacher_file": "Hoa_12_Chuong_1_Ester_Lipid_Giao_vien_Phan_tich_loi_sai.docx",
+    "student_file": "2025 - 2026. 12.1 Ester - Lipid. TTB  - Dap an_HS.docx",
+    "new_unique_questions": 32,
+    "types": {
+      "mcq": 18,
+      "tf": 4,
+      "short": 6,
+      "essay": 4
+    },
+    "text_similarity_mean": 0.866,
+    "needs_manual_review": {
+      "Bắt buộc giáo viên đối chiếu nguồn, số liệu, phương trình và đáp án trước khi công bố.": 32,
+      "Chưa có đáp án dạng một số để chấm máy. Giáo viên cần nhập kết quả và dung sai, hoặc chấm thủ công.": 1
+    }
+  },
+  {
+    "grade": 12,
+    "chapter": 2,
+    "name": "Carbohydrate",
+    "teacher_file": "Hoa_12_Chuong_2_Carbohydrate_GIAO_VIEN.docx",
+    "student_file": "2025 - 2026. 12.2 Carbohydrate. TTB  - Dap an_HS.docx",
+    "new_unique_questions": 32,
+    "types": {
+      "mcq": 18,
+      "tf": 4,
+      "short": 6,
+      "essay": 4
+    },
+    "text_similarity_mean": 0.853,
+    "needs_manual_review": {
+      "Bắt buộc giáo viên đối chiếu nguồn, số liệu, phương trình và đáp án trước khi công bố.": 32,
+      "Chưa có đáp án dạng một số để chấm máy. Giáo viên cần nhập kết quả và dung sai, hoặc chấm thủ công.": 6
+    }
+  },
+  {
+    "grade": 12,
+    "chapter": 3,
+    "name": "Hợp chất chứa nitrogen",
+    "teacher_file": "Hoa_12_Chuong_3_Nitrogen_GiaoVien_LoiSai_ChuyenSau.docx",
+    "student_file": "2025 - 2026. 12.3 Hop chat chua nitrogen. TTB  - Dap an_HS.docx",
+    "new_unique_questions": 32,
+    "types": {
+      "mcq": 18,
+      "tf": 4,
+      "short": 6,
+      "essay": 4
+    },
+    "text_similarity_mean": 0.952,
+    "needs_manual_review": {
+      "Bắt buộc giáo viên đối chiếu nguồn, số liệu, phương trình và đáp án trước khi công bố.": 32,
+      "Bản giáo viên và học sinh có khác biệt đáng kể (độ tương đồng văn bản 0.07); cần đối chiếu trước khi sử dụng đáp án.": 1,
+      "Chưa có đáp án dạng một số để chấm máy. Giáo viên cần nhập kết quả và dung sai, hoặc chấm thủ công.": 6
+    }
+  },
+  {
+    "grade": 12,
+    "chapter": 4,
+    "name": "Polymer",
+    "teacher_file": "Hoa_12_Chuong_4_Polymer_GIAO_VIEN_Giai_LoiSai.docx",
+    "student_file": "2025 - 2026. 12.4 Polymer. TTB  - Dap an_HS.docx",
+    "new_unique_questions": 32,
+    "types": {
+      "mcq": 18,
+      "tf": 4,
+      "short": 6,
+      "essay": 4
+    },
+    "text_similarity_mean": 0.788,
+    "needs_manual_review": {
+      "Bắt buộc giáo viên đối chiếu nguồn, số liệu, phương trình và đáp án trước khi công bố.": 32,
+      "Bản giáo viên và học sinh có khác biệt đáng kể (độ tương đồng văn bản 0.29); cần đối chiếu trước khi sử dụng đáp án.": 1,
+      "Bản giáo viên và học sinh có khác biệt đáng kể (độ tương đồng văn bản 0.34); cần đối chiếu trước khi sử dụng đáp án.": 1,
+      "Bản giáo viên và học sinh có khác biệt đáng kể (độ tương đồng văn bản 0.42); cần đối chiếu trước khi sử dụng đáp án.": 1,
+      "Bản giáo viên và học sinh có khác biệt đáng kể (độ tương đồng văn bản 0.27); cần đối chiếu trước khi sử dụng đáp án.": 1,
+      "Chưa có đáp án dạng một số để chấm máy. Giáo viên cần nhập kết quả và dung sai, hoặc chấm thủ công.": 6
+    }
+  },
+  {
+    "grade": 12,
+    "chapter": 5,
+    "name": "Pin điện và điện phân",
+    "teacher_file": "Hoa_12_Chuong_5_Pin_dien_Dien_phan_GIAO_VIEN.docx",
+    "student_file": "2025 - 2026. 12.5 Pin dien va dien phan. TTB  - Dap an_HS.docx",
+    "new_unique_questions": 32,
+    "types": {
+      "mcq": 18,
+      "tf": 4,
+      "short": 6,
+      "essay": 4
+    },
+    "text_similarity_mean": 0.929,
+    "needs_manual_review": {
+      "Bắt buộc giáo viên đối chiếu nguồn, số liệu, phương trình và đáp án trước khi công bố.": 32,
+      "Chưa có đáp án dạng một số để chấm máy. Giáo viên cần nhập kết quả và dung sai, hoặc chấm thủ công.": 3
+    }
+  },
+  {
+    "grade": 12,
+    "chapter": 6,
+    "name": "Đại cương về kim loại",
+    "teacher_file": "Hoa_12_Chuong_6_Dai_cuong_kim_loai_GIAO_VIEN_Phan_tich_loi_sai.docx",
+    "student_file": "2025 - 2026. 12.6 Dai cuong ve kim loai. TTB  - Dap an_HS.docx",
+    "new_unique_questions": 32,
+    "types": {
+      "mcq": 18,
+      "tf": 4,
+      "short": 6,
+      "essay": 4
+    },
+    "text_similarity_mean": 0.936,
+    "needs_manual_review": {
+      "Bắt buộc giáo viên đối chiếu nguồn, số liệu, phương trình và đáp án trước khi công bố.": 32,
+      "Chưa có đáp án dạng một số để chấm máy. Giáo viên cần nhập kết quả và dung sai, hoặc chấm thủ công.": 6
+    }
+  },
+  {
+    "grade": 12,
+    "chapter": 7,
+    "name": "Nguyên tố nhóm IA và nhóm IIA",
+    "teacher_file": null,
+    "student_file": "2025 - 2026. 12.7 Nguyen to nhom IA va IIA. TTB  - Dap an_HS.docx",
+    "new_unique_questions": 32,
+    "types": {
+      "mcq": 18,
+      "tf": 4,
+      "short": 6,
+      "essay": 4
+    },
+    "text_similarity_mean": null,
+    "needs_manual_review": {
+      "Bắt buộc giáo viên đối chiếu nguồn, số liệu, phương trình và đáp án trước khi công bố.": 32,
+      "CHƯA CÓ TÀI LIỆU GIÁO VIÊN/ĐÁP ÁN": 32,
+      "Chưa xác định đáp án A–D; giáo viên phải nhập và xác thực.": 18,
+      "Chưa đầy đủ đáp án đúng/sai 4 ý; giáo viên phải nhập.": 4,
+      "Chưa có đáp án dạng một số để chấm máy. Giáo viên cần nhập kết quả và dung sai, hoặc chấm thủ công.": 6,
+      "Chưa có hướng dẫn chấm tự luận; giáo viên cần biên soạn rubric.": 4
+    }
+  },
+  {
+    "grade": 12,
+    "chapter": 8,
+    "name": "Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+    "teacher_file": null,
+    "student_file": "2025 - 2026. 12.8 So luoc ve day kim loai chuyen tiep thu nhat va phuc chat. TTB  - Dap an_HS.docx",
+    "new_unique_questions": 32,
+    "types": {
+      "mcq": 18,
+      "tf": 4,
+      "short": 6,
+      "essay": 4
+    },
+    "text_similarity_mean": null,
+    "needs_manual_review": {
+      "Bắt buộc giáo viên đối chiếu nguồn, số liệu, phương trình và đáp án trước khi công bố.": 32,
+      "CHƯA CÓ TÀI LIỆU GIÁO VIÊN/ĐÁP ÁN": 32,
+      "Chưa xác định đáp án A–D; giáo viên phải nhập và xác thực.": 18,
+      "Chưa đầy đủ đáp án đúng/sai 4 ý; giáo viên phải nhập.": 4,
+      "Chưa có đáp án dạng một số để chấm máy. Giáo viên cần nhập kết quả và dung sai, hoặc chấm thủ công.": 6,
+      "Chưa có hướng dẫn chấm tự luận; giáo viên cần biên soạn rubric.": 4
+    }
+  }
+]

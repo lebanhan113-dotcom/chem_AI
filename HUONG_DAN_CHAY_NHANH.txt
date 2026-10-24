@@ -1,0 +1,25 @@
+CHEM-MAP TUTOR AI 3.3 - LE BA NHAN - TRUONG THPT HON DAT
+
+FILE KHOI CHAY CHINH: index.html (THU MUC GOC)
+
+QUAN TRONG:
+index.html la giao dien WebApp. De su dung onlne, can khoi dong may chu FastAPI.
+Mo file index.html bang nhap dup chi hien thi giao dien va canh bao, KHONG the
+kiem tra/cham bai/luu diem/lay ngan hang cau hoi neu khong co may chu.
+
+CHAY THU TAI MAY:
+1. Giai nen ZIP thanh mot thu muc rieng.
+2. Cai Python 3.11+, mo Terminal trong thu muc du an.
+3. pip install -r requirements.txt
+4. Thiet lap ADMIN_PASSWORD va SESSION_SECRET; xem .env.example.
+5. uvicorn server:APP --host 127.0.0.1 --port 8000
+6. Mo http://127.0.0.1:8000/index.html
+
+HOAT DONG ONLINE:
+- Su dung Dockerfile/render.yaml de dua may chu len hosting.
+- Can HTTPS, mat khau quan tri manh va co so du lieu luu tru ben vung.
+- Ngan hang 672 cau nguon cho GV kiem duyet; 83 cau mau ke thua.
+- Khong can nhap GEMINI_API_KEY; hoi thoai AI tu do phu thuoc dich vu AI phia may chu.
+- Khong dua ho so nguon 27 DOCX va dap an len kho GitHub cong khai.
+
+Nhan vien du an: Le Ba Nhan - Truong THPT Hon Dat.
