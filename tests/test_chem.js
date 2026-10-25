@@ -1,0 +1,31 @@
+/* EduPlan AI 7.6 – tests using built-in Node only. */
+'use strict';
+const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path'),vm=require('node:vm');
+const root=path.resolve(__dirname,'..'),ctx={console,TextEncoder};ctx.window=ctx;vm.createContext(ctx);vm.runInContext(fs.readFileSync(path.join(root,'js/chem-normalize.js'),'utf8'),ctx);
+const c=ctx.EduPlanChem;let ok=0;
+function test(label,cb){try{cb();ok++;console.log('PASS '+label);}catch(e){console.error('FAIL '+label,e);process.exitCode=1;}}
+test('H2O sub',()=>assert.match(c.html('H2O'),/sub[^>]*>2<\/sub>/));
+test('H2SO4 multiple subs',()=>assert.equal((c.html('H2SO4').match(/chem-sub/g)||[]).length,2));
+test('Ca(OH)2 parenthesis',()=>assert.match(c.html('Ca(OH)2'),/OH\)<sub/));
+test('Al2(SO4)3 multiple groups',()=>assert.equal((c.html('Al2(SO4)3').match(/chem-sub/g)||[]).length,3));
+test('Sulfate charge',()=>assert.match(c.html('SO4^2-'),/chem-sup[^>]*>2-<\/sup>/));
+test('Ammonium',()=>assert.match(c.html('NH4+'),/chem-sup[^>]*>\+<\/sup>/));
+test('Fe(III) ion',()=>assert.match(c.html('Fe3+'),/chem-sup[^>]*>3\+<\/sup>/));
+test('Electron configuration',()=>assert.equal((c.html('1s2 2s2 2p6').match(/chem-sup/g)||[]).length,3));
+test('Isotope',()=>assert.match(c.html(String.raw`\({}^{27}_{13}\mathrm{Al}\)`),/chem-sup[^>]*>27/));
+test('Case-sensitive elements Co CO No NO',()=>assert.equal(c.html('Co CO No NO'),'Co CO No NO'));
+test('Escapes HTML injection',()=>assert.doesNotMatch(c.html('<img src=x onerror=alert(1)>'),/<img\s/));
+test('mhchem equivalent basic equation',()=>assert.match(c.html(String.raw`\ce{2H2 + O2 -> 2H2O}`),/→/));
+test('Molecular coefficient retains correct index',()=>assert.match(c.html('2H2 + O2 → 2H2O'),/2H<sub/));
+test('Equation balanced',()=>assert.equal(c.checkEquation('2H2 + O2 -> 2H2O').status,'balanced'));
+test('Equation imbalance',()=>assert.equal(c.checkEquation('H2 + O2 -> H2O').status,'unbalanced'));
+test('Polyatomic balance',()=>assert.equal(c.checkEquation('CaCO3 -> CaO + CO2').status,'balanced'));
+test('Ionic equilibrium requires review',()=>assert.equal(c.checkEquation('NH4+ ⇌ NH3 + H+').status,'unsupported'));
+test('Invalid symbols cannot be parsed as elements',()=>assert.equal(c.formulaToken('Xx2'),null));
+test('All 1958 records unchanged',()=>{let total=0;for(const g of [10,11,12])total+=JSON.parse(fs.readFileSync(path.join(root,'data/hoa'+g+'.json'))).length;assert.equal(total,1958);});
+test('Unique question IDs',()=>{const ids=[10,11,12].flatMap(g=>JSON.parse(fs.readFileSync(path.join(root,'data/hoa'+g+'.json'))).map(x=>x.id));assert.equal(new Set(ids).size,ids.length);});
+test('Audit covers every ID',()=>{const qa=JSON.parse(fs.readFileSync(path.join(root,'data/quality_audit.json')));assert.equal(Object.keys(qa.questions).length,1958);});
+test('No public correct-answer keys',()=>{for(const g of [10,11,12]){for(const q of JSON.parse(fs.readFileSync(path.join(root,'data/hoa'+g+'.json'))))for(const k of ['correct_answer','answer','correctAnswer','explanation'])assert.equal(Object.hasOwn(q,k),false);}});
+test('Preserve curriculum 21 chapters and 78 lessons',()=>{const c=JSON.parse(fs.readFileSync(path.join(root,'data/curriculum.json')));assert.equal(Object.values(c).reduce((n,ch)=>n+ch.length,0),21);assert.equal(Object.values(c).flat().reduce((n,ch)=>n+ch.lessons.length,0),78);});
+test('Mindmaps retained 21+78',()=>{const m=JSON.parse(fs.readFileSync(path.join(root,'data/mindmaps.json')));assert.equal(Object.keys(m.chapters).length,21);assert.equal(Object.keys(m.lessons).length,78);});
+console.log(`RESULT: ${ok}/24 successful checks`);
