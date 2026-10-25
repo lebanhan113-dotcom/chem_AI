@@ -1,0 +1,25 @@
+Original index.html: 13,387,693 bytes
+New index.html: 2,065 bytes
+css/styles.css: 16,759 bytes
+js/app.js: 119,707 bytes
+Number of data script chunks: 27
+Number of extracted images: 160
+Image bytes: 6,922,944
+Data variables: 16
+EDUPLAN_IMPORTED_61: 416 entries
+EDUPLAN_SOURCE_HTML_61: 416 entries
+EDUPLAN_MEDIA_61: 4 entries
+EDUPLAN_IMPORTED_62: 256 entries
+EDUPLAN_SOURCE_HTML_62: 256 entries
+EDUPLAN_MEDIA_62: 1 entries
+EDUPLAN_ENRICHED_63: 672 entries
+EDUPLAN_IMPORTED_64: 363 entries
+EDUPLAN_SOURCE_HTML_64: 363 entries
+EDUPLAN_MEDIA_64: 60 entries
+EDUPLAN_IMPORTED_65: 420 entries
+EDUPLAN_SOURCE_HTML_65: 420 entries
+EDUPLAN_MEDIA_65: 53 entries
+EDUPLAN_IMPORTED_66: 503 entries
+EDUPLAN_SOURCE_HTML_66: 503 entries
+EDUPLAN_MEDIA_66: 42 entries
+Source document hash SHA256: 6e808577494ed07d6724875bce44b7c696519906a528c8dba30d5dad24e41c22

@@ -1,0 +1,1 @@
+Object.assign(EDUPLAN_MEDIA_61,{"82ecb13b7dece7.png":{"mime":"image/png","path":"./assets/61/82ecb13b7dece7.png"},"7d57050b0f7df4.png":{"mime":"image/png","path":"./assets/61/7d57050b0f7df4.png"},"99ee2efd25b23e.png":{"mime":"image/png","path":"./assets/61/99ee2efd25b23e.png"},"3fe7ab65035b01.png":{"mime":"image/png","path":"./assets/61/3fe7ab65035b01.png"}});
