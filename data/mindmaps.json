@@ -1,0 +1,3670 @@
+{
+  "version": "7.5",
+  "source": "SGK Hóa học KNTT – danh mục EduPlan AI 7.4; tóm tắt kiến thức sư phạm do hệ thống biên soạn, không sao chép nguyên văn SGK",
+  "grades": {
+    "10": 7,
+    "11": 6,
+    "12": 8
+  },
+  "chapters": {
+    "10-1": {
+      "grade": 10,
+      "chapterNo": 1,
+      "title": "Cấu tạo nguyên tử",
+      "branches": [
+        {
+          "label": "Bài 1. Thành phần của nguyên tử",
+          "notes": [
+            "Proton p: điện tích +1, nằm trong hạt nhân"
+          ],
+          "lessonNo": 1
+        },
+        {
+          "label": "Bài 2. Nguyên tố hóa học",
+          "notes": [
+            "Z là số proton của nguyên tố"
+          ],
+          "lessonNo": 2
+        },
+        {
+          "label": "Bài 3. Cấu trúc lớp vỏ electron nguyên tử",
+          "notes": [
+            "Lớp n; phân lớp s,p,d,f"
+          ],
+          "lessonNo": 3
+        },
+        {
+          "label": "Bài 4. Ôn tập chương 1",
+          "notes": [
+            "Ôn Bài 1: Thành phần của nguyên tử"
+          ],
+          "lessonNo": 4
+        }
+      ],
+      "count": 4
+    },
+    "10-2": {
+      "grade": 10,
+      "chapterNo": 2,
+      "title": "Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn",
+      "branches": [
+        {
+          "label": "Bài 5. Cấu tạo của bảng tuần hoàn các nguyên tố hóa học",
+          "notes": [
+            "Số hiệu nguyên tử Z"
+          ],
+          "lessonNo": 5
+        },
+        {
+          "label": "Bài 6. Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm",
+          "notes": [
+            "Trong chu kì thường giảm theo Z"
+          ],
+          "lessonNo": 6
+        },
+        {
+          "label": "Bài 7. Xu hướng biến đổi độ âm điện và một số tính chất của hợp chất trong một chu kì",
+          "notes": [
+            "Khả năng hút cặp electron liên kết"
+          ],
+          "lessonNo": 7
+        },
+        {
+          "label": "Bài 8. Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hóa học",
+          "notes": [
+            "Tính chất biến đổi tuần hoàn theo Z"
+          ],
+          "lessonNo": 8
+        },
+        {
+          "label": "Bài 9. Ôn tập chương 2",
+          "notes": [
+            "Ôn Bài 5: Cấu tạo của bảng tuần hoàn các nguyên tố hóa học"
+          ],
+          "lessonNo": 9
+        }
+      ],
+      "count": 5
+    },
+    "10-3": {
+      "grade": 10,
+      "chapterNo": 3,
+      "title": "Liên kết hóa học",
+      "branches": [
+        {
+          "label": "Bài 10. Quy tắc octet",
+          "notes": [
+            "Nhiều nguyên tử đạt lớp ngoài 8e"
+          ],
+          "lessonNo": 10
+        },
+        {
+          "label": "Bài 11. Liên kết ion",
+          "notes": [
+            "Kim loại thường nhường electron"
+          ],
+          "lessonNo": 11
+        },
+        {
+          "label": "Bài 12. Liên kết cộng hóa trị",
+          "notes": [
+            "Dùng chung cặp electron"
+          ],
+          "lessonNo": 12
+        },
+        {
+          "label": "Bài 13. Liên kết hydrogen và tương tác van der Waals",
+          "notes": [
+            "Tương tác H với N, O, F khi có cấu trúc phù hợp"
+          ],
+          "lessonNo": 13
+        },
+        {
+          "label": "Bài 14. Ôn tập chương 3",
+          "notes": [
+            "Ôn Bài 10: Quy tắc octet"
+          ],
+          "lessonNo": 14
+        }
+      ],
+      "count": 5
+    },
+    "10-4": {
+      "grade": 10,
+      "chapterNo": 4,
+      "title": "Phản ứng oxi hóa – khử",
+      "branches": [
+        {
+          "label": "Bài 15. Phản ứng oxi hóa – khử",
+          "notes": [
+            "Quy tắc gán số oxi hóa"
+          ],
+          "lessonNo": 15
+        },
+        {
+          "label": "Bài 16. Ôn tập chương 4",
+          "notes": [
+            "Ôn Bài 15: Phản ứng oxi hóa – khử"
+          ],
+          "lessonNo": 16
+        }
+      ],
+      "count": 2
+    },
+    "10-5": {
+      "grade": 10,
+      "chapterNo": 5,
+      "title": "Năng lượng hóa học",
+      "branches": [
+        {
+          "label": "Bài 17. Biến thiên enthalpy trong các phản ứng hóa học",
+          "notes": [
+            "ΔrH < 0: tỏa nhiệt; ΔrH > 0: thu nhiệt"
+          ],
+          "lessonNo": 17
+        },
+        {
+          "label": "Bài 18. Ôn tập chương 5",
+          "notes": [
+            "Ôn Bài 17: Biến thiên enthalpy trong các phản ứng hóa học"
+          ],
+          "lessonNo": 18
+        }
+      ],
+      "count": 2
+    },
+    "10-6": {
+      "grade": 10,
+      "chapterNo": 6,
+      "title": "Tốc độ phản ứng",
+      "branches": [
+        {
+          "label": "Bài 19. Tốc độ phản ứng",
+          "notes": [
+            "Mức biến đổi nồng độ theo thời gian"
+          ],
+          "lessonNo": 19
+        },
+        {
+          "label": "Bài 20. Ôn tập chương 6",
+          "notes": [
+            "Ôn Bài 19: Tốc độ phản ứng"
+          ],
+          "lessonNo": 20
+        }
+      ],
+      "count": 2
+    },
+    "10-7": {
+      "grade": 10,
+      "chapterNo": 7,
+      "title": "Nguyên tố nhóm halogen",
+      "branches": [
+        {
+          "label": "Bài 21. Nhóm halogen",
+          "notes": [
+            "F, Cl, Br, I thuộc nhóm 17"
+          ],
+          "lessonNo": 21
+        },
+        {
+          "label": "Bài 22. Hydrogen halide. Muối halide",
+          "notes": [
+            "HX; HF có đặc điểm riêng"
+          ],
+          "lessonNo": 22
+        },
+        {
+          "label": "Bài 23. Ôn tập chương 7",
+          "notes": [
+            "Ôn Bài 21: Nhóm halogen"
+          ],
+          "lessonNo": 23
+        }
+      ],
+      "count": 3
+    },
+    "11-1": {
+      "grade": 11,
+      "chapterNo": 1,
+      "title": "Cân bằng hóa học",
+      "branches": [
+        {
+          "label": "Bài 1. Khái niệm về cân bằng hóa học",
+          "notes": [
+            "Xảy ra theo hai chiều trong điều kiện phù hợp"
+          ],
+          "lessonNo": 1
+        },
+        {
+          "label": "Bài 2. Cân bằng trong dung dịch nước",
+          "notes": [
+            "Phân li ion trong nước"
+          ],
+          "lessonNo": 2
+        },
+        {
+          "label": "Bài 3. Ôn tập chương 1",
+          "notes": [
+            "Ôn Bài 1: Khái niệm về cân bằng hóa học"
+          ],
+          "lessonNo": 3
+        }
+      ],
+      "count": 3
+    },
+    "11-2": {
+      "grade": 11,
+      "chapterNo": 2,
+      "title": "Nitrogen – Sulfur",
+      "branches": [
+        {
+          "label": "Bài 4. Nitrogen",
+          "notes": [
+            "N₂ có liên kết ba bền"
+          ],
+          "lessonNo": 4
+        },
+        {
+          "label": "Bài 5. Ammonia. Muối ammonium",
+          "notes": [
+            "Phân tử hình chóp tam giác"
+          ],
+          "lessonNo": 5
+        },
+        {
+          "label": "Bài 6. Một số hợp chất của nitrogen với oxygen",
+          "notes": [
+            "NO và NO₂ có tính chất khác nhau"
+          ],
+          "lessonNo": 6
+        },
+        {
+          "label": "Bài 7. Sulfur và sulfur dioxide",
+          "notes": [
+            "Nhiều dạng thù hình"
+          ],
+          "lessonNo": 7
+        },
+        {
+          "label": "Bài 8. Sulfuric acid và muối sulfate",
+          "notes": [
+            "H₂SO₄ loãng có tính acid mạnh"
+          ],
+          "lessonNo": 8
+        },
+        {
+          "label": "Bài 9. Ôn tập chương 2",
+          "notes": [
+            "Ôn Bài 4: Nitrogen"
+          ],
+          "lessonNo": 9
+        }
+      ],
+      "count": 6
+    },
+    "11-3": {
+      "grade": 11,
+      "chapterNo": 3,
+      "title": "Đại cương về hóa học hữu cơ",
+      "branches": [
+        {
+          "label": "Bài 10. Hợp chất hữu cơ và hóa học hữu cơ",
+          "notes": [
+            "Hợp chất của carbon (có ngoại lệ quy ước)"
+          ],
+          "lessonNo": 10
+        },
+        {
+          "label": "Bài 11. Phương pháp tách biệt và tinh chế hợp chất hữu cơ",
+          "notes": [
+            "Chiết dựa độ tan khác nhau"
+          ],
+          "lessonNo": 11
+        },
+        {
+          "label": "Bài 12. Công thức phân tử hợp chất hữu cơ",
+          "notes": [
+            "Tỉ lệ nguyên tử tối giản"
+          ],
+          "lessonNo": 12
+        },
+        {
+          "label": "Bài 13. Cấu tạo hóa học hợp chất hữu cơ",
+          "notes": [
+            "Biểu diễn liên kết giữa các nguyên tử"
+          ],
+          "lessonNo": 13
+        },
+        {
+          "label": "Bài 14. Ôn tập chương 3",
+          "notes": [
+            "Ôn Bài 10: Hợp chất hữu cơ và hóa học hữu cơ"
+          ],
+          "lessonNo": 14
+        }
+      ],
+      "count": 5
+    },
+    "11-4": {
+      "grade": 11,
+      "chapterNo": 4,
+      "title": "Hydrocarbon",
+      "branches": [
+        {
+          "label": "Bài 15. Alkane",
+          "notes": [
+            "Hydrocarbon no mạch hở: CnH₂n+₂"
+          ],
+          "lessonNo": 15
+        },
+        {
+          "label": "Bài 16. Hydrocarbon không no",
+          "notes": [
+            "Liên kết đôi hoặc ba"
+          ],
+          "lessonNo": 16
+        },
+        {
+          "label": "Bài 17. Arene (hydrocarbon thơm)",
+          "notes": [
+            "Vòng benzene có hệ π liên hợp"
+          ],
+          "lessonNo": 17
+        },
+        {
+          "label": "Bài 18. Ôn tập chương 4",
+          "notes": [
+            "Ôn Bài 15: Alkane"
+          ],
+          "lessonNo": 18
+        }
+      ],
+      "count": 4
+    },
+    "11-5": {
+      "grade": 11,
+      "chapterNo": 5,
+      "title": "Dẫn xuất halogen – Alcohol – Phenol",
+      "branches": [
+        {
+          "label": "Bài 19. Dẫn xuất halogen",
+          "notes": [
+            "Halogen thay thế H trong hydrocarbon"
+          ],
+          "lessonNo": 19
+        },
+        {
+          "label": "Bài 20. Alcohol",
+          "notes": [
+            "Nhóm chức –OH gắn carbon no"
+          ],
+          "lessonNo": 20
+        },
+        {
+          "label": "Bài 21. Phenol",
+          "notes": [
+            "Nhóm –OH liên kết trực tiếp vòng thơm"
+          ],
+          "lessonNo": 21
+        },
+        {
+          "label": "Bài 22. Ôn tập chương 5",
+          "notes": [
+            "Ôn Bài 19: Dẫn xuất halogen"
+          ],
+          "lessonNo": 22
+        }
+      ],
+      "count": 4
+    },
+    "11-6": {
+      "grade": 11,
+      "chapterNo": 6,
+      "title": "Hợp chất carbonyl – Carboxylic acid",
+      "branches": [
+        {
+          "label": "Bài 23. Hợp chất carbonyl",
+          "notes": [
+            "Aldehyde R–CHO; ketone R–CO–R′"
+          ],
+          "lessonNo": 23
+        },
+        {
+          "label": "Bài 24. Carboxylic acid",
+          "notes": [
+            "Chứa nhóm –COOH"
+          ],
+          "lessonNo": 24
+        },
+        {
+          "label": "Bài 25. Ôn tập chương 6",
+          "notes": [
+            "Ôn Bài 23: Hợp chất carbonyl"
+          ],
+          "lessonNo": 25
+        }
+      ],
+      "count": 3
+    },
+    "12-1": {
+      "grade": 12,
+      "chapterNo": 1,
+      "title": "Ester – Lipid",
+      "branches": [
+        {
+          "label": "Bài 1. Ester – Lipid",
+          "notes": [
+            "Nhóm chức –COO– giữa hai gốc"
+          ],
+          "lessonNo": 1
+        },
+        {
+          "label": "Bài 2. Xà phòng và chất giặt rửa",
+          "notes": [
+            "Chất hoạt động bề mặt có đầu ưa nước/đuôi kị nước"
+          ],
+          "lessonNo": 2
+        },
+        {
+          "label": "Bài 3. Ôn tập chương 1",
+          "notes": [
+            "Ôn Bài 1: Ester – Lipid"
+          ],
+          "lessonNo": 3
+        }
+      ],
+      "count": 3
+    },
+    "12-2": {
+      "grade": 12,
+      "chapterNo": 2,
+      "title": "Carbohydrate",
+      "branches": [
+        {
+          "label": "Bài 4. Giới thiệu về carbohydrate. Glucose và fructose",
+          "notes": [
+            "Glucose và fructose C₆H₁₂O₆"
+          ],
+          "lessonNo": 4
+        },
+        {
+          "label": "Bài 5. Saccharose và maltose",
+          "notes": [
+            "Saccharose và maltose đều C₁₂H₂₂O₁₁"
+          ],
+          "lessonNo": 5
+        },
+        {
+          "label": "Bài 6. Tinh bột và cellulose",
+          "notes": [
+            "Tinh bột và cellulose: (C₆H₁₀O₅)n"
+          ],
+          "lessonNo": 6
+        },
+        {
+          "label": "Bài 7. Ôn tập chương 2",
+          "notes": [
+            "Ôn Bài 4: Giới thiệu về carbohydrate. Glucose và fructose"
+          ],
+          "lessonNo": 7
+        }
+      ],
+      "count": 4
+    },
+    "12-3": {
+      "grade": 12,
+      "chapterNo": 3,
+      "title": "Hợp chất chứa nitrogen",
+      "branches": [
+        {
+          "label": "Bài 8. Amine",
+          "notes": [
+            "Dẫn xuất NH₃, nhóm amine"
+          ],
+          "lessonNo": 8
+        },
+        {
+          "label": "Bài 9. Amino acid và peptide",
+          "notes": [
+            "Có –NH₂ và –COOH"
+          ],
+          "lessonNo": 9
+        },
+        {
+          "label": "Bài 10. Protein và enzyme",
+          "notes": [
+            "Đại phân tử tạo từ amino acid"
+          ],
+          "lessonNo": 10
+        },
+        {
+          "label": "Bài 11. Ôn tập chương 3",
+          "notes": [
+            "Ôn Bài 8: Amine"
+          ],
+          "lessonNo": 11
+        }
+      ],
+      "count": 4
+    },
+    "12-4": {
+      "grade": 12,
+      "chapterNo": 4,
+      "title": "Polymer",
+      "branches": [
+        {
+          "label": "Bài 12. Đại cương về polymer",
+          "notes": [
+            "Phân tử khối lớn gồm nhiều mắt xích"
+          ],
+          "lessonNo": 12
+        },
+        {
+          "label": "Bài 13. Vật liệu polymer",
+          "notes": [
+            "Polymer và phụ gia"
+          ],
+          "lessonNo": 13
+        },
+        {
+          "label": "Bài 14. Ôn tập chương 4",
+          "notes": [
+            "Ôn Bài 12: Đại cương về polymer"
+          ],
+          "lessonNo": 14
+        }
+      ],
+      "count": 3
+    },
+    "12-5": {
+      "grade": 12,
+      "chapterNo": 5,
+      "title": "Pin điện và điện phân",
+      "branches": [
+        {
+          "label": "Bài 15. Thế điện cực và nguồn điện hóa học",
+          "notes": [
+            "Khả năng oxi hóa/khử tương đối"
+          ],
+          "lessonNo": 15
+        },
+        {
+          "label": "Bài 16. Điện phân",
+          "notes": [
+            "Dòng điện gây phản ứng không tự diễn biến"
+          ],
+          "lessonNo": 16
+        },
+        {
+          "label": "Bài 17. Ôn tập chương 5",
+          "notes": [
+            "Ôn Bài 15: Thế điện cực và nguồn điện hóa học"
+          ],
+          "lessonNo": 17
+        }
+      ],
+      "count": 3
+    },
+    "12-6": {
+      "grade": 12,
+      "chapterNo": 6,
+      "title": "Đại cương về kim loại",
+      "branches": [
+        {
+          "label": "Bài 18. Cấu tạo và liên kết trong tinh thể kim loại",
+          "notes": [
+            "Ion dương kim loại và electron tự do"
+          ],
+          "lessonNo": 18
+        },
+        {
+          "label": "Bài 19. Tính chất vật lí và tính chất hóa học của kim loại",
+          "notes": [
+            "Dẫn điện, dẫn nhiệt, ánh kim"
+          ],
+          "lessonNo": 19
+        },
+        {
+          "label": "Bài 20. Kim loại trong tự nhiên và phương pháp tách kim loại",
+          "notes": [
+            "Khoáng vật, quặng và kim loại tự do"
+          ],
+          "lessonNo": 20
+        },
+        {
+          "label": "Bài 21. Hợp kim",
+          "notes": [
+            "Vật liệu chứa kim loại và nguyên tố khác"
+          ],
+          "lessonNo": 21
+        },
+        {
+          "label": "Bài 22. Sự ăn mòn kim loại",
+          "notes": [
+            "Oxi hóa kim loại bởi môi trường"
+          ],
+          "lessonNo": 22
+        },
+        {
+          "label": "Bài 23. Ôn tập chương 6",
+          "notes": [
+            "Ôn Bài 18: Cấu tạo và liên kết trong tinh thể kim loại"
+          ],
+          "lessonNo": 23
+        }
+      ],
+      "count": 6
+    },
+    "12-7": {
+      "grade": 12,
+      "chapterNo": 7,
+      "title": "Nguyên tố nhóm IA và nhóm IIA",
+      "branches": [
+        {
+          "label": "Bài 24. Nguyên tố nhóm IA",
+          "notes": [
+            "Có 1 electron hóa trị"
+          ],
+          "lessonNo": 24
+        },
+        {
+          "label": "Bài 25. Nguyên tố nhóm IIA",
+          "notes": [
+            "Có 2 electron hóa trị"
+          ],
+          "lessonNo": 25
+        },
+        {
+          "label": "Bài 26. Ôn tập chương 7",
+          "notes": [
+            "Ôn Bài 24: Nguyên tố nhóm IA"
+          ],
+          "lessonNo": 26
+        }
+      ],
+      "count": 3
+    },
+    "12-8": {
+      "grade": 12,
+      "chapterNo": 8,
+      "title": "Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+      "branches": [
+        {
+          "label": "Bài 27. Đại cương về kim loại chuyển tiếp dãy thứ nhất",
+          "notes": [
+            "Có electron d tham gia cấu trúc"
+          ],
+          "lessonNo": 27
+        },
+        {
+          "label": "Bài 28. Sơ lược về phức chất",
+          "notes": [
+            "Ion/ nguyên tử trung tâm"
+          ],
+          "lessonNo": 28
+        },
+        {
+          "label": "Bài 29. Một số tính chất và ứng dụng của phức chất",
+          "notes": [
+            "Cân bằng tạo phức"
+          ],
+          "lessonNo": 29
+        },
+        {
+          "label": "Bài 30. Ôn tập chương 8",
+          "notes": [
+            "Ôn Bài 27: Đại cương về kim loại chuyển tiếp dãy thứ nhất"
+          ],
+          "lessonNo": 30
+        }
+      ],
+      "count": 4
+    }
+  },
+  "lessons": {
+    "10-1": {
+      "grade": 10,
+      "chapterNo": 1,
+      "lessonNo": 1,
+      "chapter": "Cấu tạo nguyên tử",
+      "title": "Thành phần của nguyên tử",
+      "review": false,
+      "branches": [
+        {
+          "label": "Hạt cơ bản",
+          "notes": [
+            "Proton p: điện tích +1, nằm trong hạt nhân",
+            "Neutron n: điện tích 0, nằm trong hạt nhân"
+          ]
+        },
+        {
+          "label": "Electron",
+          "notes": [
+            "Electron mang điện −1, tạo vỏ nguyên tử",
+            "Khối lượng electron rất nhỏ so với proton"
+          ]
+        },
+        {
+          "label": "Cấu tạo nguyên tử",
+          "notes": [
+            "Hạt nhân quyết định phần lớn khối lượng",
+            "Nguyên tử trung hòa: số p = số e"
+          ]
+        },
+        {
+          "label": "Tính nhanh",
+          "notes": [
+            "Z = số proton",
+            "Số khối A = Z + N"
+          ]
+        }
+      ]
+    },
+    "10-2": {
+      "grade": 10,
+      "chapterNo": 1,
+      "lessonNo": 2,
+      "chapter": "Cấu tạo nguyên tử",
+      "title": "Nguyên tố hóa học",
+      "review": false,
+      "branches": [
+        {
+          "label": "Số hiệu nguyên tử",
+          "notes": [
+            "Z là số proton của nguyên tố",
+            "Nguyên tử trung hòa có Z electron"
+          ]
+        },
+        {
+          "label": "Đồng vị",
+          "notes": [
+            "Cùng Z, khác số neutron",
+            "Khác số khối A"
+          ]
+        },
+        {
+          "label": "Nguyên tử khối",
+          "notes": [
+            "Nguyên tử khối trung bình theo tỉ lệ đồng vị",
+            "Không lấy trung bình đơn giản khi tỉ lệ khác nhau"
+          ]
+        },
+        {
+          "label": "Kí hiệu",
+          "notes": [
+            "Kí hiệu hạt nhân dạng A/Z X",
+            "Xác định p, n, e từ A và Z"
+          ]
+        }
+      ]
+    },
+    "10-3": {
+      "grade": 10,
+      "chapterNo": 1,
+      "lessonNo": 3,
+      "chapter": "Cấu tạo nguyên tử",
+      "title": "Cấu trúc lớp vỏ electron nguyên tử",
+      "review": false,
+      "branches": [
+        {
+          "label": "Lớp và phân lớp",
+          "notes": [
+            "Lớp n; phân lớp s,p,d,f",
+            "Số orbital s:1, p:3, d:5, f:7"
+          ]
+        },
+        {
+          "label": "Cấu hình e",
+          "notes": [
+            "Điền electron theo mức năng lượng",
+            "Kiểm tra nguyên lí Pauli và Hund"
+          ]
+        },
+        {
+          "label": "Orbital nguyên tử",
+          "notes": [
+            "Một orbital chứa tối đa 2 electron",
+            "Electron độc thân ảnh hưởng tính chất"
+          ]
+        },
+        {
+          "label": "Vận dụng",
+          "notes": [
+            "Dự đoán electron hóa trị từ cấu hình",
+            "Kiểm tra ngoại lệ Cr, Cu khi phù hợp"
+          ]
+        }
+      ]
+    },
+    "10-4": {
+      "grade": 10,
+      "chapterNo": 1,
+      "lessonNo": 4,
+      "chapter": "Cấu tạo nguyên tử",
+      "title": "Ôn tập chương 1",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 1: Thành phần của nguyên tử",
+            "Ôn Bài 3: Cấu trúc lớp vỏ electron nguyên tử"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 2: Nguyên tố hóa học"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "10-5": {
+      "grade": 10,
+      "chapterNo": 2,
+      "lessonNo": 5,
+      "chapter": "Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn",
+      "title": "Cấu tạo của bảng tuần hoàn các nguyên tố hóa học",
+      "review": false,
+      "branches": [
+        {
+          "label": "Ô nguyên tố",
+          "notes": [
+            "Số hiệu nguyên tử Z",
+            "Kí hiệu, tên, nguyên tử khối"
+          ]
+        },
+        {
+          "label": "Chu kì",
+          "notes": [
+            "Số thứ tự chu kì liên hệ số lớp e",
+            "Các nguyên tố xếp theo Z tăng dần"
+          ]
+        },
+        {
+          "label": "Nhóm",
+          "notes": [
+            "Các cột có tính chất tương đồng",
+            "Nhóm chính liên hệ electron hóa trị"
+          ]
+        },
+        {
+          "label": "Đọc bảng",
+          "notes": [
+            "Xác định ô, chu kì, nhóm",
+            "Liên hệ vị trí với cấu hình e"
+          ]
+        }
+      ]
+    },
+    "10-6": {
+      "grade": 10,
+      "chapterNo": 2,
+      "lessonNo": 6,
+      "chapter": "Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn",
+      "title": "Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm",
+      "review": false,
+      "branches": [
+        {
+          "label": "Bán kính nguyên tử",
+          "notes": [
+            "Trong chu kì thường giảm theo Z",
+            "Trong nhóm thường tăng từ trên xuống"
+          ]
+        },
+        {
+          "label": "Năng lượng ion hóa",
+          "notes": [
+            "Thường tăng trong chu kì",
+            "Thường giảm theo chiều xuống nhóm"
+          ]
+        },
+        {
+          "label": "Tính kim loại",
+          "notes": [
+            "Trong chu kì thường giảm",
+            "Trong nhóm thường tăng"
+          ]
+        },
+        {
+          "label": "Giải thích",
+          "notes": [
+            "Lực hút hạt nhân hiệu dụng",
+            "Số lớp electron và hiệu ứng chắn"
+          ]
+        }
+      ]
+    },
+    "10-7": {
+      "grade": 10,
+      "chapterNo": 2,
+      "lessonNo": 7,
+      "chapter": "Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn",
+      "title": "Xu hướng biến đổi độ âm điện và một số tính chất của hợp chất trong một chu kì",
+      "review": false,
+      "branches": [
+        {
+          "label": "Độ âm điện",
+          "notes": [
+            "Khả năng hút cặp electron liên kết",
+            "Thường tăng trong chu kì, giảm theo nhóm"
+          ]
+        },
+        {
+          "label": "Oxit cao nhất",
+          "notes": [
+            "Liên hệ số oxi hóa đặc trưng",
+            "Phân biệt oxit acid, base, lưỡng tính"
+          ]
+        },
+        {
+          "label": "Hydroxide",
+          "notes": [
+            "Tính acid-base biến đổi có quy luật",
+            "Không suy từ tính tan một cách máy móc"
+          ]
+        },
+        {
+          "label": "Vận dụng",
+          "notes": [
+            "So sánh nguyên tố cùng chu kì",
+            "Giải thích biến đổi hợp chất"
+          ]
+        }
+      ]
+    },
+    "10-8": {
+      "grade": 10,
+      "chapterNo": 2,
+      "lessonNo": 8,
+      "chapter": "Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn",
+      "title": "Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hóa học",
+      "review": false,
+      "branches": [
+        {
+          "label": "Định luật tuần hoàn",
+          "notes": [
+            "Tính chất biến đổi tuần hoàn theo Z",
+            "Liên hệ cấu hình electron lớp ngoài cùng"
+          ]
+        },
+        {
+          "label": "Vị trí → tính chất",
+          "notes": [
+            "Dự đoán tính kim loại, phi kim",
+            "Dự đoán hợp chất tiêu biểu"
+          ]
+        },
+        {
+          "label": "Cấu tạo → vị trí",
+          "notes": [
+            "Dựa cấu hình xác định chu kì và nhóm",
+            "Phân biệt nguyên tố s,p với d"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "So sánh xu hướng trong chu kì/nhóm",
+            "Kiểm tra ngoại lệ và điều kiện"
+          ]
+        }
+      ]
+    },
+    "10-9": {
+      "grade": 10,
+      "chapterNo": 2,
+      "lessonNo": 9,
+      "chapter": "Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn",
+      "title": "Ôn tập chương 2",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 5: Cấu tạo của bảng tuần hoàn các nguyên tố hóa học",
+            "Ôn Bài 7: Xu hướng biến đổi độ âm điện và một số tính chất của hợp chất trong một chu kì"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 6: Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm",
+            "Ôn Bài 8: Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hóa học"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "10-10": {
+      "grade": 10,
+      "chapterNo": 3,
+      "lessonNo": 10,
+      "chapter": "Liên kết hóa học",
+      "title": "Quy tắc octet",
+      "review": false,
+      "branches": [
+        {
+          "label": "Quy tắc octet",
+          "notes": [
+            "Nhiều nguyên tử đạt lớp ngoài 8e",
+            "Hydrogen thường hướng tới 2e"
+          ]
+        },
+        {
+          "label": "Chia sẻ electron",
+          "notes": [
+            "Góp chung cặp electron khi liên kết cộng hóa trị",
+            "Phân biệt electron dùng chung và tự do"
+          ]
+        },
+        {
+          "label": "Nhường nhận e",
+          "notes": [
+            "Hình thành ion và lực hút tĩnh điện",
+            "Cation/anion có điện tích xác định"
+          ]
+        },
+        {
+          "label": "Giới hạn",
+          "notes": [
+            "Có ngoại lệ thiếu hoặc vượt octet",
+            "Không áp dụng cứng nhắc mọi phân tử"
+          ]
+        }
+      ]
+    },
+    "10-11": {
+      "grade": 10,
+      "chapterNo": 3,
+      "lessonNo": 11,
+      "chapter": "Liên kết hóa học",
+      "title": "Liên kết ion",
+      "review": false,
+      "branches": [
+        {
+          "label": "Hình thành ion",
+          "notes": [
+            "Kim loại thường nhường electron",
+            "Phi kim thường nhận electron"
+          ]
+        },
+        {
+          "label": "Liên kết ion",
+          "notes": [
+            "Lực hút giữa cation và anion",
+            "Tinh thể ion có mạng cấu trúc"
+          ]
+        },
+        {
+          "label": "Tính chất",
+          "notes": [
+            "Nhiệt độ nóng chảy thường cao",
+            "Dẫn điện khi nóng chảy/dung dịch phù hợp"
+          ]
+        },
+        {
+          "label": "Viết công thức",
+          "notes": [
+            "Tổng điện tích bằng 0",
+            "Ví dụ MgCl₂, Al₂O₃"
+          ]
+        }
+      ]
+    },
+    "10-12": {
+      "grade": 10,
+      "chapterNo": 3,
+      "lessonNo": 12,
+      "chapter": "Liên kết hóa học",
+      "title": "Liên kết cộng hóa trị",
+      "review": false,
+      "branches": [
+        {
+          "label": "Liên kết cộng hóa trị",
+          "notes": [
+            "Dùng chung cặp electron",
+            "Liên kết đơn, đôi, ba"
+          ]
+        },
+        {
+          "label": "Phân cực liên kết",
+          "notes": [
+            "Phụ thuộc độ âm điện",
+            "Phân biệt liên kết phân cực và phân tử phân cực"
+          ]
+        },
+        {
+          "label": "Cấu trúc Lewis",
+          "notes": [
+            "Đếm electron hóa trị",
+            "Kiểm tra electron không liên kết"
+          ]
+        },
+        {
+          "label": "Liên kết σ/π",
+          "notes": [
+            "Liên kết đơn: 1 σ",
+            "Liên kết đôi: 1 σ + 1 π; ba: 1 σ + 2 π"
+          ]
+        }
+      ]
+    },
+    "10-13": {
+      "grade": 10,
+      "chapterNo": 3,
+      "lessonNo": 13,
+      "chapter": "Liên kết hóa học",
+      "title": "Liên kết hydrogen và tương tác van der Waals",
+      "review": false,
+      "branches": [
+        {
+          "label": "Liên kết hydrogen",
+          "notes": [
+            "Tương tác H với N, O, F khi có cấu trúc phù hợp",
+            "Ảnh hưởng nhiệt độ sôi và độ tan"
+          ]
+        },
+        {
+          "label": "van der Waals",
+          "notes": [
+            "Tương tác yếu giữa các phân tử",
+            "Phụ thuộc kích thước, độ phân cực"
+          ]
+        },
+        {
+          "label": "So sánh",
+          "notes": [
+            "Phân biệt liên kết trong phân tử và giữa phân tử",
+            "Không coi hydrogen bond là cộng hóa trị"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Giải thích tính chất nước",
+            "So sánh một số chất phân tử"
+          ]
+        }
+      ]
+    },
+    "10-14": {
+      "grade": 10,
+      "chapterNo": 3,
+      "lessonNo": 14,
+      "chapter": "Liên kết hóa học",
+      "title": "Ôn tập chương 3",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 10: Quy tắc octet",
+            "Ôn Bài 12: Liên kết cộng hóa trị"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 11: Liên kết ion",
+            "Ôn Bài 13: Liên kết hydrogen và tương tác van der Waals"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "10-15": {
+      "grade": 10,
+      "chapterNo": 4,
+      "lessonNo": 15,
+      "chapter": "Phản ứng oxi hóa – khử",
+      "title": "Phản ứng oxi hóa – khử",
+      "review": false,
+      "branches": [
+        {
+          "label": "Số oxi hóa",
+          "notes": [
+            "Quy tắc gán số oxi hóa",
+            "Tổng số oxi hóa bằng điện tích hệ"
+          ]
+        },
+        {
+          "label": "Chất oxi hóa/khử",
+          "notes": [
+            "Chất oxi hóa nhận electron",
+            "Chất khử nhường electron"
+          ]
+        },
+        {
+          "label": "Cân bằng phản ứng",
+          "notes": [
+            "Bảo toàn electron trao đổi",
+            "Kiểm tra nguyên tố và điện tích"
+          ]
+        },
+        {
+          "label": "Dấu hiệu",
+          "notes": [
+            "Có biến đổi số oxi hóa",
+            "Không đồng nhất mọi phản ứng trao đổi với oxi hóa-khử"
+          ]
+        }
+      ]
+    },
+    "10-16": {
+      "grade": 10,
+      "chapterNo": 4,
+      "lessonNo": 16,
+      "chapter": "Phản ứng oxi hóa – khử",
+      "title": "Ôn tập chương 4",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 15: Phản ứng oxi hóa – khử"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Tổng hợp kiến thức trọng tâm của chương",
+            "Kết nối các bài học trước khi luyện tập"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "10-17": {
+      "grade": 10,
+      "chapterNo": 5,
+      "lessonNo": 17,
+      "chapter": "Năng lượng hóa học",
+      "title": "Biến thiên enthalpy trong các phản ứng hóa học",
+      "review": false,
+      "branches": [
+        {
+          "label": "Biến thiên enthalpy",
+          "notes": [
+            "ΔrH < 0: tỏa nhiệt; ΔrH > 0: thu nhiệt",
+            "Điều kiện chuẩn cần nêu rõ"
+          ]
+        },
+        {
+          "label": "Nhiệt tạo thành",
+          "notes": [
+            "Chất đơn chất bền có ΔfH° = 0 theo quy ước",
+            "Dùng bảng giá trị ΔfH°"
+          ]
+        },
+        {
+          "label": "Năng lượng liên kết",
+          "notes": [
+            "Năng lượng phá liên kết dương",
+            "Ước tính ΔH theo liên kết bị phá/tạo"
+          ]
+        },
+        {
+          "label": "Định luật Hess",
+          "notes": [
+            "ΔH phụ thuộc trạng thái đầu–cuối",
+            "Kết hợp phương trình nhiệt hóa học"
+          ]
+        }
+      ]
+    },
+    "10-18": {
+      "grade": 10,
+      "chapterNo": 5,
+      "lessonNo": 18,
+      "chapter": "Năng lượng hóa học",
+      "title": "Ôn tập chương 5",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 17: Biến thiên enthalpy trong các phản ứng hóa học"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Tổng hợp kiến thức trọng tâm của chương",
+            "Kết nối các bài học trước khi luyện tập"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "10-19": {
+      "grade": 10,
+      "chapterNo": 6,
+      "lessonNo": 19,
+      "chapter": "Tốc độ phản ứng",
+      "title": "Tốc độ phản ứng",
+      "review": false,
+      "branches": [
+        {
+          "label": "Tốc độ phản ứng",
+          "notes": [
+            "Mức biến đổi nồng độ theo thời gian",
+            "Đơn vị tùy đại lượng đo"
+          ]
+        },
+        {
+          "label": "Yếu tố ảnh hưởng",
+          "notes": [
+            "Nồng độ, nhiệt độ, diện tích tiếp xúc",
+            "Áp suất với hệ khí khi phù hợp"
+          ]
+        },
+        {
+          "label": "Chất xúc tác",
+          "notes": [
+            "Thay đổi đường phản ứng",
+            "Không làm thay đổi cân bằng nhiệt động cuối cùng"
+          ]
+        },
+        {
+          "label": "Thực hành",
+          "notes": [
+            "So sánh tốc độ theo thí nghiệm",
+            "Phân biệt tốc độ trung bình và tức thời"
+          ]
+        }
+      ]
+    },
+    "10-20": {
+      "grade": 10,
+      "chapterNo": 6,
+      "lessonNo": 20,
+      "chapter": "Tốc độ phản ứng",
+      "title": "Ôn tập chương 6",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 19: Tốc độ phản ứng"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Tổng hợp kiến thức trọng tâm của chương",
+            "Kết nối các bài học trước khi luyện tập"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "10-21": {
+      "grade": 10,
+      "chapterNo": 7,
+      "lessonNo": 21,
+      "chapter": "Nguyên tố nhóm halogen",
+      "title": "Nhóm halogen",
+      "review": false,
+      "branches": [
+        {
+          "label": "Nhóm halogen",
+          "notes": [
+            "F, Cl, Br, I thuộc nhóm 17",
+            "Có 7 electron lớp ngoài cùng"
+          ]
+        },
+        {
+          "label": "Tính oxi hóa",
+          "notes": [
+            "Đơn chất halogen nhận electron",
+            "Xu hướng biến đổi theo nhóm"
+          ]
+        },
+        {
+          "label": "Phản ứng",
+          "notes": [
+            "Với kim loại tạo muối halide",
+            "Phản ứng thế halogen khi thuận lợi"
+          ]
+        },
+        {
+          "label": "An toàn",
+          "notes": [
+            "Các halogen có thể độc, ăn mòn",
+            "Chỉ quan sát minh họa/thí nghiệm an toàn"
+          ]
+        }
+      ]
+    },
+    "10-22": {
+      "grade": 10,
+      "chapterNo": 7,
+      "lessonNo": 22,
+      "chapter": "Nguyên tố nhóm halogen",
+      "title": "Hydrogen halide. Muối halide",
+      "review": false,
+      "branches": [
+        {
+          "label": "Hydrogen halide",
+          "notes": [
+            "HX; HF có đặc điểm riêng",
+            "Tính acid trong nước không giống nhau"
+          ]
+        },
+        {
+          "label": "Muối halide",
+          "notes": [
+            "Cl⁻, Br⁻, I⁻ và phản ứng nhận biết",
+            "Kết tủa với Ag⁺ tùy loại"
+          ]
+        },
+        {
+          "label": "Phản ứng",
+          "notes": [
+            "Tính khử của ion halide thay đổi",
+            "Phân biệt với tính oxi hóa halogen"
+          ]
+        },
+        {
+          "label": "Vận dụng",
+          "notes": [
+            "Nhận biết muối halide",
+            "Đối chiếu tính tan AgCl, AgBr, AgI"
+          ]
+        }
+      ]
+    },
+    "10-23": {
+      "grade": 10,
+      "chapterNo": 7,
+      "lessonNo": 23,
+      "chapter": "Nguyên tố nhóm halogen",
+      "title": "Ôn tập chương 7",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 21: Nhóm halogen"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 22: Hydrogen halide. Muối halide"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "11-1": {
+      "grade": 11,
+      "chapterNo": 1,
+      "lessonNo": 1,
+      "chapter": "Cân bằng hóa học",
+      "title": "Khái niệm về cân bằng hóa học",
+      "review": false,
+      "branches": [
+        {
+          "label": "Phản ứng thuận nghịch",
+          "notes": [
+            "Xảy ra theo hai chiều trong điều kiện phù hợp",
+            "Cân bằng có tính động"
+          ]
+        },
+        {
+          "label": "Hằng số cân bằng",
+          "notes": [
+            "Kc biểu diễn từ hoạt độ/nồng độ gần đúng",
+            "Thường bỏ chất rắn tinh khiết trong biểu thức"
+          ]
+        },
+        {
+          "label": "Chuyển dịch cân bằng",
+          "notes": [
+            "Le Chatelier: hệ chống lại tác động",
+            "Xét nhiệt độ, áp suất, nồng độ"
+          ]
+        },
+        {
+          "label": "Lưu ý",
+          "notes": [
+            "Chất xúc tác không đổi giá trị K",
+            "K phụ thuộc nhiệt độ"
+          ]
+        }
+      ]
+    },
+    "11-2": {
+      "grade": 11,
+      "chapterNo": 1,
+      "lessonNo": 2,
+      "chapter": "Cân bằng hóa học",
+      "title": "Cân bằng trong dung dịch nước",
+      "review": false,
+      "branches": [
+        {
+          "label": "Chất điện li",
+          "notes": [
+            "Phân li ion trong nước",
+            "Phân biệt mạnh, yếu, không điện li"
+          ]
+        },
+        {
+          "label": "Acid–base",
+          "notes": [
+            "Brønsted: acid cho H⁺, base nhận H⁺",
+            "Phản ứng trao đổi proton"
+          ]
+        },
+        {
+          "label": "pH và pOH",
+          "notes": [
+            "pH = −log[H₃O⁺] (xấp xỉ dung dịch loãng)",
+            "Ở 25°C, pH + pOH ≈ 14"
+          ]
+        },
+        {
+          "label": "Phản ứng ion",
+          "notes": [
+            "Viết phương trình ion rút gọn",
+            "Bảo toàn nguyên tử và điện tích"
+          ]
+        }
+      ]
+    },
+    "11-3": {
+      "grade": 11,
+      "chapterNo": 1,
+      "lessonNo": 3,
+      "chapter": "Cân bằng hóa học",
+      "title": "Ôn tập chương 1",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 1: Khái niệm về cân bằng hóa học"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 2: Cân bằng trong dung dịch nước"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "11-4": {
+      "grade": 11,
+      "chapterNo": 2,
+      "lessonNo": 4,
+      "chapter": "Nitrogen – Sulfur",
+      "title": "Nitrogen",
+      "review": false,
+      "branches": [
+        {
+          "label": "Cấu tạo nitrogen",
+          "notes": [
+            "N₂ có liên kết ba bền",
+            "Khó phản ứng ở điều kiện thường"
+          ]
+        },
+        {
+          "label": "Tính chất",
+          "notes": [
+            "Tính oxi hóa và tính khử tùy chất phản ứng",
+            "Ví dụ tạo nitride hoặc oxide"
+          ]
+        },
+        {
+          "label": "Trạng thái tự nhiên",
+          "notes": [
+            "N₂ là thành phần chính không khí",
+            "Tham gia chu trình nitrogen"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Môi trường trơ khi phù hợp",
+            "An toàn khi dùng khí lạnh/hóa chất"
+          ]
+        }
+      ]
+    },
+    "11-5": {
+      "grade": 11,
+      "chapterNo": 2,
+      "lessonNo": 5,
+      "chapter": "Nitrogen – Sulfur",
+      "title": "Ammonia. Muối ammonium",
+      "review": false,
+      "branches": [
+        {
+          "label": "Ammonia NH₃",
+          "notes": [
+            "Phân tử hình chóp tam giác",
+            "Có tính base yếu trong nước"
+          ]
+        },
+        {
+          "label": "Muối ammonium",
+          "notes": [
+            "NH₄⁺ có phản ứng với base mạnh",
+            "Có thể giải phóng NH₃"
+          ]
+        },
+        {
+          "label": "Điều chế",
+          "notes": [
+            "Cân bằng Haber: N₂ + 3H₂ ⇌ 2NH₃",
+            "Xét xúc tác, áp suất, nhiệt độ"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Phân bón và công nghiệp",
+            "Kiểm soát khí ammonia gây kích ứng"
+          ]
+        }
+      ]
+    },
+    "11-6": {
+      "grade": 11,
+      "chapterNo": 2,
+      "lessonNo": 6,
+      "chapter": "Nitrogen – Sulfur",
+      "title": "Một số hợp chất của nitrogen với oxygen",
+      "review": false,
+      "branches": [
+        {
+          "label": "Nitrogen oxides",
+          "notes": [
+            "NO và NO₂ có tính chất khác nhau",
+            "NO₂ có màu nâu đỏ"
+          ]
+        },
+        {
+          "label": "Nitric acid",
+          "notes": [
+            "HNO₃ là acid mạnh, chất oxi hóa",
+            "Sản phẩm khử tùy điều kiện"
+          ]
+        },
+        {
+          "label": "Nitrate",
+          "notes": [
+            "Muối NO₃⁻ và phản ứng nhiệt phân",
+            "Cân bằng electron khi phản ứng redox"
+          ]
+        },
+        {
+          "label": "Môi trường",
+          "notes": [
+            "NOₓ liên quan ô nhiễm không khí",
+            "Giải thích mưa acid"
+          ]
+        }
+      ]
+    },
+    "11-7": {
+      "grade": 11,
+      "chapterNo": 2,
+      "lessonNo": 7,
+      "chapter": "Nitrogen – Sulfur",
+      "title": "Sulfur và sulfur dioxide",
+      "review": false,
+      "branches": [
+        {
+          "label": "Sulfur",
+          "notes": [
+            "Nhiều dạng thù hình",
+            "Có nhiều số oxi hóa"
+          ]
+        },
+        {
+          "label": "Sulfur dioxide",
+          "notes": [
+            "SO₂ có tính khử và oxi hóa tùy phản ứng",
+            "Khí độc cần kiểm soát"
+          ]
+        },
+        {
+          "label": "Phản ứng",
+          "notes": [
+            "Đốt sulfur tạo SO₂",
+            "SO₂ tác dụng với dung dịch base"
+          ]
+        },
+        {
+          "label": "Môi trường",
+          "notes": [
+            "Khí SO₂ góp phần gây mưa acid",
+            "Giảm phát thải bằng xử lý khí"
+          ]
+        }
+      ]
+    },
+    "11-8": {
+      "grade": 11,
+      "chapterNo": 2,
+      "lessonNo": 8,
+      "chapter": "Nitrogen – Sulfur",
+      "title": "Sulfuric acid và muối sulfate",
+      "review": false,
+      "branches": [
+        {
+          "label": "Sulfuric acid",
+          "notes": [
+            "H₂SO₄ loãng có tính acid mạnh",
+            "H₂SO₄ đặc có tính háo nước và oxi hóa"
+          ]
+        },
+        {
+          "label": "Muối sulfate",
+          "notes": [
+            "Ion SO₄²⁻ nhận biết qua kết tủa BaSO₄",
+            "Cần xét ion gây nhiễu"
+          ]
+        },
+        {
+          "label": "Sản xuất",
+          "notes": [
+            "Quá trình tiếp xúc công nghiệp",
+            "Cân bằng oxi hóa SO₂ thành SO₃"
+          ]
+        },
+        {
+          "label": "An toàn",
+          "notes": [
+            "Pha loãng: rót acid vào nước",
+            "Không rót nước vào acid đặc"
+          ]
+        }
+      ]
+    },
+    "11-9": {
+      "grade": 11,
+      "chapterNo": 2,
+      "lessonNo": 9,
+      "chapter": "Nitrogen – Sulfur",
+      "title": "Ôn tập chương 2",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 4: Nitrogen",
+            "Ôn Bài 6: Một số hợp chất của nitrogen với oxygen",
+            "Ôn Bài 8: Sulfuric acid và muối sulfate"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 5: Ammonia. Muối ammonium",
+            "Ôn Bài 7: Sulfur và sulfur dioxide"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "11-10": {
+      "grade": 11,
+      "chapterNo": 3,
+      "lessonNo": 10,
+      "chapter": "Đại cương về hóa học hữu cơ",
+      "title": "Hợp chất hữu cơ và hóa học hữu cơ",
+      "review": false,
+      "branches": [
+        {
+          "label": "Hợp chất hữu cơ",
+          "notes": [
+            "Hợp chất của carbon (có ngoại lệ quy ước)",
+            "Phân biệt hợp chất vô cơ của carbon"
+          ]
+        },
+        {
+          "label": "Đặc điểm",
+          "notes": [
+            "Liên kết cộng hóa trị chủ yếu",
+            "Có nhóm chức và dãy đồng đẳng"
+          ]
+        },
+        {
+          "label": "Phân loại",
+          "notes": [
+            "Hydrocarbon và dẫn xuất",
+            "Nhóm chức quyết định tính chất"
+          ]
+        },
+        {
+          "label": "Học tập",
+          "notes": [
+            "Xác định công thức, tên gọi",
+            "Liên hệ ứng dụng thực tế"
+          ]
+        }
+      ]
+    },
+    "11-11": {
+      "grade": 11,
+      "chapterNo": 3,
+      "lessonNo": 11,
+      "chapter": "Đại cương về hóa học hữu cơ",
+      "title": "Phương pháp tách biệt và tinh chế hợp chất hữu cơ",
+      "review": false,
+      "branches": [
+        {
+          "label": "Tách biệt",
+          "notes": [
+            "Chiết dựa độ tan khác nhau",
+            "Chưng cất dựa nhiệt độ sôi"
+          ]
+        },
+        {
+          "label": "Tinh chế",
+          "notes": [
+            "Kết tinh theo độ tan",
+            "Sắc ký tách theo pha tĩnh/động"
+          ]
+        },
+        {
+          "label": "Chọn phương pháp",
+          "notes": [
+            "Dựa tính chất hỗn hợp",
+            "Phân biệt lọc với chiết"
+          ]
+        },
+        {
+          "label": "Thực hành",
+          "notes": [
+            "An toàn dung môi và nhiệt",
+            "Theo dõi độ tinh khiết sản phẩm"
+          ]
+        }
+      ]
+    },
+    "11-12": {
+      "grade": 11,
+      "chapterNo": 3,
+      "lessonNo": 12,
+      "chapter": "Đại cương về hóa học hữu cơ",
+      "title": "Công thức phân tử hợp chất hữu cơ",
+      "review": false,
+      "branches": [
+        {
+          "label": "Công thức đơn giản",
+          "notes": [
+            "Tỉ lệ nguyên tử tối giản",
+            "Từ phần trăm khối lượng/đốt cháy"
+          ]
+        },
+        {
+          "label": "Công thức phân tử",
+          "notes": [
+            "Cần biết phân tử khối",
+            "Là bội của công thức đơn giản"
+          ]
+        },
+        {
+          "label": "Phân tích định lượng",
+          "notes": [
+            "Bảo toàn C,H,O,N khi phù hợp",
+            "Kiểm tra số nguyên tử nguyên tố"
+          ]
+        },
+        {
+          "label": "Kiểm tra",
+          "notes": [
+            "Chỉ số nguyên dương phù hợp",
+            "Không xác định duy nhất nếu thiếu M"
+          ]
+        }
+      ]
+    },
+    "11-13": {
+      "grade": 11,
+      "chapterNo": 3,
+      "lessonNo": 13,
+      "chapter": "Đại cương về hóa học hữu cơ",
+      "title": "Cấu tạo hóa học hợp chất hữu cơ",
+      "review": false,
+      "branches": [
+        {
+          "label": "Công thức cấu tạo",
+          "notes": [
+            "Biểu diễn liên kết giữa các nguyên tử",
+            "Phân biệt CTPT và CTCT"
+          ]
+        },
+        {
+          "label": "Đồng phân",
+          "notes": [
+            "Cùng CTPT, cấu tạo khác",
+            "Có thể khác nhóm chức/vị trí"
+          ]
+        },
+        {
+          "label": "Thuyết cấu tạo",
+          "notes": [
+            "Tính chất phụ thuộc thành phần và cấu tạo",
+            "Nhóm nguyên tử ảnh hưởng lẫn nhau"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Viết các CTCT có thể",
+            "Kiểm tra hóa trị carbon"
+          ]
+        }
+      ]
+    },
+    "11-14": {
+      "grade": 11,
+      "chapterNo": 3,
+      "lessonNo": 14,
+      "chapter": "Đại cương về hóa học hữu cơ",
+      "title": "Ôn tập chương 3",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 10: Hợp chất hữu cơ và hóa học hữu cơ",
+            "Ôn Bài 12: Công thức phân tử hợp chất hữu cơ"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 11: Phương pháp tách biệt và tinh chế hợp chất hữu cơ",
+            "Ôn Bài 13: Cấu tạo hóa học hợp chất hữu cơ"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "11-15": {
+      "grade": 11,
+      "chapterNo": 4,
+      "lessonNo": 15,
+      "chapter": "Hydrocarbon",
+      "title": "Alkane",
+      "review": false,
+      "branches": [
+        {
+          "label": "Alkane",
+          "notes": [
+            "Hydrocarbon no mạch hở: CnH₂n+₂",
+            "Liên kết đơn σ"
+          ]
+        },
+        {
+          "label": "Danh pháp",
+          "notes": [
+            "Chọn mạch carbon dài nhất",
+            "Đánh số và gọi nhánh phù hợp"
+          ]
+        },
+        {
+          "label": "Tính chất",
+          "notes": [
+            "Phản ứng thế halogen",
+            "Phản ứng cháy và cracking"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Nhiên liệu và nguyên liệu hóa dầu",
+            "Tính toán đốt cháy"
+          ]
+        }
+      ]
+    },
+    "11-16": {
+      "grade": 11,
+      "chapterNo": 4,
+      "lessonNo": 16,
+      "chapter": "Hydrocarbon",
+      "title": "Hydrocarbon không no",
+      "review": false,
+      "branches": [
+        {
+          "label": "Alkene/alkyne",
+          "notes": [
+            "Liên kết đôi hoặc ba",
+            "Có liên kết π dễ tham gia phản ứng cộng"
+          ]
+        },
+        {
+          "label": "Danh pháp",
+          "notes": [
+            "Xác định mạch chứa liên kết bội",
+            "Đánh số ưu tiên liên kết bội"
+          ]
+        },
+        {
+          "label": "Phản ứng",
+          "notes": [
+            "Cộng H₂, halogen, HX trong điều kiện phù hợp",
+            "Trùng hợp alkene"
+          ]
+        },
+        {
+          "label": "Nhận biết",
+          "notes": [
+            "Làm mất màu brom khi phù hợp",
+            "Phân biệt tính chất alkene và alkyne"
+          ]
+        }
+      ]
+    },
+    "11-17": {
+      "grade": 11,
+      "chapterNo": 4,
+      "lessonNo": 17,
+      "chapter": "Hydrocarbon",
+      "title": "Arene (hydrocarbon thơm)",
+      "review": false,
+      "branches": [
+        {
+          "label": "Arene",
+          "notes": [
+            "Vòng benzene có hệ π liên hợp",
+            "Tính bền thơm"
+          ]
+        },
+        {
+          "label": "Phản ứng thế",
+          "notes": [
+            "Halogen hóa/nitro hóa khi có xúc tác",
+            "Khác phản ứng cộng alkene"
+          ]
+        },
+        {
+          "label": "Đồng đẳng",
+          "notes": [
+            "Benzene, toluene, alkylbenzene",
+            "Nhóm thế ảnh hưởng vị trí phản ứng"
+          ]
+        },
+        {
+          "label": "An toàn",
+          "notes": [
+            "Benzene độc, không dùng tùy tiện",
+            "Ưu tiên mô phỏng"
+          ]
+        }
+      ]
+    },
+    "11-18": {
+      "grade": 11,
+      "chapterNo": 4,
+      "lessonNo": 18,
+      "chapter": "Hydrocarbon",
+      "title": "Ôn tập chương 4",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 15: Alkane",
+            "Ôn Bài 17: Arene (hydrocarbon thơm)"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 16: Hydrocarbon không no"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "11-19": {
+      "grade": 11,
+      "chapterNo": 5,
+      "lessonNo": 19,
+      "chapter": "Dẫn xuất halogen – Alcohol – Phenol",
+      "title": "Dẫn xuất halogen",
+      "review": false,
+      "branches": [
+        {
+          "label": "Dẫn xuất halogen",
+          "notes": [
+            "Halogen thay thế H trong hydrocarbon",
+            "Phân loại theo gốc hydrocarbon"
+          ]
+        },
+        {
+          "label": "Phản ứng thế",
+          "notes": [
+            "Thủy phân trong điều kiện thích hợp",
+            "Tạo alcohol hoặc sản phẩm khác"
+          ]
+        },
+        {
+          "label": "Phản ứng tách",
+          "notes": [
+            "Tách HX khi có điều kiện",
+            "Có thể hình thành alkene"
+          ]
+        },
+        {
+          "label": "Ứng dụng và môi trường",
+          "notes": [
+            "Một số dung môi, polymer",
+            "Lưu ý độc tính/tác động môi trường"
+          ]
+        }
+      ]
+    },
+    "11-20": {
+      "grade": 11,
+      "chapterNo": 5,
+      "lessonNo": 20,
+      "chapter": "Dẫn xuất halogen – Alcohol – Phenol",
+      "title": "Alcohol",
+      "review": false,
+      "branches": [
+        {
+          "label": "Alcohol",
+          "notes": [
+            "Nhóm chức –OH gắn carbon no",
+            "Phân biệt alcohol và phenol"
+          ]
+        },
+        {
+          "label": "Tính chất",
+          "notes": [
+            "Tác dụng với Na giải phóng H₂",
+            "Oxi hóa tùy alcohol bậc I/II"
+          ]
+        },
+        {
+          "label": "Phản ứng",
+          "notes": [
+            "Tách nước trong điều kiện phù hợp",
+            "Ester hóa với acid"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Ethanol, glycerol",
+            "An toàn và tác hại lạm dụng ethanol"
+          ]
+        }
+      ]
+    },
+    "11-21": {
+      "grade": 11,
+      "chapterNo": 5,
+      "lessonNo": 21,
+      "chapter": "Dẫn xuất halogen – Alcohol – Phenol",
+      "title": "Phenol",
+      "review": false,
+      "branches": [
+        {
+          "label": "Phenol",
+          "notes": [
+            "Nhóm –OH liên kết trực tiếp vòng thơm",
+            "Tính acid yếu hơn acid carboxylic"
+          ]
+        },
+        {
+          "label": "Phản ứng",
+          "notes": [
+            "Với NaOH tạo phenolate",
+            "Phản ứng thế brom ở vòng"
+          ]
+        },
+        {
+          "label": "Phân biệt",
+          "notes": [
+            "Phenol khác alcohol",
+            "Có thể nhận biết bằng nước brom"
+          ]
+        },
+        {
+          "label": "An toàn",
+          "notes": [
+            "Phenol độc, gây bỏng",
+            "Chỉ xử lý trong điều kiện chuyên môn"
+          ]
+        }
+      ]
+    },
+    "11-22": {
+      "grade": 11,
+      "chapterNo": 5,
+      "lessonNo": 22,
+      "chapter": "Dẫn xuất halogen – Alcohol – Phenol",
+      "title": "Ôn tập chương 5",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 19: Dẫn xuất halogen",
+            "Ôn Bài 21: Phenol"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 20: Alcohol"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "11-23": {
+      "grade": 11,
+      "chapterNo": 6,
+      "lessonNo": 23,
+      "chapter": "Hợp chất carbonyl – Carboxylic acid",
+      "title": "Hợp chất carbonyl",
+      "review": false,
+      "branches": [
+        {
+          "label": "Hợp chất carbonyl",
+          "notes": [
+            "Aldehyde R–CHO; ketone R–CO–R′",
+            "Chứa nhóm C=O"
+          ]
+        },
+        {
+          "label": "Tính chất",
+          "notes": [
+            "Phản ứng cộng ở carbonyl",
+            "Aldehyde dễ bị oxi hóa hơn ketone thông thường"
+          ]
+        },
+        {
+          "label": "Nhận biết",
+          "notes": [
+            "Phản ứng Tollens với aldehyde phù hợp",
+            "Kiểm tra điều kiện và ngoại lệ"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Formaldehyde, acetone",
+            "Lưu ý an toàn hóa chất"
+          ]
+        }
+      ]
+    },
+    "11-24": {
+      "grade": 11,
+      "chapterNo": 6,
+      "lessonNo": 24,
+      "chapter": "Hợp chất carbonyl – Carboxylic acid",
+      "title": "Carboxylic acid",
+      "review": false,
+      "branches": [
+        {
+          "label": "Carboxylic acid",
+          "notes": [
+            "Chứa nhóm –COOH",
+            "Có tính acid yếu"
+          ]
+        },
+        {
+          "label": "Tính chất acid",
+          "notes": [
+            "Phản ứng với base, carbonate",
+            "Tạo muối carboxylate"
+          ]
+        },
+        {
+          "label": "Phản ứng",
+          "notes": [
+            "Ester hóa với alcohol",
+            "Phản ứng phụ thuộc cấu tạo"
+          ]
+        },
+        {
+          "label": "Vận dụng",
+          "notes": [
+            "Tính toán trung hòa",
+            "Phân biệt acid carboxylic và phenol"
+          ]
+        }
+      ]
+    },
+    "11-25": {
+      "grade": 11,
+      "chapterNo": 6,
+      "lessonNo": 25,
+      "chapter": "Hợp chất carbonyl – Carboxylic acid",
+      "title": "Ôn tập chương 6",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 23: Hợp chất carbonyl"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 24: Carboxylic acid"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "12-1": {
+      "grade": 12,
+      "chapterNo": 1,
+      "lessonNo": 1,
+      "chapter": "Ester – Lipid",
+      "title": "Ester – Lipid",
+      "review": false,
+      "branches": [
+        {
+          "label": "Ester",
+          "notes": [
+            "Nhóm chức –COO– giữa hai gốc",
+            "Phản ứng thủy phân acid/base"
+          ]
+        },
+        {
+          "label": "Lipid",
+          "notes": [
+            "Chất béo chủ yếu là triacylglycerol",
+            "Acid béo no/không no"
+          ]
+        },
+        {
+          "label": "Xà phòng hóa",
+          "notes": [
+            "Chất béo + kiềm → glycerol + muối acid béo",
+            "Bảo toàn nhóm ester"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Dầu mỡ, thực phẩm",
+            "Liên hệ chế độ dinh dưỡng"
+          ]
+        }
+      ]
+    },
+    "12-2": {
+      "grade": 12,
+      "chapterNo": 1,
+      "lessonNo": 2,
+      "chapter": "Ester – Lipid",
+      "title": "Xà phòng và chất giặt rửa",
+      "review": false,
+      "branches": [
+        {
+          "label": "Chất giặt rửa",
+          "notes": [
+            "Chất hoạt động bề mặt có đầu ưa nước/đuôi kị nước",
+            "Hỗ trợ phân tán vết dầu"
+          ]
+        },
+        {
+          "label": "Xà phòng",
+          "notes": [
+            "Muối Na⁺/K⁺ của acid béo",
+            "Giảm hiệu quả trong nước cứng"
+          ]
+        },
+        {
+          "label": "Chất giặt tổng hợp",
+          "notes": [
+            "Nhiều loại sulfonate/sulfate",
+            "Có thể hoạt động tốt hơn ở nước cứng"
+          ]
+        },
+        {
+          "label": "Môi trường",
+          "notes": [
+            "Dùng lượng hợp lý",
+            "Chọn sản phẩm ít gây ô nhiễm"
+          ]
+        }
+      ]
+    },
+    "12-3": {
+      "grade": 12,
+      "chapterNo": 1,
+      "lessonNo": 3,
+      "chapter": "Ester – Lipid",
+      "title": "Ôn tập chương 1",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 1: Ester – Lipid"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 2: Xà phòng và chất giặt rửa"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "12-4": {
+      "grade": 12,
+      "chapterNo": 2,
+      "lessonNo": 4,
+      "chapter": "Carbohydrate",
+      "title": "Giới thiệu về carbohydrate. Glucose và fructose",
+      "review": false,
+      "branches": [
+        {
+          "label": "Monosaccharide",
+          "notes": [
+            "Glucose và fructose C₆H₁₂O₆",
+            "Là đồng phân cấu tạo"
+          ]
+        },
+        {
+          "label": "Cấu trúc",
+          "notes": [
+            "Glucose có nhóm aldehyde dạng mạch hở",
+            "Fructose là ketose dạng mạch hở"
+          ]
+        },
+        {
+          "label": "Tính chất",
+          "notes": [
+            "Có nhiều nhóm –OH",
+            "Phản ứng tạo phức Cu(OH)₂; phản ứng khử tùy môi trường"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Chuyển hóa năng lượng",
+            "Nhận biết bằng phản ứng có kiểm soát"
+          ]
+        }
+      ]
+    },
+    "12-5": {
+      "grade": 12,
+      "chapterNo": 2,
+      "lessonNo": 5,
+      "chapter": "Carbohydrate",
+      "title": "Saccharose và maltose",
+      "review": false,
+      "branches": [
+        {
+          "label": "Disaccharide",
+          "notes": [
+            "Saccharose và maltose đều C₁₂H₂₂O₁₁",
+            "Khác kiểu liên kết glycosidic"
+          ]
+        },
+        {
+          "label": "Saccharose",
+          "notes": [
+            "Không có nhóm hemiacetal tự do",
+            "Không có tính khử trong thử nghiệm thông thường"
+          ]
+        },
+        {
+          "label": "Maltose",
+          "notes": [
+            "Có đầu khử",
+            "Có thể tham gia phản ứng tráng bạc khi phù hợp"
+          ]
+        },
+        {
+          "label": "Thủy phân",
+          "notes": [
+            "Tạo monosaccharide tương ứng",
+            "Kiểm tra sản phẩm và hệ số"
+          ]
+        }
+      ]
+    },
+    "12-6": {
+      "grade": 12,
+      "chapterNo": 2,
+      "lessonNo": 6,
+      "chapter": "Carbohydrate",
+      "title": "Tinh bột và cellulose",
+      "review": false,
+      "branches": [
+        {
+          "label": "Polysaccharide",
+          "notes": [
+            "Tinh bột và cellulose: (C₆H₁₀O₅)n",
+            "Khác cấu trúc và liên kết glycosidic"
+          ]
+        },
+        {
+          "label": "Tinh bột",
+          "notes": [
+            "Amylose và amylopectin",
+            "Tạo màu xanh tím với iodine"
+          ]
+        },
+        {
+          "label": "Cellulose",
+          "notes": [
+            "Mạch β-1,4-glycosidic",
+            "Cấu trúc sợi bền"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Tinh bột dự trữ năng lượng",
+            "Cellulose sản xuất giấy, sợi"
+          ]
+        }
+      ]
+    },
+    "12-7": {
+      "grade": 12,
+      "chapterNo": 2,
+      "lessonNo": 7,
+      "chapter": "Carbohydrate",
+      "title": "Ôn tập chương 2",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 4: Giới thiệu về carbohydrate. Glucose và fructose",
+            "Ôn Bài 6: Tinh bột và cellulose"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 5: Saccharose và maltose"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "12-8": {
+      "grade": 12,
+      "chapterNo": 3,
+      "lessonNo": 8,
+      "chapter": "Hợp chất chứa nitrogen",
+      "title": "Amine",
+      "review": false,
+      "branches": [
+        {
+          "label": "Amine",
+          "notes": [
+            "Dẫn xuất NH₃, nhóm amine",
+            "Phân loại bậc I, II, III"
+          ]
+        },
+        {
+          "label": "Tính base",
+          "notes": [
+            "Cặp electron tự do trên N",
+            "Bị ảnh hưởng bởi nhóm thế và dung môi"
+          ]
+        },
+        {
+          "label": "Phản ứng",
+          "notes": [
+            "Tác dụng acid tạo muối ammonium",
+            "Một số phản ứng riêng amine thơm"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Nguyên liệu tổng hợp",
+            "An toàn, độc tính theo chất"
+          ]
+        }
+      ]
+    },
+    "12-9": {
+      "grade": 12,
+      "chapterNo": 3,
+      "lessonNo": 9,
+      "chapter": "Hợp chất chứa nitrogen",
+      "title": "Amino acid và peptide",
+      "review": false,
+      "branches": [
+        {
+          "label": "Amino acid",
+          "notes": [
+            "Có –NH₂ và –COOH",
+            "Lưỡng tính acid/base"
+          ]
+        },
+        {
+          "label": "Peptide",
+          "notes": [
+            "Liên kết –CO–NH– giữa amino acid",
+            "Dipeptide, tripeptide và polypeptide"
+          ]
+        },
+        {
+          "label": "Phản ứng",
+          "notes": [
+            "Thủy phân liên kết peptide",
+            "Phản ứng màu biuret với số liên kết thích hợp"
+          ]
+        },
+        {
+          "label": "Vận dụng",
+          "notes": [
+            "Xác định đầu N, đầu C",
+            "Đếm mắt xích và phân tử nước tách"
+          ]
+        }
+      ]
+    },
+    "12-10": {
+      "grade": 12,
+      "chapterNo": 3,
+      "lessonNo": 10,
+      "chapter": "Hợp chất chứa nitrogen",
+      "title": "Protein và enzyme",
+      "review": false,
+      "branches": [
+        {
+          "label": "Protein",
+          "notes": [
+            "Đại phân tử tạo từ amino acid",
+            "Các bậc cấu trúc"
+          ]
+        },
+        {
+          "label": "Biến tính",
+          "notes": [
+            "Nhiệt độ, pH có thể phá vỡ cấu trúc",
+            "Ảnh hưởng hoạt tính"
+          ]
+        },
+        {
+          "label": "Enzyme",
+          "notes": [
+            "Xúc tác sinh học có tính chọn lọc",
+            "Hoạt tính phụ thuộc điều kiện"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Dinh dưỡng và công nghệ sinh học",
+            "Bảo quản phù hợp"
+          ]
+        }
+      ]
+    },
+    "12-11": {
+      "grade": 12,
+      "chapterNo": 3,
+      "lessonNo": 11,
+      "chapter": "Hợp chất chứa nitrogen",
+      "title": "Ôn tập chương 3",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 8: Amine",
+            "Ôn Bài 10: Protein và enzyme"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 9: Amino acid và peptide"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "12-12": {
+      "grade": 12,
+      "chapterNo": 4,
+      "lessonNo": 12,
+      "chapter": "Polymer",
+      "title": "Đại cương về polymer",
+      "review": false,
+      "branches": [
+        {
+          "label": "Polymer",
+          "notes": [
+            "Phân tử khối lớn gồm nhiều mắt xích",
+            "Độ polymer hóa n"
+          ]
+        },
+        {
+          "label": "Điều chế",
+          "notes": [
+            "Trùng hợp từ monomer có liên kết phù hợp",
+            "Trùng ngưng tạo sản phẩm phụ khi tương ứng"
+          ]
+        },
+        {
+          "label": "Phân loại",
+          "notes": [
+            "Polymer thiên nhiên/tổng hợp",
+            "Nhựa, cao su, tơ"
+          ]
+        },
+        {
+          "label": "Vận dụng",
+          "notes": [
+            "Viết mắt xích lặp lại",
+            "Liên hệ đơn vị cấu tạo với monomer"
+          ]
+        }
+      ]
+    },
+    "12-13": {
+      "grade": 12,
+      "chapterNo": 4,
+      "lessonNo": 13,
+      "chapter": "Polymer",
+      "title": "Vật liệu polymer",
+      "review": false,
+      "branches": [
+        {
+          "label": "Chất dẻo",
+          "notes": [
+            "Polymer và phụ gia",
+            "Tính dẻo theo cấu trúc"
+          ]
+        },
+        {
+          "label": "Cao su",
+          "notes": [
+            "Tính đàn hồi",
+            "Lưu hóa làm thay đổi mạng lưới"
+          ]
+        },
+        {
+          "label": "Tơ sợi",
+          "notes": [
+            "Tơ thiên nhiên, nhân tạo, tổng hợp",
+            "Đặc tính cơ học/tác dụng hóa chất"
+          ]
+        },
+        {
+          "label": "Môi trường",
+          "notes": [
+            "Phân loại, tái chế phù hợp",
+            "Hạn chế vi nhựa"
+          ]
+        }
+      ]
+    },
+    "12-14": {
+      "grade": 12,
+      "chapterNo": 4,
+      "lessonNo": 14,
+      "chapter": "Polymer",
+      "title": "Ôn tập chương 4",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 12: Đại cương về polymer"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 13: Vật liệu polymer"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "12-15": {
+      "grade": 12,
+      "chapterNo": 5,
+      "lessonNo": 15,
+      "chapter": "Pin điện và điện phân",
+      "title": "Thế điện cực và nguồn điện hóa học",
+      "review": false,
+      "branches": [
+        {
+          "label": "Thế điện cực",
+          "notes": [
+            "Khả năng oxi hóa/khử tương đối",
+            "So sánh bằng thế điện cực chuẩn"
+          ]
+        },
+        {
+          "label": "Pin điện hóa",
+          "notes": [
+            "Anode xảy ra oxi hóa",
+            "Cathode xảy ra khử"
+          ]
+        },
+        {
+          "label": "Suất điện động",
+          "notes": [
+            "E°pin = E°cathode − E°anode",
+            "Điều kiện chuẩn của bảng giá trị"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Pin Galvani chuyển hóa năng lượng hóa học",
+            "Dự đoán chiều tự diễn biến khi phù hợp"
+          ]
+        }
+      ]
+    },
+    "12-16": {
+      "grade": 12,
+      "chapterNo": 5,
+      "lessonNo": 16,
+      "chapter": "Pin điện và điện phân",
+      "title": "Điện phân",
+      "review": false,
+      "branches": [
+        {
+          "label": "Điện phân",
+          "notes": [
+            "Dòng điện gây phản ứng không tự diễn biến",
+            "Anode: oxi hóa, cathode: khử"
+          ]
+        },
+        {
+          "label": "Thứ tự phóng điện",
+          "notes": [
+            "Xét chất và dung môi",
+            "Cần nêu môi trường, điện cực"
+          ]
+        },
+        {
+          "label": "Định luật Faraday",
+          "notes": [
+            "n(e) = It/F",
+            "Tính khối lượng/thể tích sản phẩm"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Mạ điện, tinh luyện",
+            "An toàn nguồn điện, hóa chất"
+          ]
+        }
+      ]
+    },
+    "12-17": {
+      "grade": 12,
+      "chapterNo": 5,
+      "lessonNo": 17,
+      "chapter": "Pin điện và điện phân",
+      "title": "Ôn tập chương 5",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 15: Thế điện cực và nguồn điện hóa học"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 16: Điện phân"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "12-18": {
+      "grade": 12,
+      "chapterNo": 6,
+      "lessonNo": 18,
+      "chapter": "Đại cương về kim loại",
+      "title": "Cấu tạo và liên kết trong tinh thể kim loại",
+      "review": false,
+      "branches": [
+        {
+          "label": "Mạng tinh thể",
+          "notes": [
+            "Ion dương kim loại và electron tự do",
+            "Liên kết kim loại"
+          ]
+        },
+        {
+          "label": "Kiểu mạng",
+          "notes": [
+            "Lập phương tâm khối, tâm diện, lục phương",
+            "Tính chất phụ thuộc cấu trúc"
+          ]
+        },
+        {
+          "label": "Electron tự do",
+          "notes": [
+            "Giải thích dẫn điện, dẫn nhiệt",
+            "Tính dẻo và ánh kim"
+          ]
+        },
+        {
+          "label": "Liên hệ",
+          "notes": [
+            "So sánh liên kết kim loại với ion/cộng hóa trị",
+            "Nhận biết chất kim loại"
+          ]
+        }
+      ]
+    },
+    "12-19": {
+      "grade": 12,
+      "chapterNo": 6,
+      "lessonNo": 19,
+      "chapter": "Đại cương về kim loại",
+      "title": "Tính chất vật lí và tính chất hóa học của kim loại",
+      "review": false,
+      "branches": [
+        {
+          "label": "Tính chất vật lí",
+          "notes": [
+            "Dẫn điện, dẫn nhiệt, ánh kim",
+            "Dẻo và độ cứng khác nhau"
+          ]
+        },
+        {
+          "label": "Tính khử",
+          "notes": [
+            "Kim loại thường nhường electron",
+            "Dãy điện hóa hỗ trợ dự đoán"
+          ]
+        },
+        {
+          "label": "Phản ứng",
+          "notes": [
+            "Với phi kim, acid, nước, muối khi thích hợp",
+            "Không áp dụng quy tắc một cách máy móc"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Chọn vật liệu theo tính chất",
+            "An toàn khi phản ứng kim loại hoạt động"
+          ]
+        }
+      ]
+    },
+    "12-20": {
+      "grade": 12,
+      "chapterNo": 6,
+      "lessonNo": 20,
+      "chapter": "Đại cương về kim loại",
+      "title": "Kim loại trong tự nhiên và phương pháp tách kim loại",
+      "review": false,
+      "branches": [
+        {
+          "label": "Kim loại tự nhiên",
+          "notes": [
+            "Khoáng vật, quặng và kim loại tự do",
+            "Độ hoạt động quyết định phương pháp"
+          ]
+        },
+        {
+          "label": "Nhiệt luyện",
+          "notes": [
+            "Khử oxit bằng C, CO, H₂ hay kim loại",
+            "Chỉ phù hợp nhóm kim loại tương ứng"
+          ]
+        },
+        {
+          "label": "Thủy luyện",
+          "notes": [
+            "Chuyển vào dung dịch rồi thu kim loại",
+            "Cần xét phản ứng phụ"
+          ]
+        },
+        {
+          "label": "Điện phân",
+          "notes": [
+            "Điện phân nóng chảy với kim loại hoạt động mạnh",
+            "Tinh luyện điện hóa"
+          ]
+        }
+      ]
+    },
+    "12-21": {
+      "grade": 12,
+      "chapterNo": 6,
+      "lessonNo": 21,
+      "chapter": "Đại cương về kim loại",
+      "title": "Hợp kim",
+      "review": false,
+      "branches": [
+        {
+          "label": "Hợp kim",
+          "notes": [
+            "Vật liệu chứa kim loại và nguyên tố khác",
+            "Có thể khác tính chất kim loại nguyên chất"
+          ]
+        },
+        {
+          "label": "Tính chất",
+          "notes": [
+            "Độ bền, độ cứng, chống ăn mòn",
+            "Phụ thuộc thành phần và cấu trúc"
+          ]
+        },
+        {
+          "label": "Ví dụ",
+          "notes": [
+            "Thép, gang, đồng thau, đồng thanh",
+            "Phân biệt theo thành phần"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Chọn vật liệu theo yêu cầu",
+            "Tái chế vật liệu"
+          ]
+        }
+      ]
+    },
+    "12-22": {
+      "grade": 12,
+      "chapterNo": 6,
+      "lessonNo": 22,
+      "chapter": "Đại cương về kim loại",
+      "title": "Sự ăn mòn kim loại",
+      "review": false,
+      "branches": [
+        {
+          "label": "Ăn mòn hóa học",
+          "notes": [
+            "Oxi hóa kim loại bởi môi trường",
+            "Không nhất thiết tạo pin điện hóa"
+          ]
+        },
+        {
+          "label": "Ăn mòn điện hóa",
+          "notes": [
+            "Có điện cực khác thế và chất điện li",
+            "Vùng anode kim loại bị oxi hóa"
+          ]
+        },
+        {
+          "label": "Yếu tố ảnh hưởng",
+          "notes": [
+            "Độ ẩm, muối, tiếp xúc hai kim loại",
+            "Diện tích tiếp xúc"
+          ]
+        },
+        {
+          "label": "Bảo vệ",
+          "notes": [
+            "Sơn/phủ, dùng hợp kim phù hợp",
+            "Bảo vệ điện hóa bằng kim loại hi sinh"
+          ]
+        }
+      ]
+    },
+    "12-23": {
+      "grade": 12,
+      "chapterNo": 6,
+      "lessonNo": 23,
+      "chapter": "Đại cương về kim loại",
+      "title": "Ôn tập chương 6",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 18: Cấu tạo và liên kết trong tinh thể kim loại",
+            "Ôn Bài 20: Kim loại trong tự nhiên và phương pháp tách kim loại",
+            "Ôn Bài 22: Sự ăn mòn kim loại"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 19: Tính chất vật lí và tính chất hóa học của kim loại",
+            "Ôn Bài 21: Hợp kim"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "12-24": {
+      "grade": 12,
+      "chapterNo": 7,
+      "lessonNo": 24,
+      "chapter": "Nguyên tố nhóm IA và nhóm IIA",
+      "title": "Nguyên tố nhóm IA",
+      "review": false,
+      "branches": [
+        {
+          "label": "Nhóm IA",
+          "notes": [
+            "Có 1 electron hóa trị",
+            "Tính khử mạnh"
+          ]
+        },
+        {
+          "label": "Tính chất",
+          "notes": [
+            "Phản ứng mạnh với nước (trừ điều kiện đặc biệt)",
+            "Tạo hydroxide có tính base mạnh"
+          ]
+        },
+        {
+          "label": "Hợp chất",
+          "notes": [
+            "NaCl, NaOH, Na₂CO₃, NaHCO₃",
+            "Nhận biết/ứng dụng"
+          ]
+        },
+        {
+          "label": "An toàn",
+          "notes": [
+            "Không cho kim loại kiềm tiếp xúc nước tùy tiện",
+            "Bảo quản chuyên dụng"
+          ]
+        }
+      ]
+    },
+    "12-25": {
+      "grade": 12,
+      "chapterNo": 7,
+      "lessonNo": 25,
+      "chapter": "Nguyên tố nhóm IA và nhóm IIA",
+      "title": "Nguyên tố nhóm IIA",
+      "review": false,
+      "branches": [
+        {
+          "label": "Nhóm IIA",
+          "notes": [
+            "Có 2 electron hóa trị",
+            "Thường tạo ion M²⁺"
+          ]
+        },
+        {
+          "label": "Tính chất",
+          "notes": [
+            "Phản ứng với nước thay đổi trong nhóm",
+            "Phản ứng với acid/phi kim"
+          ]
+        },
+        {
+          "label": "Hợp chất",
+          "notes": [
+            "CaCO₃, CaO, Ca(OH)₂, Mg(OH)₂",
+            "Độ tan và nhiệt phân khác nhau"
+          ]
+        },
+        {
+          "label": "Nước cứng",
+          "notes": [
+            "Ca²⁺, Mg²⁺ làm tăng độ cứng",
+            "Làm mềm theo thành phần ion"
+          ]
+        }
+      ]
+    },
+    "12-26": {
+      "grade": 12,
+      "chapterNo": 7,
+      "lessonNo": 26,
+      "chapter": "Nguyên tố nhóm IA và nhóm IIA",
+      "title": "Ôn tập chương 7",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 24: Nguyên tố nhóm IA"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 25: Nguyên tố nhóm IIA"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    },
+    "12-27": {
+      "grade": 12,
+      "chapterNo": 8,
+      "lessonNo": 27,
+      "chapter": "Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+      "title": "Đại cương về kim loại chuyển tiếp dãy thứ nhất",
+      "review": false,
+      "branches": [
+        {
+          "label": "Kim loại chuyển tiếp",
+          "notes": [
+            "Có electron d tham gia cấu trúc",
+            "Nhiều số oxi hóa"
+          ]
+        },
+        {
+          "label": "Đặc trưng",
+          "notes": [
+            "Hợp chất có màu, tính xúc tác",
+            "Có thể tạo phức"
+          ]
+        },
+        {
+          "label": "Ví dụ",
+          "notes": [
+            "Fe, Cu, Cr, Mn, Ni",
+            "Sự khác biệt với nhóm IA, IIA"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Hợp kim và xúc tác",
+            "Lưu ý độc tính một số hợp chất"
+          ]
+        }
+      ]
+    },
+    "12-28": {
+      "grade": 12,
+      "chapterNo": 8,
+      "lessonNo": 28,
+      "chapter": "Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+      "title": "Sơ lược về phức chất",
+      "review": false,
+      "branches": [
+        {
+          "label": "Cấu tạo phức",
+          "notes": [
+            "Ion/ nguyên tử trung tâm",
+            "Phối tử cho cặp electron"
+          ]
+        },
+        {
+          "label": "Liên kết phối trí",
+          "notes": [
+            "Tương tác cho–nhận cặp electron",
+            "Số phối trí và hình học"
+          ]
+        },
+        {
+          "label": "Danh pháp",
+          "notes": [
+            "Xác định phối tử, trung tâm, điện tích",
+            "Phân biệt ion phức và ion ngoài cầu"
+          ]
+        },
+        {
+          "label": "Vận dụng",
+          "notes": [
+            "Nhận diện phức từ công thức",
+            "Viết dạng biểu diễn đơn giản"
+          ]
+        }
+      ]
+    },
+    "12-29": {
+      "grade": 12,
+      "chapterNo": 8,
+      "lessonNo": 29,
+      "chapter": "Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+      "title": "Một số tính chất và ứng dụng của phức chất",
+      "review": false,
+      "branches": [
+        {
+          "label": "Tính chất phức",
+          "notes": [
+            "Cân bằng tạo phức",
+            "Màu phụ thuộc cấu trúc và ligand"
+          ]
+        },
+        {
+          "label": "Ví dụ nhận biết",
+          "notes": [
+            "Cu²⁺ với NH₃ dư tạo phức xanh đậm",
+            "AgCl tan trong NH₃ thích hợp"
+          ]
+        },
+        {
+          "label": "Ứng dụng",
+          "notes": [
+            "Phân tích định tính/định lượng",
+            "Y sinh và công nghiệp"
+          ]
+        },
+        {
+          "label": "Lưu ý",
+          "notes": [
+            "Cần đúng nồng độ và môi trường",
+            "Không suy màu như một quy tắc tuyệt đối"
+          ]
+        }
+      ]
+    },
+    "12-30": {
+      "grade": 12,
+      "chapterNo": 8,
+      "lessonNo": 30,
+      "chapter": "Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+      "title": "Ôn tập chương 8",
+      "review": true,
+      "branches": [
+        {
+          "label": "Hệ thống kiến thức",
+          "notes": [
+            "Ôn Bài 27: Đại cương về kim loại chuyển tiếp dãy thứ nhất",
+            "Ôn Bài 29: Một số tính chất và ứng dụng của phức chất"
+          ]
+        },
+        {
+          "label": "Kết nối kiến thức",
+          "notes": [
+            "Ôn Bài 28: Sơ lược về phức chất"
+          ]
+        },
+        {
+          "label": "Tổng hợp dạng bài",
+          "notes": [
+            "So sánh khái niệm, công thức, điều kiện áp dụng",
+            "Nhận diện lỗi sai và bẫy thông tin"
+          ]
+        },
+        {
+          "label": "Tự kiểm tra",
+          "notes": [
+            "Làm nhóm câu hỏi đã chọn theo chương",
+            "Đánh dấu câu cần ôn, tự đánh giá tiến bộ"
+          ]
+        }
+      ]
+    }
+  }
+}

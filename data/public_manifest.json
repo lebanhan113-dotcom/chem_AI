@@ -1,0 +1,24 @@
+{
+  "bankTotal": 322,
+  "grades": {
+    "10": 154,
+    "11": 106,
+    "12": 62
+  },
+  "version": "7.12",
+  "policy": "No unreviewed-key, unassigned-lesson, unassigned-difficulty, or suspected duplicate questions in public bank; all retained items require continued scientific validation.",
+  "newSource712": {
+    "imported": 145,
+    "public": 42,
+    "pending_private": 103
+  },
+  "newSource713": {
+    "imported": 294,
+    "public": 105,
+    "pending_private": 189,
+    "byGrade": {
+      "11": 43,
+      "12": 62
+    }
+  }
+}

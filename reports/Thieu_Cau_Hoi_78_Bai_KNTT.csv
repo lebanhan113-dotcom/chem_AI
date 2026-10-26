@@ -1,0 +1,79 @@
+﻿grade,chapter_no,chapter,lesson_no,lesson,total,NB,TH,VD,VDC,has_mcq,has_tf4,has_short,has_essay,need_mcq,need_tf4,need_short,need_essay,priority
+10,1,Cấu tạo nguyên tử,1,Thành phần của nguyên tử,11,9,0,2,0,11,0,0,0,0,4,4,2,BỔ SUNG DẠNG CÂU
+10,1,Cấu tạo nguyên tử,2,Nguyên tố hóa học,3,2,1,0,0,3,0,0,0,7,4,4,2,CẦN BỔ SUNG
+10,1,Cấu tạo nguyên tử,3,Cấu trúc lớp vỏ electron nguyên tử,10,8,2,0,0,10,0,0,0,0,4,4,2,BỔ SUNG DẠNG CÂU
+10,1,Cấu tạo nguyên tử,4,Ôn tập chương 1,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+10,2,Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn,5,Cấu tạo của bảng tuần hoàn các nguyên tố hóa học,18,12,6,0,0,18,0,0,0,0,4,4,2,BỔ SUNG DẠNG CÂU
+10,2,Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn,6,Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm,5,2,3,0,0,5,0,0,0,5,4,4,2,CẦN BỔ SUNG
+10,2,Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn,7,Xu hướng biến đổi độ âm điện và một số tính chất của hợp chất trong một chu kì,5,2,2,1,0,5,0,0,0,5,4,4,2,CẦN BỔ SUNG
+10,2,Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn,8,Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hóa học,0,0,0,0,0,0,0,0,0,10,4,4,2,CẦN BỔ SUNG
+10,2,Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn,9,Ôn tập chương 2,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+10,3,Liên kết hóa học,10,Quy tắc octet,9,6,3,0,0,9,0,0,0,1,4,4,2,CẦN BỔ SUNG
+10,3,Liên kết hóa học,11,Liên kết ion,8,6,2,0,0,8,0,0,0,2,4,4,2,CẦN BỔ SUNG
+10,3,Liên kết hóa học,12,Liên kết cộng hóa trị,7,4,3,0,0,7,0,0,0,3,4,4,2,CẦN BỔ SUNG
+10,3,Liên kết hóa học,13,Liên kết hydrogen và tương tác van der Waals,3,3,0,0,0,3,0,0,0,7,4,4,2,CẦN BỔ SUNG
+10,3,Liên kết hóa học,14,Ôn tập chương 3,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+10,4,Phản ứng oxi hóa – khử,15,Phản ứng oxi hóa – khử,12,6,6,0,0,12,0,0,0,0,4,4,2,BỔ SUNG DẠNG CÂU
+10,4,Phản ứng oxi hóa – khử,16,Ôn tập chương 4,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+10,5,Năng lượng hóa học,17,Biến thiên enthalpy trong các phản ứng hóa học,16,10,3,3,0,16,0,0,0,0,4,4,2,BỔ SUNG DẠNG CÂU
+10,5,Năng lượng hóa học,18,Ôn tập chương 5,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+10,6,Tốc độ phản ứng,19,Tốc độ phản ứng,18,9,6,3,0,18,0,0,0,0,4,4,2,BỔ SUNG DẠNG CÂU
+10,6,Tốc độ phản ứng,20,Ôn tập chương 6,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+10,7,Nguyên tố nhóm halogen,21,Nhóm halogen,21,13,8,0,0,21,0,0,0,0,4,4,2,BỔ SUNG DẠNG CÂU
+10,7,Nguyên tố nhóm halogen,22,Hydrogen halide. Muối halide,8,3,4,1,0,8,0,0,0,2,4,4,2,CẦN BỔ SUNG
+10,7,Nguyên tố nhóm halogen,23,Ôn tập chương 7,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+11,1,Cân bằng hóa học,1,Khái niệm về cân bằng hóa học,9,5,4,0,0,9,0,0,0,1,4,4,2,CẦN BỔ SUNG
+11,1,Cân bằng hóa học,2,Cân bằng trong dung dịch nước,14,8,4,2,0,14,0,0,0,0,4,4,2,BỔ SUNG DẠNG CÂU
+11,1,Cân bằng hóa học,3,Ôn tập chương 1,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+11,2,Nitrogen – Sulfur,4,Nitrogen,7,7,0,0,0,7,0,0,0,3,4,4,2,CẦN BỔ SUNG
+11,2,Nitrogen – Sulfur,5,Ammonia. Muối ammonium,6,4,2,0,0,6,0,0,0,4,4,4,2,CẦN BỔ SUNG
+11,2,Nitrogen – Sulfur,6,Một số hợp chất của nitrogen với oxygen,1,1,0,0,0,1,0,0,0,9,4,4,2,CẦN BỔ SUNG
+11,2,Nitrogen – Sulfur,7,Sulfur và sulfur dioxide,7,4,3,0,0,7,0,0,0,3,4,4,2,CẦN BỔ SUNG
+11,2,Nitrogen – Sulfur,8,Sulfuric acid và muối sulfate,6,3,3,0,0,6,0,0,0,4,4,4,2,CẦN BỔ SUNG
+11,2,Nitrogen – Sulfur,9,Ôn tập chương 2,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+11,3,Đại cương về hóa học hữu cơ,10,Hợp chất hữu cơ và hóa học hữu cơ,9,6,2,1,0,9,0,0,0,1,4,4,2,CẦN BỔ SUNG
+11,3,Đại cương về hóa học hữu cơ,11,Phương pháp tách biệt và tinh chế hợp chất hữu cơ,3,2,1,0,0,3,0,0,0,7,4,4,2,CẦN BỔ SUNG
+11,3,Đại cương về hóa học hữu cơ,12,Công thức phân tử hợp chất hữu cơ,1,0,1,0,0,1,0,0,0,9,4,4,2,CẦN BỔ SUNG
+11,3,Đại cương về hóa học hữu cơ,13,Cấu tạo hóa học hợp chất hữu cơ,3,2,0,1,0,3,0,0,0,7,4,4,2,CẦN BỔ SUNG
+11,3,Đại cương về hóa học hữu cơ,14,Ôn tập chương 3,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+11,4,Hydrocarbon,15,Alkane,10,8,1,1,0,10,0,0,0,0,4,4,2,BỔ SUNG DẠNG CÂU
+11,4,Hydrocarbon,16,Hydrocarbon không no,4,1,2,1,0,4,0,0,0,6,4,4,2,CẦN BỔ SUNG
+11,4,Hydrocarbon,17,Arene (hydrocarbon thơm),2,0,2,0,0,2,0,0,0,8,4,4,2,CẦN BỔ SUNG
+11,4,Hydrocarbon,18,Ôn tập chương 4,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+11,5,Dẫn xuất halogen – Alcohol – Phenol,19,Dẫn xuất halogen,6,5,0,1,0,6,0,0,0,4,4,4,2,CẦN BỔ SUNG
+11,5,Dẫn xuất halogen – Alcohol – Phenol,20,Alcohol,8,4,3,1,0,8,0,0,0,2,4,4,2,CẦN BỔ SUNG
+11,5,Dẫn xuất halogen – Alcohol – Phenol,21,Phenol,2,1,1,0,0,2,0,0,0,8,4,4,2,CẦN BỔ SUNG
+11,5,Dẫn xuất halogen – Alcohol – Phenol,22,Ôn tập chương 5,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+11,6,Hợp chất carbonyl – Carboxylic acid,23,Hợp chất carbonyl,3,1,2,0,0,3,0,0,0,7,4,4,2,CẦN BỔ SUNG
+11,6,Hợp chất carbonyl – Carboxylic acid,24,Carboxylic acid,5,2,3,0,0,5,0,0,0,5,4,4,2,CẦN BỔ SUNG
+11,6,Hợp chất carbonyl – Carboxylic acid,25,Ôn tập chương 6,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+12,1,Ester – Lipid,1,Ester – Lipid,4,2,2,0,0,4,0,0,0,6,4,4,2,CẦN BỔ SUNG
+12,1,Ester – Lipid,2,Xà phòng và chất giặt rửa,2,0,2,0,0,2,0,0,0,8,4,4,2,CẦN BỔ SUNG
+12,1,Ester – Lipid,3,Ôn tập chương 1,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+12,2,Carbohydrate,4,Giới thiệu về carbohydrate. Glucose và fructose,1,1,0,0,0,1,0,0,0,9,4,4,2,CẦN BỔ SUNG
+12,2,Carbohydrate,5,Saccharose và maltose,5,2,3,0,0,5,0,0,0,5,4,4,2,CẦN BỔ SUNG
+12,2,Carbohydrate,6,Tinh bột và cellulose,2,0,2,0,0,2,0,0,0,8,4,4,2,CẦN BỔ SUNG
+12,2,Carbohydrate,7,Ôn tập chương 2,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+12,3,Hợp chất chứa nitrogen,8,Amine,4,3,1,0,0,4,0,0,0,6,4,4,2,CẦN BỔ SUNG
+12,3,Hợp chất chứa nitrogen,9,Amino acid và peptide,5,0,4,1,0,5,0,0,0,5,4,4,2,CẦN BỔ SUNG
+12,3,Hợp chất chứa nitrogen,10,Protein và enzyme,1,0,1,0,0,1,0,0,0,9,4,4,2,CẦN BỔ SUNG
+12,3,Hợp chất chứa nitrogen,11,Ôn tập chương 3,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+12,4,Polymer,12,Đại cương về polymer,2,2,0,0,0,2,0,0,0,8,4,4,2,CẦN BỔ SUNG
+12,4,Polymer,13,Vật liệu polymer,3,0,3,0,0,3,0,0,0,7,4,4,2,CẦN BỔ SUNG
+12,4,Polymer,14,Ôn tập chương 4,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+12,5,Pin điện và điện phân,15,Thế điện cực và nguồn điện hóa học,3,3,0,0,0,3,0,0,0,7,4,4,2,CẦN BỔ SUNG
+12,5,Pin điện và điện phân,16,Điện phân,2,0,1,1,0,2,0,0,0,8,4,4,2,CẦN BỔ SUNG
+12,5,Pin điện và điện phân,17,Ôn tập chương 5,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+12,6,Đại cương về kim loại,18,Cấu tạo và liên kết trong tinh thể kim loại,1,1,0,0,0,1,0,0,0,9,4,4,2,CẦN BỔ SUNG
+12,6,Đại cương về kim loại,19,Tính chất vật lí và tính chất hóa học của kim loại,4,2,2,0,0,4,0,0,0,6,4,4,2,CẦN BỔ SUNG
+12,6,Đại cương về kim loại,20,Kim loại trong tự nhiên và phương pháp tách kim loại,1,0,1,0,0,1,0,0,0,9,4,4,2,CẦN BỔ SUNG
+12,6,Đại cương về kim loại,21,Hợp kim,1,0,1,0,0,1,0,0,0,9,4,4,2,CẦN BỔ SUNG
+12,6,Đại cương về kim loại,22,Sự ăn mòn kim loại,2,0,0,2,0,2,0,0,0,8,4,4,2,CẦN BỔ SUNG
+12,6,Đại cương về kim loại,23,Ôn tập chương 6,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+12,7,Nguyên tố nhóm IA và nhóm IIA,24,Nguyên tố nhóm IA,4,1,2,1,0,4,0,0,0,6,4,4,2,CẦN BỔ SUNG
+12,7,Nguyên tố nhóm IA và nhóm IIA,25,Nguyên tố nhóm IIA,6,2,4,0,0,6,0,0,0,4,4,4,2,CẦN BỔ SUNG
+12,7,Nguyên tố nhóm IA và nhóm IIA,26,Ôn tập chương 7,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG
+12,8,Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất,27,Đại cương về kim loại chuyển tiếp dãy thứ nhất,5,3,2,0,0,5,0,0,0,5,4,4,2,CẦN BỔ SUNG
+12,8,Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất,28,Sơ lược về phức chất,3,0,3,0,0,3,0,0,0,7,4,4,2,CẦN BỔ SUNG
+12,8,Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất,29,Một số tính chất và ứng dụng của phức chất,1,0,1,0,0,1,0,0,0,9,4,4,2,CẦN BỔ SUNG
+12,8,Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất,30,Ôn tập chương 8,0,0,0,0,0,0,0,0,0,5,2,2,2,CẦN BỔ SUNG

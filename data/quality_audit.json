@@ -1,0 +1,2738 @@
+{
+  "version": "7.11",
+  "note": "Chỉ còn câu đáp ứng bộ lọc kỹ thuật; các cảnh báo yêu cầu cần đạt vẫn chưa giải quyết, không phải duyệt chuyên môn độc lập.",
+  "total": 322,
+  "grade_counts": {
+    "10": 154,
+    "11": 106,
+    "12": 62
+  },
+  "summary": {
+    "OUTCOME_UNCONFIRMED": 322
+  },
+  "questions": {
+    "UP647789fed8076b9bea082cf": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 1.docx"
+    },
+    "UP64fe76a7a3fe9602ddfb8d0": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 1.docx"
+    },
+    "UP643dc4bb5bc705bed3e4b6d": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 1.docx"
+    },
+    "UP6424d9688410c34adf2a1c7": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 1.docx"
+    },
+    "UP6472e9883cf0da7677b7f9e": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 1.docx"
+    },
+    "UP641d3b4eb73b98559232783": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 1.docx"
+    },
+    "UP64a2e64392b95b077849cb8": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 1.docx"
+    },
+    "UP64e71c2acbdad358eea947a": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 1.docx"
+    },
+    "UP64d9baa87bf29b854c589c0": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 1.docx"
+    },
+    "UP64d733a192e0d02a99e552d": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 1.docx"
+    },
+    "UP64abad6a91e544790dc6f95": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 1.docx"
+    },
+    "UP6408354d131b882693f51e7": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 1.docx"
+    },
+    "UP6494dbb7b44402ef348a3c0": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 1.docx"
+    },
+    "UP644830cc31b5da979563b22": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 1.docx"
+    },
+    "UP64929e1c420a585058772fe": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 1.docx"
+    },
+    "UP645000e195b1ff6d2200671": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 1.docx"
+    },
+    "UP6495aa8cde12d27aadb5fab": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 1.docx"
+    },
+    "UP6461048c1b323124bd1ee3e": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 1.docx"
+    },
+    "UP64d0eaed3755c625783b85e": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 6 HOA 10 - DE 1.docx"
+    },
+    "UP6492fe0262b0155b32a9f43": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 6 HOA 10 - DE 1.docx"
+    },
+    "UP648c10f05f50503b13bf4c7": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 6 HOA 10 - DE 1.docx"
+    },
+    "UP6468ad35cd6b6c03bc23715": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 6 HOA 10 - DE 1.docx"
+    },
+    "UP647d1c2fd8fc86cf683a1ac": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 6 HOA 10 - DE 1.docx"
+    },
+    "UP6488232163d8e050b99862e": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 6 HOA 10 - DE 1.docx"
+    },
+    "UP6477668f677b649758e29d5": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 6 HOA 10 - DE 1.docx"
+    },
+    "UP649b71854ef88964ea857c6": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 1.docx"
+    },
+    "UP6456d2e097fdce327709c47": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 1.docx"
+    },
+    "UP647bd87218e5e701404372f": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 1.docx"
+    },
+    "UP640490a983c85a554e45b71": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 1.docx"
+    },
+    "UP64a340e76775e5114dda889": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 1.docx"
+    },
+    "UP64930cee25610cdf3536ecf": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 1.docx"
+    },
+    "UP644caec2365d62a71f5b593": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 1.docx"
+    },
+    "UP64ed47402594c7645fda7a9": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 1.docx"
+    },
+    "UP643b665dd9d1190648ef3d4": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 1.docx"
+    },
+    "UP64600e17c58ef786154a65b": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 1.docx"
+    },
+    "UP64ce61e494eadf5093113b9": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 1.docx"
+    },
+    "UP64b08393e28d886b1128581": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 1.docx"
+    },
+    "UP648f048ab2a0efc51bd33fb": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 1.docx"
+    },
+    "UP642ae7fce86f24bd5bd923c": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 1.docx"
+    },
+    "UP6434d73216696c20255769a": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 1.docx"
+    },
+    "UP6400e766f1990ead199b207": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 1.docx"
+    },
+    "UP64a8235c91c4842d6ab3b28": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 1.docx"
+    },
+    "UP64ca6775391791ceab29108": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 1.docx"
+    },
+    "UP646201439c60a3348298730": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 1.docx"
+    },
+    "UP64d8695041612e274339b5a": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 1.docx"
+    },
+    "UP648ef153a1a3a9ceaef730a": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 1.docx"
+    },
+    "UP644541b604993cdbd0bb5ea": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 1.docx"
+    },
+    "UP64c35ad9c4769fbd70d74cb": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 1.docx"
+    },
+    "UP641aa7134ac7b115beefb62": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 1.docx"
+    },
+    "UP64698c31101fd2dc49bf920": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 1.docx"
+    },
+    "UP660855f60b36309448f0ee7": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 2.docx"
+    },
+    "UP66c1c84db793af9a0090619": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 2.docx"
+    },
+    "UP6600e3e9bb9bb786cde74ea": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 2.docx"
+    },
+    "UP665b8762cc8c596303f47f8": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 2.docx"
+    },
+    "UP66b9a499ea5e8415d171b7d": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 2.docx"
+    },
+    "UP66ec3952e6a183257b1de3b": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 3.docx"
+    },
+    "UP66a5967490d6d0e5e581c10": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 3.docx"
+    },
+    "UP66af5b5825adde64e338423": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 3.docx"
+    },
+    "UP6615a61a446859282096d9c": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 3.docx"
+    },
+    "UP665f03f471a99fa928f912e": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 3.docx"
+    },
+    "UP6682af2668ee78f37f70025": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 3 HOA 10 - DE 3.docx"
+    },
+    "UP6689879b1f72e4b1ee2403b": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 4 HOA 10 - DE 2.docx"
+    },
+    "UP66afc8fae50ba0d70c93bb7": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 4 HOA 10 - DE 2.docx"
+    },
+    "UP661b837955c816cf41ef671": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 4 HOA 10 - DE 2.docx"
+    },
+    "UP6678eaf2f3098e130e985c9": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 4 HOA 10 - DE 3.docx"
+    },
+    "UP664e4f2aaba2cbc40a7bc38": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 2.docx"
+    },
+    "UP66b564f7beb71e3116398c8": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 2.docx"
+    },
+    "UP667f5a1c6be9e8f0d5711a0": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 2.docx"
+    },
+    "UP662e930ba00d8d1deb8e3e5": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 3.docx"
+    },
+    "UP6668de519577facf9cf6c17": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 5 HOA 10 - DE 3.docx"
+    },
+    "UP662d0c2d945bc6f6bdb72cc": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 6 HOA 10- DE 2.docx"
+    },
+    "UP66c71a2ce810d83f2bca273": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 6 HOA 10- DE 2.docx"
+    },
+    "UP6627357a938d7c15c9367e6": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 6 HOA 10- DE 2.docx"
+    },
+    "UP66567bda51f8858c06d5c6f": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 6 HOA 10- DE 3.docx"
+    },
+    "UP66e84bd0ef7530777a05433": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 6 HOA 10- DE 3.docx"
+    },
+    "UP66773dc82b55902d6c3e15a": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 2.docx"
+    },
+    "UP66b7c69cf6508138d24ae4c": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 2.docx"
+    },
+    "UP6675af3c1adfd94b51d685b": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 2.docx"
+    },
+    "UP661eed04e6cf6590023c80c": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 2.docx"
+    },
+    "UP660a15b33dfefc569e32cee": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 2.docx"
+    },
+    "UP661f95392fcf33757c6a181": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 2.docx"
+    },
+    "UP66dfcfa5e4bedc45f1ed9d3": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 3.docx"
+    },
+    "UP663d8eaae9ee6fcc3f4ee85": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 3.docx"
+    },
+    "UP66cb5611ee9d1dc5754af3e": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 3.docx"
+    },
+    "UP66b48ece1cbf9e452f9dd34": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 3.docx"
+    },
+    "UP6610eab0c16fb2d1eacc717": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 3.docx"
+    },
+    "UP669cf546168294624d7a88b": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 3.docx"
+    },
+    "UP6657897494b6279ca0b7255": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "CHUONG 7 HOA 10 - DE 3.docx"
+    },
+    "UP66ba940884be3df22d57b2f": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 2.docx"
+    },
+    "UP66c3b348b9adc791d4c6a43": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 2.docx"
+    },
+    "UP660a3781e1184e5ad3cfbc0": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 2.docx"
+    },
+    "UP660542f6d3b259cb0c6041e": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 2.docx"
+    },
+    "UP66bfaa7f7643980fc1c000c": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 2.docx"
+    },
+    "UP660361eb46501a6f4bb15b6": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 2.docx"
+    },
+    "UP66ad835c80b80a8d732a2d8": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 3.docx"
+    },
+    "UP66952c990ba050fb89dc20d": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 3.docx"
+    },
+    "UP66e04bb1ea63444077c7efd": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 3.docx"
+    },
+    "UP66c58711cb977527f6ed744": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 3.docx"
+    },
+    "UP66df9756a8ed04a8cca4e30": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 3.docx"
+    },
+    "UP663b0e6bf81ea757cdae06d": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 3.docx"
+    },
+    "UP661e20bd0300af1a0895762": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 1_DE 3.docx"
+    },
+    "UP66ce18db87e4c8d7eccdc85": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 2.docx"
+    },
+    "UP66b13ae46fc48a15949b939": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 2.docx"
+    },
+    "UP669411933de38eb6e40dc57": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 2.docx"
+    },
+    "UP6684c9e8041fdd2ea73efeb": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 2.docx"
+    },
+    "UP6624ac2897905a78e18fd6b": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 2.docx"
+    },
+    "UP66780f29b012ad9e2bc8299": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 2.docx"
+    },
+    "UP660708e5e7349eb56f9f285": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 3.docx"
+    },
+    "UP66b7400e4751f5e87583c8c": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 3.docx"
+    },
+    "UP668f1e708d73ba64701fef9": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 3.docx"
+    },
+    "UP66240ff43666c13066c86d5": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 3.docx"
+    },
+    "UP66feaac54d0c34f399cb0e7": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "H10_CHUONG 2_DE 3.docx"
+    },
+    "UP641eb959ae95c849d626a96": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 1.docx"
+    },
+    "UP64e2e6bff28f1b7b397f658": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 1.docx"
+    },
+    "UP641b4df0fe5cc8a3e461d0d": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 1.docx"
+    },
+    "UP64af08fc7092f8ed55cc3ad": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 1.docx"
+    },
+    "UP64536b6b3a9240049f4d943": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 1.docx"
+    },
+    "UP64247630059faf8cde49bab": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 1.docx"
+    },
+    "UP642313ebe9f1f321aa49673": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 1.docx"
+    },
+    "UP646177bac40ad04faf2b87f": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 1.docx"
+    },
+    "UP64b11363e0e1e5d169220f1": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 1.docx"
+    },
+    "UP64189bdea631698c29caef1": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 1.docx"
+    },
+    "UP643dd9e0cacf720ceab6bcc": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 1.docx"
+    },
+    "UP64359b2e8dfe65dd6c252d3": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 1.docx"
+    },
+    "UP64529d8bd2906107752d419": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 1.docx"
+    },
+    "UP64f65768f8b84d14275835e": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 1.docx"
+    },
+    "UP646a99f0f172f3ad57268bb": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 1.docx"
+    },
+    "UP64cfedc127edb1623f3c6bb": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 1.docx"
+    },
+    "UP6412f476dc2e814109f8206": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 1.docx"
+    },
+    "UP64e810bb59cf0e1701560d9": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 1.docx"
+    },
+    "UP643c759e7e446d0b246e5c1": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 1.docx"
+    },
+    "UP647554eaad1ec335e1d655f": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 1.docx"
+    },
+    "UP6400ba6e45e4169872860e7": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 1.docx"
+    },
+    "UP641df620d2bc3544a34fad6": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 1.docx"
+    },
+    "UP642ebaf6ff2bffd80c08973": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 3 LẦN 1.docx"
+    },
+    "UP6494e6f0a6e4a2f9a44fe33": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 3 LẦN 1.docx"
+    },
+    "UP64e33d2e481007efb780211": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 3 LẦN 1.docx"
+    },
+    "UP647b7821ef5f8dee13d7464": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 3 LẦN 1.docx"
+    },
+    "UP646fcf4deec91918d3ab3d9": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 3 LẦN 1.docx"
+    },
+    "UP64a885de105ba3a44c79702": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 3 LẦN 1.docx"
+    },
+    "UP648ba80dae7a79a2e746ba6": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 3 LẦN 1.docx"
+    },
+    "UP6486d9a4836a1466f52f3ba": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 3 LẦN 1.docx"
+    },
+    "UP6474fbc61b3658377e701e5": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 3 LẦN 1.docx"
+    },
+    "UP641071eae11f1bcf8b64019": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 4 (ALKANE) LẦN 1.docx"
+    },
+    "UP6495a7262d1dc99118f18ed": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 4 (ALKANE) LẦN 1.docx"
+    },
+    "UP6476ce40e8ef25121084651": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 4 (ALKANE) LẦN 1.docx"
+    },
+    "UP645d18ebc4306d0e7d6843c": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 4 (ALKANE) LẦN 1.docx"
+    },
+    "UP6461fa02c956d92e3564b1c": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 4 (ALKANE) LẦN 1.docx"
+    },
+    "UP64d03fbd8a8f4cfecfa2465": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 4 (ALKANE) LẦN 1.docx"
+    },
+    "UP64083bdbc1b7905f97e56e5": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 4 (ALKANE) LẦN 1.docx"
+    },
+    "UP640dd98bac78ab1c4dd95e4": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 4 (ALKANE) LẦN 1.docx"
+    },
+    "UP64ae93c037973f6a80367c8": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 4 (ALKANE) LẦN 1.docx"
+    },
+    "UP64f936ecf63960a8d1373f6": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 5 LẦN 1.docx"
+    },
+    "UP645590e46462dc75f4ebfe1": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 5 LẦN 1.docx"
+    },
+    "UP64a0913328409ec4d6ccea2": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 5 LẦN 1.docx"
+    },
+    "UP64b9a3890241fee6d8b9d71": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 5 LẦN 1.docx"
+    },
+    "UP6482d8116cd9d0580fe87e7": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 5 LẦN 1.docx"
+    },
+    "UP649ce476764ac13153b189c": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 5 LẦN 1.docx"
+    },
+    "UP6467cabd37448122b916ec9": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 5 LẦN 1.docx"
+    },
+    "UP64262e8f2313623e34129c0": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 5 LẦN 1.docx"
+    },
+    "UP640d646370dcb6323e0a9f0": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 5 LẦN 1.docx"
+    },
+    "UP669b34d8028d40413b48062": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 2.docx"
+    },
+    "UP66e38e3c7802c149d8f9bd2": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 2.docx"
+    },
+    "UP66d20fa1bd965d427519695": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 2.docx"
+    },
+    "UP6660b23124733bc658cb384": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 2.docx"
+    },
+    "UP66fd93e124d3637908a9685": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 2.docx"
+    },
+    "UP664899ecbb6b49b7fcce47a": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 2.docx"
+    },
+    "UP66bdf599bc4e658fa6205ef": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 1 LẦN 3.docx"
+    },
+    "UP66b215f50466d4aab1310f1": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 2.docx"
+    },
+    "UP665028e9d39ec136f0b369b": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 2.docx"
+    },
+    "UP66a9beb1d12457abb675fc4": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 2.docx"
+    },
+    "UP66a809945324f8b942dd649": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 2.docx"
+    },
+    "UP66e7910d9659494d39af25d": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 2.docx"
+    },
+    "UP668ce76ac4de3647101f4ac": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 2.docx"
+    },
+    "UP66d8f08d7c922032ed01c23": {
+      "flags": [
+        "TOPIC_UNCONFIRMED",
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "H11_ĐỀ ÔN TẬP CHƯƠNG 2 LẦN 3.docx"
+    },
+    "NEW26-10-C1-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.1 Cau tao nguyen tu. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C1-P1-Q05": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.1 Cau tao nguyen tu. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C1-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.1 Cau tao nguyen tu. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C1-P1-Q10": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.1 Cau tao nguyen tu. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C2-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.2 Bang tuan hoan cac nguyen to Hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C2-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.2 Bang tuan hoan cac nguyen to Hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C2-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.2 Bang tuan hoan cac nguyen to Hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C2-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.2 Bang tuan hoan cac nguyen to Hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C2-P1-Q06": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.2 Bang tuan hoan cac nguyen to Hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C2-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.2 Bang tuan hoan cac nguyen to Hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C2-P1-Q09": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.2 Bang tuan hoan cac nguyen to Hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C2-P1-Q10": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.2 Bang tuan hoan cac nguyen to Hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C3-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.3 Lien ket hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C3-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.3 Lien ket hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C3-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.3 Lien ket hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C3-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.3 Lien ket hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C3-P1-Q05": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.3 Lien ket hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C3-P1-Q09": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.3 Lien ket hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C3-P1-Q11": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.3 Lien ket hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C4-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.4 Phan ung oxi hoa - khu. TTB - Dap an chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C4-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.4 Phan ung oxi hoa - khu. TTB - Dap an chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C4-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.4 Phan ung oxi hoa - khu. TTB - Dap an chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C4-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.4 Phan ung oxi hoa - khu. TTB - Dap an chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C4-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.4 Phan ung oxi hoa - khu. TTB - Dap an chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C4-P1-Q09": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.4 Phan ung oxi hoa - khu. TTB - Dap an chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C4-P1-Q10": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.4 Phan ung oxi hoa - khu. TTB - Dap an chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C4-P1-Q12": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.4 Phan ung oxi hoa - khu. TTB - Dap an chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C5-P1-Q09": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.5 Nang luong hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C5-P1-Q10": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.5 Nang luong hoa hoc. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C6-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.6 Toc do phan ung. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C6-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.6 Toc do phan ung. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C6-P1-Q05": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.6 Toc do phan ung. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C6-P1-Q06": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.6 Toc do phan ung. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C6-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.6 Toc do phan ung. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C6-P1-Q11": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.6 Toc do phan ung. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C7-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.7 Nguyen to nhom halogen. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C7-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.7 Nguyen to nhom halogen. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C7-P1-Q05": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.7 Nguyen to nhom halogen. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C7-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.7 Nguyen to nhom halogen. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C7-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.7 Nguyen to nhom halogen. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C7-P1-Q09": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.7 Nguyen to nhom halogen. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-10-C7-P1-Q10": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 10,
+      "source": "2026 - 2027. 10.7 Nguyen to nhom halogen. TTB - DA chi tiet - DE1.docx",
+      "curated": "answer manually reasoned",
+      "part": 1
+    },
+    "NEW26-11-C1-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.1 Can bang hoa hoc. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C1-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.1 Can bang hoa hoc. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C1-P1-Q06": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.1 Can bang hoa hoc. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C1-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.1 Can bang hoa hoc. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C1-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.1 Can bang hoa hoc. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C1-P1-Q11": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.1 Can bang hoa hoc. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C2-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.2 Nitrogen - Sulfur. TTB - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C2-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.2 Nitrogen - Sulfur. TTB - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C2-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.2 Nitrogen - Sulfur. TTB - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C2-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.2 Nitrogen - Sulfur. TTB - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C2-P1-Q05": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.2 Nitrogen - Sulfur. TTB - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C2-P1-Q06": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.2 Nitrogen - Sulfur. TTB - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C2-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.2 Nitrogen - Sulfur. TTB - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C2-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.2 Nitrogen - Sulfur. TTB - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C3-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.3 Dai cuong ve hoa hoc huu co. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C3-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.3 Dai cuong ve hoa hoc huu co. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C3-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.3 Dai cuong ve hoa hoc huu co. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C3-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.3 Dai cuong ve hoa hoc huu co. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C3-P1-Q05": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.3 Dai cuong ve hoa hoc huu co. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C3-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.3 Dai cuong ve hoa hoc huu co. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C3-P1-Q10": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.3 Dai cuong ve hoa hoc huu co. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C4-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.4 Hydrocarbon. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C4-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.4 Hydrocarbon. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C4-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.4 Hydrocarbon. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C4-P1-Q06": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.4 Hydrocarbon. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C4-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.4 Hydrocarbon. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C4-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.4 Hydrocarbon. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C4-P1-Q10": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.4 Hydrocarbon. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C5-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.5 Dan xuat halogen - alcohol - phenol. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C5-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.5 Dan xuat halogen - alcohol - phenol. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C5-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.5 Dan xuat halogen - alcohol - phenol. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C5-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.5 Dan xuat halogen - alcohol - phenol. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C5-P1-Q06": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.5 Dan xuat halogen - alcohol - phenol. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C5-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.5 Dan xuat halogen - alcohol - phenol. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C5-P1-Q11": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.5 Dan xuat halogen - alcohol - phenol. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C6-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.6 Hop chat carbonyl - carboxylic acid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C6-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.6 Hop chat carbonyl - carboxylic acid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C6-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.6 Hop chat carbonyl - carboxylic acid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C6-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.6 Hop chat carbonyl - carboxylic acid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C6-P1-Q05": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.6 Hop chat carbonyl - carboxylic acid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C6-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.6 Hop chat carbonyl - carboxylic acid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C6-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.6 Hop chat carbonyl - carboxylic acid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-11-C6-P1-Q09": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 11,
+      "source": "2026 - 2027. 11.6 Hop chat carbonyl - carboxylic acid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C1-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.1 Ester - Lipid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C1-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.1 Ester - Lipid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C1-P1-Q05": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.1 Ester - Lipid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C1-P1-Q06": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.1 Ester - Lipid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C1-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.1 Ester - Lipid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C1-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.1 Ester - Lipid. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C2-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.2 Carbohydrate. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C2-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.2 Carbohydrate. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C2-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.2 Carbohydrate. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C2-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.2 Carbohydrate. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C2-P1-Q05": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.2 Carbohydrate. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C2-P1-Q06": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.2 Carbohydrate. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C2-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.2 Carbohydrate. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C2-P1-Q09": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.2 Carbohydrate. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C3-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.3 Hop chat chua nitrogen. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C3-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.3 Hop chat chua nitrogen. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C3-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.3 Hop chat chua nitrogen. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C3-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.3 Hop chat chua nitrogen. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C3-P1-Q05": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.3 Hop chat chua nitrogen. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C3-P1-Q06": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.3 Hop chat chua nitrogen. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C3-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.3 Hop chat chua nitrogen. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C3-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.3 Hop chat chua nitrogen. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C3-P1-Q09": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.3 Hop chat chua nitrogen. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C3-P1-Q10": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.3 Hop chat chua nitrogen. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C4-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.4 Polymer. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C4-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.4 Polymer. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C4-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.4 Polymer. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C4-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.4 Polymer. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C4-P1-Q09": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.4 Polymer. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C5-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.5 Pin dien va dien phan. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C5-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.5 Pin dien va dien phan. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C5-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.5 Pin dien va dien phan. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C5-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.5 Pin dien va dien phan. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C5-P1-Q10": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.5 Pin dien va dien phan. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C6-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.6 Dai cuong ve kim loai. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C6-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.6 Dai cuong ve kim loai. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C6-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.6 Dai cuong ve kim loai. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C6-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.6 Dai cuong ve kim loai. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C6-P1-Q05": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.6 Dai cuong ve kim loai. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C6-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.6 Dai cuong ve kim loai. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C6-P1-Q09": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.6 Dai cuong ve kim loai. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C6-P1-Q10": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.6 Dai cuong ve kim loai. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C6-P1-Q11": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.6 Dai cuong ve kim loai. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C7-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.7 Nguyen to nhom IA va IIA. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C7-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.7 Nguyen to nhom IA va IIA. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C7-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.7 Nguyen to nhom IA va IIA. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C7-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.7 Nguyen to nhom IA va IIA. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C7-P1-Q05": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.7 Nguyen to nhom IA va IIA. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C7-P1-Q06": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.7 Nguyen to nhom IA va IIA. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C7-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.7 Nguyen to nhom IA va IIA. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C7-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.7 Nguyen to nhom IA va IIA. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C7-P1-Q09": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.7 Nguyen to nhom IA va IIA. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C7-P1-Q10": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.7 Nguyen to nhom IA va IIA. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C8-P1-Q01": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.8 So luoc ve day kim loai chuyen tiep thu nhat va phuc chat. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C8-P1-Q02": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.8 So luoc ve day kim loai chuyen tiep thu nhat va phuc chat. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C8-P1-Q03": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.8 So luoc ve day kim loai chuyen tiep thu nhat va phuc chat. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C8-P1-Q04": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.8 So luoc ve day kim loai chuyen tiep thu nhat va phuc chat. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C8-P1-Q05": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.8 So luoc ve day kim loai chuyen tiep thu nhat va phuc chat. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C8-P1-Q06": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.8 So luoc ve day kim loai chuyen tiep thu nhat va phuc chat. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C8-P1-Q07": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.8 So luoc ve day kim loai chuyen tiep thu nhat va phuc chat. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C8-P1-Q08": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.8 So luoc ve day kim loai chuyen tiep thu nhat va phuc chat. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    },
+    "NEW26-12-C8-P1-Q09": {
+      "flags": [
+        "OUTCOME_UNCONFIRMED"
+      ],
+      "grade": 12,
+      "source": "2025 - 2026. 12.8 So luoc ve day kim loai chuyen tiep thu nhat va phuc chat. TTB  - Dap an - DE1.docx",
+      "curated": "preliminary answer reviewed",
+      "part": 1
+    }
+  }
+}

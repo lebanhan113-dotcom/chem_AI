@@ -1,0 +1,511 @@
+{
+  "label": "14 đề Hóa học 11–12, năm học 2025–2027",
+  "files": 14,
+  "partNames": {
+    "1": "Phần I · Trắc nghiệm A–D",
+    "2": "Phần II · Đúng/Sai bốn ý",
+    "3": "Phần III · Trả lời ngắn",
+    "4": "Phần IV · Tự luận"
+  },
+  "chapters": [
+    {
+      "grade": 11,
+      "no": 1,
+      "name": "Cân bằng hóa học",
+      "imported": 21,
+      "public": 6,
+      "pending": 15,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 1,
+          "name": "Khái niệm về cân bằng hóa học",
+          "public": 2
+        },
+        {
+          "no": 2,
+          "name": "Cân bằng trong dung dịch nước",
+          "public": 4
+        },
+        {
+          "no": 3,
+          "name": "Ôn tập chương 1",
+          "public": 0
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "no": 2,
+      "name": "Nitrogen – Sulfur",
+      "imported": 21,
+      "public": 8,
+      "pending": 13,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 4,
+          "name": "Nitrogen",
+          "public": 2
+        },
+        {
+          "no": 5,
+          "name": "Ammonia. Muối ammonium",
+          "public": 1
+        },
+        {
+          "no": 6,
+          "name": "Một số hợp chất của nitrogen với oxygen",
+          "public": 0
+        },
+        {
+          "no": 7,
+          "name": "Sulfur và sulfur dioxide",
+          "public": 2
+        },
+        {
+          "no": 8,
+          "name": "Sulfuric acid và muối sulfate",
+          "public": 3
+        },
+        {
+          "no": 9,
+          "name": "Ôn tập chương 2",
+          "public": 0
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "no": 3,
+      "name": "Đại cương về hóa học hữu cơ",
+      "imported": 21,
+      "public": 7,
+      "pending": 14,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 10,
+          "name": "Hợp chất hữu cơ và hóa học hữu cơ",
+          "public": 4
+        },
+        {
+          "no": 11,
+          "name": "Phương pháp tách biệt và tinh chế hợp chất hữu cơ",
+          "public": 1
+        },
+        {
+          "no": 12,
+          "name": "Công thức phân tử hợp chất hữu cơ",
+          "public": 1
+        },
+        {
+          "no": 13,
+          "name": "Cấu tạo hóa học hợp chất hữu cơ",
+          "public": 1
+        },
+        {
+          "no": 14,
+          "name": "Ôn tập chương 3",
+          "public": 0
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "no": 4,
+      "name": "Hydrocarbon",
+      "imported": 21,
+      "public": 7,
+      "pending": 14,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 15,
+          "name": "Alkane",
+          "public": 1
+        },
+        {
+          "no": 16,
+          "name": "Hydrocarbon không no",
+          "public": 4
+        },
+        {
+          "no": 17,
+          "name": "Arene (hydrocarbon thơm)",
+          "public": 2
+        },
+        {
+          "no": 18,
+          "name": "Ôn tập chương 4",
+          "public": 0
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "no": 5,
+      "name": "Dẫn xuất halogen – Alcohol – Phenol",
+      "imported": 21,
+      "public": 7,
+      "pending": 14,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 19,
+          "name": "Dẫn xuất halogen",
+          "public": 3
+        },
+        {
+          "no": 20,
+          "name": "Alcohol",
+          "public": 3
+        },
+        {
+          "no": 21,
+          "name": "Phenol",
+          "public": 1
+        },
+        {
+          "no": 22,
+          "name": "Ôn tập chương 5",
+          "public": 0
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "no": 6,
+      "name": "Hợp chất carbonyl – Carboxylic acid",
+      "imported": 21,
+      "public": 8,
+      "pending": 13,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 23,
+          "name": "Hợp chất carbonyl",
+          "public": 3
+        },
+        {
+          "no": 24,
+          "name": "Carboxylic acid",
+          "public": 5
+        },
+        {
+          "no": 25,
+          "name": "Ôn tập chương 6",
+          "public": 0
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "no": 1,
+      "name": "Ester – Lipid",
+      "imported": 21,
+      "public": 6,
+      "pending": 15,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 1,
+          "name": "Ester – Lipid",
+          "public": 4
+        },
+        {
+          "no": 2,
+          "name": "Xà phòng và chất giặt rửa",
+          "public": 2
+        },
+        {
+          "no": 3,
+          "name": "Ôn tập chương 1",
+          "public": 0
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "no": 2,
+      "name": "Carbohydrate",
+      "imported": 21,
+      "public": 8,
+      "pending": 13,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 4,
+          "name": "Giới thiệu về carbohydrate. Glucose và fructose",
+          "public": 1
+        },
+        {
+          "no": 5,
+          "name": "Saccharose và maltose",
+          "public": 5
+        },
+        {
+          "no": 6,
+          "name": "Tinh bột và cellulose",
+          "public": 2
+        },
+        {
+          "no": 7,
+          "name": "Ôn tập chương 2",
+          "public": 0
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "no": 3,
+      "name": "Hợp chất chứa nitrogen",
+      "imported": 21,
+      "public": 10,
+      "pending": 11,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 8,
+          "name": "Amine",
+          "public": 4
+        },
+        {
+          "no": 9,
+          "name": "Amino acid và peptide",
+          "public": 5
+        },
+        {
+          "no": 10,
+          "name": "Protein và enzyme",
+          "public": 1
+        },
+        {
+          "no": 11,
+          "name": "Ôn tập chương 3",
+          "public": 0
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "no": 4,
+      "name": "Polymer",
+      "imported": 21,
+      "public": 5,
+      "pending": 16,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 12,
+          "name": "Đại cương về polymer",
+          "public": 2
+        },
+        {
+          "no": 13,
+          "name": "Vật liệu polymer",
+          "public": 3
+        },
+        {
+          "no": 14,
+          "name": "Ôn tập chương 4",
+          "public": 0
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "no": 5,
+      "name": "Pin điện và điện phân",
+      "imported": 21,
+      "public": 5,
+      "pending": 16,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 15,
+          "name": "Thế điện cực và nguồn điện hóa học",
+          "public": 3
+        },
+        {
+          "no": 16,
+          "name": "Điện phân",
+          "public": 2
+        },
+        {
+          "no": 17,
+          "name": "Ôn tập chương 5",
+          "public": 0
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "no": 6,
+      "name": "Đại cương về kim loại",
+      "imported": 21,
+      "public": 9,
+      "pending": 12,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 18,
+          "name": "Cấu tạo và liên kết trong tinh thể kim loại",
+          "public": 1
+        },
+        {
+          "no": 19,
+          "name": "Tính chất vật lí và tính chất hóa học của kim loại",
+          "public": 4
+        },
+        {
+          "no": 20,
+          "name": "Kim loại trong tự nhiên và phương pháp tách kim loại",
+          "public": 1
+        },
+        {
+          "no": 21,
+          "name": "Hợp kim",
+          "public": 1
+        },
+        {
+          "no": 22,
+          "name": "Sự ăn mòn kim loại",
+          "public": 2
+        },
+        {
+          "no": 23,
+          "name": "Ôn tập chương 6",
+          "public": 0
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "no": 7,
+      "name": "Nguyên tố nhóm IA và nhóm IIA",
+      "imported": 21,
+      "public": 10,
+      "pending": 11,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 24,
+          "name": "Nguyên tố nhóm IA",
+          "public": 4
+        },
+        {
+          "no": 25,
+          "name": "Nguyên tố nhóm IIA",
+          "public": 6
+        },
+        {
+          "no": 26,
+          "name": "Ôn tập chương 7",
+          "public": 0
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "no": 8,
+      "name": "Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+      "imported": 21,
+      "public": 9,
+      "pending": 12,
+      "parts": {
+        "1": 12,
+        "2": 2,
+        "3": 4,
+        "4": 3
+      },
+      "lessons": [
+        {
+          "no": 27,
+          "name": "Đại cương về kim loại chuyển tiếp dãy thứ nhất",
+          "public": 5
+        },
+        {
+          "no": 28,
+          "name": "Sơ lược về phức chất",
+          "public": 3
+        },
+        {
+          "no": 29,
+          "name": "Một số tính chất và ứng dụng của phức chất",
+          "public": 1
+        },
+        {
+          "no": 30,
+          "name": "Ôn tập chương 8",
+          "public": 0
+        }
+      ]
+    }
+  ]
+}
