@@ -1,0 +1,22 @@
+/* EduPlan 7.9 - readable examination paper and complete post-submission review */
+.f25-exam,.f25-reviews{max-width:1080px;margin-inline:auto}
+.f25-question{border:1px solid #dce7f0;padding:18px;margin:14px 0;border-radius:15px;background:#fff;overflow-wrap:anywhere}
+.f25-qtitle{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:10px;color:#064366}
+.f25-qtitle .muted{font-size:.78rem;color:#64748b;font-weight:400}
+.f25-stem{line-height:1.75;margin:12px 0;font-size:1rem;white-space:pre-wrap;overflow-wrap:anywhere}
+.f25-part{padding-top:12px;border-top:2px solid #dbeafe;margin-top:22px}
+.f25-part>h2{color:#075985;background:#eaf6fc;border-radius:12px;padding:14px;margin:10px 0}
+.f25-tf{display:grid;gap:9px}.f25-statement{display:flex;justify-content:space-between;align-items:center;gap:15px;background:#f5f9fd;border:1px solid #e2edf6;border-radius:10px;padding:12px;line-height:1.6}
+.f25-statement span{flex:1;overflow-wrap:anywhere}.f25-statement select{min-width:122px;max-width:140px;border:1px solid #9bb5ca;border-radius:8px;padding:9px;background:white;color:#13436b}
+.f25-question .photo{max-width:100%;height:auto;object-fit:contain}
+.f25-review{border:1px solid #d6e5ee;border-radius:14px;margin:14px 0;padding:10px 15px;background:#fff}.f25-review>summary{font-weight:700;cursor:pointer;padding:8px;line-height:1.55}
+.f25-review .f25-question{border:0;padding:6px;margin:4px}
+.f25-feedback{margin:12px 0;padding:14px;border-radius:10px;line-height:1.7}.f25-feedback.right{background:#e9f8ec;color:#075c33}.f25-feedback.wrong{background:#fff1e5;color:#80340b}
+.f25-counts{margin-bottom:18px}.f25-shortage{color:#a62922}
+.f25-cta{margin:22px 0}.f25-cta h2{margin-bottom:8px}
+.f25-exam .answers{display:grid;gap:9px}.f25-exam .answer{min-height:48px;align-items:start}.f25-exam input[type=radio]{flex-shrink:0;margin-top:7px}
+.f25-exam textarea{width:100%;min-height:68px}
+@media(max-width:600px){.f25-question{padding:12px}.f25-statement{flex-direction:column;align-items:stretch;gap:5px}.f25-statement select{max-width:none;width:100%}.f25-exam,.f25-reviews{min-width:0}.f25-qtitle{align-items:start}.f25-review{padding:8px}}
+
+/* Prevent pale hover background with white foreground on primary buttons. */
+.f25-reviews .btn.primary:hover:not(:disabled),.f25-exam .btn.primary:hover:not(:disabled){background:#07556e;color:#fff;border-color:#07556e;}
