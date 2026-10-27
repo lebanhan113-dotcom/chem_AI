@@ -1,8 +1,37 @@
-<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#123c5f"><title>EduPlan AI 7.14+ | Giao bài · Kiểm tra · Chấm điểm · Quản lý học tập</title><link rel="stylesheet" href="/assets/app.css"></head><body>
-<div class="shell">
-<header class="header"><div class="brand"><div class="logo">⚛</div><div><div class="eyebrow">LÊ BÁ NHẪN • TRƯỜNG THPT HÒN ĐẤT</div><h1>EduPlan <span>AI 7.14+ · Quản lý số</span></h1><p>Hệ thống giao bài · Kiểm tra · Chấm điểm · Quản lý học tập | Hóa học THPT</p></div></div><div class="headside"><span class="badge">KẾT NỐI TRI THỨC</span><span class="badge muted">NGÂN HÀNG ĐÚNG / SAI</span></div></header>
-<div class="tool-caption"><span>THANH CÔNG CỤ ĐẦY ĐỦ · 16 CHỨC NĂNG</span><span>Chọn trực tiếp nội dung cần sử dụng · Không ẩn chức năng</span></div><nav class="navbar" aria-label="Thanh công cụ đầy đủ"><button class="nav active" data-nav="home">⌂ Tổng quan</button><button class="nav" data-nav="dashboard">▦ Trung tâm giáo viên</button><button class="nav" data-nav="student">◉ Thi / Làm bài online</button><button class="nav" data-nav="practice">✎ Luyện theo bài</button><button class="nav" data-nav="bank">▤ Ngân hàng câu hỏi</button><button class="nav" data-nav="source">◇ Tự luyện nguồn</button><button class="nav" data-nav="wrong">↺ Ôn lỗi sai</button><button class="nav" data-nav="progress">▣ Tiến độ & điểm của em</button><button class="nav" data-nav="class">♙ Lớp & học sinh</button><button class="nav" data-nav="course">▧ Khóa học</button><button class="nav" data-nav="make">⊞ Tạo / Trộn đề</button><button class="nav" data-nav="assign">⇥ Giao bài & Theo dõi</button><button class="nav" data-nav="paper">▦ Chấm phiếu giấy</button><button class="nav" data-nav="analytics">▥ Thống kê & phân tích</button><button class="nav" data-nav="teacher">↑ Cập nhật ngân hàng</button><button class="nav" data-nav="guide">ⓘ Hướng dẫn</button></nav>
-<main><section class="filterblock"><div class="block-title"><h2>Chọn nội dung học tập</h2><span id="countHint" class="subtitle"></span></div><div class="filters"><label>Khối lớp<select id="grade"><option value="10">Hóa học 10</option><option value="11">Hóa học 11</option><option value="12" selected>Hóa học 12</option></select></label><label>Chương<select id="chapter"><option value="">Tất cả chương</option></select></label><label>Bài / chuyên đề<select id="lesson"><option value="">Tất cả bài</option></select></label><label>Phần kiểm tra<select id="part"><option value="II">Phần II · Đúng / Sai</option></select></label><label>Tìm nội dung<input id="query" type="search" placeholder="Tìm theo tên bài, số câu..."></label></div><div class="quick-buttons"><span class="muted-small">Luyện nhanh:</span><button class="quick" data-start="5">5 câu</button><button class="quick" data-start="10">10 câu</button><button class="quick" data-start="15">15 câu</button><button class="quick secondary" data-nav="source">Kho tự luyện nguồn</button></div></section>
-<div id="banner" class="banner" role="status" hidden></div><section id="view" aria-live="polite"></section></main>
-<footer>EduPlan AI · Thiết kế nội dung: Lê Bá Nhẫn – Trường THPT Hòn Đất · Bản sẵn sàng triển khai trực tuyến • Không cần GEMINI_API_KEY</footer>
-</div><script src="/assets/app.js" defer></script><script src="/assets/management.js" defer></script></body></html>
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#132b4d">
+  <meta name="description" content="CHEM-MAP TUTOR AI - WebApp mẫu chẩn đoán lỗi sai Hóa học và luyện tập cá nhân hóa.">
+  <title>CHEM-MAP TUTOR AI | Hóa học 10–12</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Điều hướng">
+      <div class="brand"><div class="brand-icon">CM</div><div><strong>CHEM-MAP</strong><small>TUTOR AI <span class="version">V4.1</span></small></div></div>
+      <p class="nav-kicker">HỌC TẬP THÔNG MINH</p>
+      <nav class="nav" id="navigation">
+        <button class="nav-btn active" data-view="home"><span>⌂</span> Tổng quan</button>
+        <button class="nav-btn" data-view="practice"><span>✎</span> Luyện tập & kiểm tra</button>
+        <button class="nav-btn" data-view="plan"><span>↗</span> Lộ trình học</button>
+        <button class="nav-btn" data-view="map"><span>◈</span> Bản đồ năng lực</button>
+        <button class="nav-btn" data-view="history"><span>▤</span> Lịch sử học tập</button>
+        <button class="nav-btn" data-view="coverage"><span>▥</span> Độ phủ ngân hàng</button>
+        <button class="nav-btn" data-view="teacher"><span>▦</span> Góc giáo viên</button>
+        <button class="nav-btn" data-view="sources"><span>☷</span> Nguồn & bản quyền</button>
+      </nav>
+      <div class="side-note"><strong>Chế độ minh họa</strong><p>Bộ mẫu có 794 câu minh họa/biến thể. Chấm tự động dựa trên đáp án và quy tắc giáo viên duyệt; chưa tích hợp AI tạo sinh. Có luyện câu mới để kiểm tra chuyển giao.</p></div>
+      <div class="side-foot">Lê Bá Nhẫn · THPT Hòn Đất<br>Hóa học 10 · 11 · 12</div>
+    </aside>
+    <main class="main-content">
+      <header class="topbar"><div><span class="eyebrow">HỌC ĐỂ HIỂU · SAI ĐỂ TIẾN BỘ</span><h1 id="page-title">Tổng quan học tập</h1></div><div class="top-actions"><label for="student-name">Tên hiển thị</label><input id="student-name" maxlength="28" placeholder="HS demo" autocomplete="off"><span class="demo-pill">Dữ liệu chỉ lưu trên trình duyệt</span></div></header>
+      <section id="screen" aria-live="polite"></section>
+      <footer class="footer-note">CHEM-MAP TUTOR AI · Bản mẫu chạy cục bộ · Không dùng dữ liệu học sinh thật khi thử nghiệm nếu chưa có cơ sở pháp lý và biện pháp bảo vệ phù hợp.</footer>
+    </main>
+  </div>
+  <script src="catalog.js"></script><script src="seed.js"></script><script src="app.js"></script>
+</body>
+</html>
