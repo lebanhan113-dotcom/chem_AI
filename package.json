@@ -1,8 +1,0 @@
-{
-  "name": "chem-map-tutor-ai-v72",
-  "version": "7.2.0",
-  "private": true,
-  "description": "CHEM-MAP TUTOR AI - Lop hoc, bai giao, tien bo, thong ke tap trung",
-  "engines": {"node": ">=22.13.0"},
-  "scripts": {"start": "node server/server.js", "check": "node --check server/server.js && node --check server/portal.js && node --check server/manage_routes.js"}
-}
