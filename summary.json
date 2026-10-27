@@ -1,0 +1,39 @@
+{
+  "old_unique_loaded": 623,
+  "new_files": 4,
+  "new_by_file": {
+    "Hoa_12_Pin_dien_va_dien_phan_Dung_Sai_GV.docx": {
+      "extracted": 34,
+      "duplicate": 1,
+      "added": 33,
+      "auto": 1,
+      "quarantine": 32
+    },
+    "2025-2026_12.6_Dai_cuong_ve_kim_loai_Cau_hoi_Dung_Sai_DA_SUA.docx": {
+      "extracted": 52,
+      "duplicate": 2,
+      "added": 50,
+      "auto": 1,
+      "quarantine": 49
+    },
+    "Hoa_12_Chuong_7_Nhom_IA_IIA_Cau_hoi_Dung_Sai.docx": {
+      "extracted": 24,
+      "duplicate": 0,
+      "added": 24,
+      "auto": 0,
+      "quarantine": 24
+    },
+    "Chuong_8_Kim_loai_chuyen_tiep_va_phuc_chat_Cau_hoi_Dung_Sai_HS.docx": {
+      "extracted": 44,
+      "duplicate": 1,
+      "added": 43,
+      "auto": 0,
+      "quarantine": 43
+    }
+  },
+  "added_unique": 150,
+  "duplicates_new": 4,
+  "total_unique": 773,
+  "new_auto_source_keys": 2,
+  "new_quarantine": 148
+}
