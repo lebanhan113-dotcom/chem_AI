@@ -1,0 +1,470 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>EDUVIDEO FLOW AI V4.2 – Lê Bá Nhẫn</title><meta name="author" content="Lê Bá Nhẫn – Trường THPT Hòn Đất"><style>
+:root{color-scheme:light;--bg:#f5f7fb;--ink:#132139;--muted:#66758c;--line:#e1e7f1;--blue:#1767d1;--ok:#07866b;--warn:#a65f00;--err:#c03746;--white:#fff;--radius:16px}*{box-sizing:border-box}body{margin:0;background:var(--bg);font-family:Inter,'Segoe UI',Arial,sans-serif;color:var(--ink);line-height:1.55}.top{min-height:76px;display:flex;align-items:center;gap:22px;justify-content:space-between;padding:12px clamp(16px,3vw,50px);background:var(--white);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:30}.brand{display:flex;align-items:center;gap:10px;white-space:nowrap}.brand-icon{font-size:20px;color:white;background:linear-gradient(135deg,#1767d1,#1ba39b);padding:9px 13px;border-radius:12px}.brand strong{display:block;letter-spacing:.3px}.brand em{font-style:normal;color:var(--blue)}.brand small{display:block;color:var(--muted);font-size:11px}.top nav{display:flex;gap:3px;flex-wrap:wrap}.nav{background:transparent;color:#5a6a80;border:0;border-radius:10px;padding:9px 13px;font-weight:600;cursor:pointer}.nav:hover,.nav.on{background:#eaf2fc;color:#1359b4}.server-tag{color:var(--muted);font-size:12px;white-space:nowrap}.server-tag.ok{color:var(--ok)}.server-tag.bad{color:var(--err)}main{max-width:1210px;margin:0 auto;padding:30px 22px 90px}.page-head{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:22px}.page-head h1{font-size:clamp(24px,3vw,33px);margin:3px 0 5px;line-height:1.25}.page-head p{max-width:690px;margin:0;color:var(--muted)}.eyebrow{color:var(--blue);font-size:11px;letter-spacing:.12em;font-weight:800}.panel{background:var(--white);border:1px solid var(--line);padding:24px;border-radius:var(--radius);box-shadow:0 6px 24px rgba(25,47,82,.035);margin-bottom:18px}.panel h2{font-size:17px;margin:0 0 14px}.gridform{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.field{display:flex;flex-direction:column;gap:7px}.field label{font-size:13px;font-weight:700}.full{grid-column:1/-1}.field input:not([type=checkbox]),.field textarea,.field select,.editbox{padding:13px;border:1px solid #cfd8e7;background:white;border-radius:10px;font:inherit;font-size:14px;width:100%;min-width:0}.field textarea{resize:vertical}.field input:focus,.field textarea:focus,.field select:focus,.editbox:focus{outline:3px solid #d8e8ff;border-color:var(--blue)}.form-footer{display:flex;gap:12px;justify-content:space-between;align-items:center;padding-top:6px}.subtle,.muted{color:var(--muted);font-size:13px}.inline{display:flex;align-items:center;gap:12px;flex-wrap:wrap}.upload{cursor:pointer;color:var(--blue);font-size:13px;font-weight:700;text-decoration:underline}.tick{font-weight:500!important}.tick input{width:17px;height:17px;vertical-align:middle}button{font:inherit;cursor:pointer;border-radius:10px;font-weight:700;border:1px solid transparent;padding:10px 16px;min-height:41px}button:disabled{opacity:.43;cursor:not-allowed}.primary{background:var(--blue);color:white}.primary:hover:not(:disabled){background:#1153aa}.outline{background:white;color:#1b579e;border:1px solid #b6cce7}.outline:hover:not(:disabled){background:#eaf2fc}.small{font-size:12px;padding:7px 10px;min-height:34px}.danger{border-color:#edb0b7;color:#ac2936}.hidden{display:none!important}.between{display:flex;align-items:center;justify-content:space-between;gap:12px}.wrap{flex-wrap:wrap}.pill{font-size:12px;font-weight:700;background:#eff5fc;border-radius:999px;padding:5px 11px;color:#285b93}.progress{height:9px;border-radius:10px;background:#e8edf6;overflow:hidden;margin:12px 0 4px}.progress>div{height:100%;background:linear-gradient(90deg,#1d76e3,#13aa9b);width:0;transition:width .35s}.stages{display:grid;grid-template-columns:repeat(4,1fr);gap:9px;margin-top:18px}.stage{border:1px solid var(--line);border-radius:12px;padding:12px;background:#fafcff;display:flex;gap:9px;align-items:flex-start;font-size:13px}.stage .num{font-weight:800;font-size:12px;color:#5a6d85;background:#e9edf3;padding:4px 7px;border-radius:7px}.stage .state{display:block;font-size:11px;font-weight:650;color:var(--muted)}.stage.done{border-color:#c3e8d9;background:#f2fcf7}.stage.done .state{color:var(--ok)}.stage.running{border-color:#a6ccfa;background:#eef6ff}.stage.running .state{color:var(--blue)}.stage.failed{border-color:#f4b8c0;background:#fff3f5}.stage.failed .state{color:var(--err)}.twocol{display:grid;grid-template-columns:1fr 1fr;gap:18px}.scrolltext{overflow-wrap:anywhere;white-space:pre-wrap;max-height:420px;overflow:auto;font-size:13.5px}.scrolltext h3{font-size:14px}.empty{text-align:center;padding:60px 20px;color:var(--muted)}.project-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}.project-card{background:var(--white);border:1px solid var(--line);border-radius:14px;padding:19px}.project-card h3{margin:0 0 5px}.project-card p{font-size:12px;color:var(--muted);margin:6px 0 18px}.scene-card{background:white;border:1px solid var(--line);border-radius:16px;padding:22px;margin:16px 0}.scene-card h3{margin:0}.scene-badge{color:var(--blue);font-size:12px;font-weight:700}.scene-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:18px}.scene-card label{display:block;font-size:12px;font-weight:700;color:#374d65;margin-bottom:6px}.scene-card textarea{min-height:82px}.scene-card .span{grid-column:1/-1}.asset{background:#eaf0f8;border:1px dashed #ccd8e8;border-radius:12px;min-height:130px;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--muted);overflow:hidden}.asset img,.asset video{display:block;width:100%;max-height:300px;object-fit:contain;background:#0b172b}.actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:16px}.scene-card .status{margin:12px 0;color:var(--muted);font-size:13px}.scene-card .status.good{color:var(--ok)}.scene-card .status.error{color:var(--err)}#finalPlayer{width:100%;background:#0b1529;max-height:630px;border-radius:12px}#alerts{position:fixed;top:90px;right:18px;max-width:min(440px,calc(100% - 32px));z-index:99}.toast{background:#19314b;color:#fff;padding:13px 18px;border-radius:12px;margin-bottom:9px;box-shadow:0 10px 24px #16335333;font-size:13px}.toast.error{background:#8f2637}.toast.success{background:#126d58}footer{padding:20px;text-align:center;border-top:1px solid var(--line);font-size:12px;color:var(--muted)}@media(max-width:1050px){.top{flex-wrap:wrap}.top nav{order:3;width:100%;justify-content:space-between}.server-tag{margin-left:auto}.stages{grid-template-columns:repeat(2,1fr)}}@media(max-width:650px){.top{padding:11px 14px}.top nav{overflow-x:auto;flex-wrap:nowrap;justify-content:flex-start}.top nav button{flex:none;font-size:12px;padding:8px 9px}.server-tag{font-size:10px}.brand strong{font-size:13px}.brand small{font-size:10px}main{padding:21px 12px 65px}.panel{padding:16px}.gridform,.twocol,.scene-grid{grid-template-columns:1fr;gap:12px}.full,.scene-grid .span{grid-column:auto}.form-footer{align-items:stretch;flex-direction:column}.stages{grid-template-columns:1fr}.scene-card{padding:14px}.page-head{flex-wrap:wrap}button{min-height:44px}.actions button{flex:1 1 140px}}
+
+.brand .brand-author{font-size:10px;color:#175f90;white-space:normal;max-width:340px}.file-warning{background:#fff1dd;color:#744900;border-bottom:1px solid #e6c58c;padding:12px clamp(16px,3vw,50px);font-size:13px;font-weight:600}footer div{margin-top:3px}
+
+/* V4.2 - Tutorial video library; independent from AI production workflow. */
+.help-hub{padding:20px}.guide-tabs{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:20px}.guide-tab{background:#edf3fb;color:#355575;border:1px solid #d7e4f4}.guide-tab.on{background:#1767d1;border-color:#1767d1;color:#fff}.guide-layout{display:grid;grid-template-columns:minmax(205px,290px) minmax(0,1fr);gap:20px;margin-top:20px}.guide-list{max-height:725px;overflow:auto;display:flex;flex-direction:column;gap:7px;padding-right:5px}.guide-item{text-align:left;background:#f4f7fc;border:1px solid #e0e8f3;color:#344c67;padding:12px 14px;font-weight:650;border-radius:10px}.guide-item:hover,.guide-item.on{background:#e8f2ff;border-color:#9ebfe9;color:#155aad}.guide-detail{border:1px solid #dde6f1;border-radius:16px;padding:19px;min-width:0}.guide-detail h2{font-size:22px;margin:6px 0}.guide-detail video{width:100%;aspect-ratio:16/9;max-height:480px;background:#0e1b30;display:block;border-radius:12px;margin:15px 0}.guide-detail h3{font-size:16px;margin:20px 0 8px}.guide-video-actions{display:flex;gap:10px;flex-wrap:wrap}.guide-video-actions>*{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;min-height:42px;padding:10px 13px;font-weight:700;border-radius:10px;font-size:13px}.guide-steps{padding-left:23px;display:grid;gap:11px;line-height:1.6}.guide-steps li{padding-left:4px}.guide-steps strong{color:#155aad}.guide-note{padding:13px;background:#f0f8f5;border-left:4px solid #098f80;border-radius:8px;margin-top:14px;font-size:14px}.guide-disclosure{margin-top:12px}.guide-video-error{background:#fff1e8;border:1px solid #f2c9a9;padding:12px;border-radius:10px;color:#8a4117;font-size:13px}.page-head>button{flex-shrink:0}@media(max-width:800px){.guide-layout{grid-template-columns:1fr}.guide-list{flex-direction:row;overflow-x:auto;max-height:none;gap:8px;padding:2px 1px 10px}.guide-item{min-width:170px;max-width:225px;flex:none;white-space:normal}.guide-detail{padding:14px}}@media(max-width:500px){.guide-video-actions{flex-direction:column}.guide-video-actions>*{width:100%}.guide-tab{flex:1 1 140px}.guide-detail h2{font-size:19px}}
+
+</style></head>
+<body>
+<header class="top"><div class="brand"><span class="brand-icon">▶</span><div><strong>EDUVIDEO FLOW <em>AI</em></strong><small>Xưởng video giáo dục • V4.2</small><small class="brand-author">Tác giả giải pháp: Lê Bá Nhẫn – Trường THPT Hòn Đất</small></div></div><nav><button class="nav on" data-page="create">Tạo video</button><button class="nav" data-page="projects">Dự án của tôi</button><button class="nav" data-page="workflow">Sản xuất</button><button class="nav" data-page="scenes">Các cảnh</button><button class="nav" data-page="final">Video cuối</button><button class="nav" data-page="help">Hướng dẫn sử dụng</button></nav><span class="server-tag" id="serverStatus">Đang kiểm tra cấu hình</span></header>
+<div id="fileModeWarning" class="file-warning hidden" role="alert">Bạn đã mở trực tiếp tệp index.html. Giao diện có thể xem được, nhưng để tạo video thật phải khởi chạy backend bằng START_WINDOWS.bat hoặc START_MAC_LINUX.sh rồi mở http://localhost:8000/index.html. Không cần đổi tên tệp.</div>
+<main>
+<div id="alerts" role="status" aria-live="polite"></div>
+<section id="create" class="page"><div class="page-head"><div><span class="eyebrow">TẠO DỰ ÁN</span><h1>Biến bài học thành video sinh động</h1><p>Nhập kiến thức và thiết lập phong cách; hệ thống sẽ lần lượt tạo kịch bản, ảnh tham chiếu và video cho từng cảnh.</p></div></div>
+<form id="projectForm" class="panel gridform"><div class="field"><label for="subject">Môn học *</label><select id="subject" required></select></div><div class="field"><label for="grade">Lớp *</label><select id="grade" required></select></div><div class="field full"><label for="title">Tên bài học *</label><input id="title" placeholder="Ví dụ: Phản ứng oxi hóa – khử" maxlength="180" required></div><div class="field full"><label for="content">Nội dung bài học *</label><textarea id="content" rows="8" placeholder="Nhập hoặc dán nội dung kiến thức; AI chỉ sử dụng dữ liệu nguồn được cung cấp..." required></textarea><div class="inline"><label class="upload">Tải tài liệu TXT / PDF / DOCX <input type="file" id="sourceFile" accept=".txt,.pdf,.docx" hidden></label><span class="subtle" id="uploadMessage">Tài liệu được đọc trên máy chủ</span></div></div><div class="field"><label for="videoType">Dạng video</label><select id="videoType"></select></div><div class="field"><label for="duration">Thời lượng</label><select id="duration"></select></div><div class="field"><label for="style">Phong cách</label><select id="style"></select></div><div class="field"><label for="characterMode">Kiểu video</label><select id="characterMode"></select></div><div class="field full"><label class="tick"><input type="checkbox" id="subtitles"> Tạo phụ đề ở hậu kỳ (mặc định tắt)</label></div><div class="full form-footer"><span id="configHint" class="subtle">Video 32 giây: 4 cảnh × 8 giây</span><button type="button" class="outline" id="helpForType">▶ Xem hướng dẫn dạng video này</button><button class="primary" type="submit" id="createBtn">✦ Tạo video</button></div></form></section>
+<section id="projects" class="page hidden"><div class="page-head"><div><span class="eyebrow">THƯ VIỆN DỰ ÁN</span><h1>Dự án của tôi</h1><p>Chọn dự án để khôi phục kịch bản, cảnh, trạng thái và video đã lưu.</p></div><button class="outline" id="refreshProjects">↻ Làm mới</button></div><div id="projectList" class="project-list"></div></section>
+<section id="workflow" class="page hidden"><div class="page-head"><div><span class="eyebrow">QUY TRÌNH 14 BƯỚC</span><h1 id="workflowName">Chưa chọn dự án</h1><p id="workflowDesc">Tạo một dự án hoặc chọn từ thư viện.</p></div><div class="inline"><button class="outline" id="editProject" disabled>Sửa bài học / cấu hình</button><button class="outline" id="retryWorkflow" disabled>↻ Tiếp tục / Thử lại</button><button class="outline" id="helpWorkflow">▶ Hướng dẫn các bước</button></div></div><div id="workflowView" class="hidden"><div class="panel"><div class="between"><h2>Tiến độ sản xuất</h2><span class="pill" id="projectStatus">...</span></div><div class="progress"><div id="progressBar"></div></div><p class="subtle" id="progressText"></p><div class="stages" id="stages"></div></div><div class="twocol"><article class="panel"><h2>Phân tích bài học</h2><div id="analysis" class="scrolltext"></div></article><article class="panel"><h2>Cấu trúc kịch bản</h2><div id="blueprint" class="scrolltext"></div></article></div><article class="panel"><h2>Kịch bản tổng thể</h2><div id="masterScript" class="scrolltext"></div></article><div class="twocol"><article class="panel"><h2>Character Bible và Environment Bible</h2><div id="biblePrimary" class="scrolltext"></div></article><article class="panel"><h2>Phong cách, giọng nói và âm thanh</h2><div id="bibleSecondary" class="scrolltext"></div></article></div><article class="panel"><h2>Lịch sử lỗi gần nhất</h2><div id="errors"></div></article></div><div id="workflowEmpty" class="panel empty">Chưa có dự án đang mở.</div></section>
+<section id="scenes" class="page hidden"><div class="page-head"><div><span class="eyebrow">KIỂM DUYỆT TỪNG CẢNH</span><h1>Phân cảnh sản xuất</h1><p>Mỗi cảnh có dữ liệu, ảnh, clip và trạng thái riêng. Tạo lại một cảnh không xóa các cảnh khác.</p></div><button class="outline" id="helpScenes">▶ Hướng dẫn duyệt và tạo lại cảnh</button></div><div id="sceneView" class="hidden"><div class="panel between wrap"><div><strong id="sceneSummary">0/0 cảnh được chấp nhận</strong><p class="subtle">Chỉ ghép sau khi mọi cảnh đã đạt kiểm tra và được chấp nhận.</p></div><button class="primary" id="mergeBtn" disabled>Ghép video → Xuất MP4</button></div><div id="sceneList"></div></div><div id="sceneEmpty" class="panel empty">Chưa có cảnh. Hãy tạo dự án và hoàn tất bước chia cảnh.</div></section>
+<section id="final" class="page hidden"><div class="page-head"><div><span class="eyebrow">SẢN PHẨM CUỐI</span><h1>Video bài giảng hoàn chỉnh</h1><p>Xem, tải MP4 và quay lại sửa một cảnh để tạo phiên bản mới.</p></div><button class="outline" id="helpFinal">▶ Hướng dẫn sử dụng MP4</button></div><article class="panel" id="finalEmpty">Video cuối chưa được xuất. Hãy kiểm duyệt và chấp nhận tất cả cảnh trước khi ghép.</article><article class="panel hidden" id="finalReady"><video id="finalPlayer" controls preload="metadata" playsinline></video><div class="between wrap"><div id="finalMetadata"></div><div class="inline"><button class="outline" id="backToScenes">Chỉnh sửa cảnh</button><button class="primary" id="downloadBtn">↓ Tải MP4</button></div></div></article><article id="finalUsage" class="panel hidden"><div class="between wrap"><div><h2 id="finalUsageTitle">Cách sử dụng sản phẩm video</h2><p class="subtle">Hướng dẫn tương ứng với dạng video của dự án.</p></div><button id="helpForResult" class="outline" type="button">▶ Xem video hướng dẫn chi tiết</button></div><ol id="finalUsageSteps" class="guide-steps"></ol></article></section>
+<section id="help" class="page hidden">
+ <div class="page-head"><div><span class="eyebrow">TRUNG TÂM HƯỚNG DẪN</span><h1>Video và cách sử dụng từng sản phẩm</h1><p>21 video minh họa thao tác, hướng dẫn bằng chữ và gợi ý đưa từng dạng video vào hoạt động dạy học. Có thể xem ngay mà không cần kết nối AI.</p></div></div>
+ <div class="panel help-hub">
+  <div class="guide-tabs" role="group" aria-label="Nhóm hướng dẫn"><button class="guide-tab on" data-guide-kind="type" type="button">12 dạng video dạy học</button><button class="guide-tab" data-guide-kind="stage" type="button">8 bước sản xuất</button><button class="guide-tab" data-guide-kind="overview" type="button">Tổng quan</button></div>
+  <div class="field"><label for="guideSearch">Tìm nhanh video hướng dẫn</label><input id="guideSearch" type="search" placeholder="Nhập tên dạng video, bước xử lý hoặc từ khóa..."></div>
+  <div class="guide-layout">
+   <aside id="guideList" class="guide-list" aria-label="Danh sách video hướng dẫn"></aside>
+   <article class="guide-detail" id="guideDetail" aria-live="polite">
+     <span class="eyebrow" id="guideKindLabel">HƯỚNG DẪN</span>
+     <h2 id="guideTitle">Chọn một nội dung</h2>
+     <p id="guideIntro" class="subtle"></p>
+     <video id="guidePlayer" controls playsinline preload="metadata" aria-label="Video hướng dẫn sử dụng"></video>
+     <p id="guideVideoError" class="guide-video-error hidden" role="alert">Không tìm thấy tệp video hướng dẫn. Hãy mở ứng dụng trong thư mục ZIP đã giải nén đầy đủ, bao gồm static/tutorials.</p>
+     <div class="guide-video-actions"><a id="guideDownload" class="outline guide-download" download>Tải video hướng dẫn MP4</a><button id="guideApply" class="primary" type="button">Mở chức năng liên quan</button></div>
+     <h3 id="guideStepHeading">Các bước sử dụng</h3>
+     <ol id="guideSteps" class="guide-steps"></ol>
+     <div class="guide-note" id="guideNote"></div>
+     <p class="subtle guide-disclosure">Các video MP4 là video minh họa bằng chữ theo từng bước, không phải bản quay thao tác giao diện thật; chức năng tạo video AI vẫn yêu cầu backend và dịch vụ được cấu hình.</p>
+   </article>
+  </div>
+ </div>
+</section>
+</main>
+<footer><strong>Tác giả giải pháp: Lê Bá Nhẫn – Trường THPT Hòn Đất</strong><div>EDUVIDEO FLOW AI V4.2 · Gemini 3.1 Pro · Nano Banana · Veo 3.1 · FFmpeg</div><div>Kết quả chỉ được đánh dấu hoàn thành khi tệp thực tế đã có.</div></footer>
+<script>
+"use strict";
+const HELP_GUIDES = [
+  {
+    "id": "type-00",
+    "kind": "type",
+    "title": "Khởi động bài học",
+    "subtitle": "Gây tò mò trong những phút đầu tiết học",
+    "steps": [
+      "Chọn Khởi động bài học; nhập câu hỏi hoặc tình huống gây tò mò, chưa tiết lộ đáp án.",
+      "Chọn 8–24 giây, phong cách phù hợp; tạo video rồi kiểm tra câu hỏi mở đầu và hình ảnh.",
+      "Phát video ở đầu tiết; tạm dừng để học sinh dự đoán, sau đó dẫn vào chủ đề."
+    ],
+    "note": "Giữ câu hỏi ngắn, tránh tiết lộ kết luận ngay trên màn hình.",
+    "video": "01_khoi-ong-bai-hoc.mp4",
+    "typeValue": "Khởi động bài học"
+  },
+  {
+    "id": "type-01",
+    "kind": "type",
+    "title": "Giới thiệu bài học",
+    "subtitle": "Định hướng cho học sinh về nội dung sắp học",
+    "steps": [
+      "Nhập mục tiêu, tình huống và khái niệm nền của bài mới.",
+      "Chọn Giới thiệu bài học, 16–32 giây; duyệt mạch mở đầu – mục tiêu – chủ đề.",
+      "Phát trước khi vào bài; yêu cầu học sinh nêu điều mình sẽ tìm hiểu."
+    ],
+    "note": "Chỉ nêu các mục tiêu chính, không nhồi quá nhiều kiến thức.",
+    "video": "02_gioi-thieu-bai-hoc.mp4",
+    "typeValue": "Giới thiệu bài học"
+  },
+  {
+    "id": "type-02",
+    "kind": "type",
+    "title": "Đặt vấn đề",
+    "subtitle": "Tạo mâu thuẫn nhận thức để khơi gợi thảo luận",
+    "steps": [
+      "Nhập một vấn đề thực tế hoặc hiện tượng cần giải thích; nêu rõ câu hỏi trung tâm.",
+      "Chọn Đặt vấn đề; kiểm tra cảnh cuối phải mở ra câu hỏi chưa được giải ngay.",
+      "Cho học sinh thảo luận cặp đôi hoặc nhóm trước khi khám phá lời giải."
+    ],
+    "note": "Tình huống phải có cơ sở khoa học, tránh dữ kiện gây hiểu lầm.",
+    "video": "03_at-van-e.mp4",
+    "typeValue": "Đặt vấn đề"
+  },
+  {
+    "id": "type-03",
+    "kind": "type",
+    "title": "Giải thích khái niệm",
+    "subtitle": "Biến khái niệm trừu tượng thành hình ảnh dễ hiểu",
+    "steps": [
+      "Nhập định nghĩa chính xác, ví dụ và dấu hiệu nhận biết.",
+      "Chọn Giải thích khái niệm; kiểm tra mô phỏng, thuật ngữ và lời thoại.",
+      "Phát video; yêu cầu học sinh tự diễn đạt khái niệm và đưa ví dụ mới."
+    ],
+    "note": "Hiển thị công thức hoặc ký hiệu khoa học bằng lớp chữ chính xác.",
+    "video": "04_giai-thich-khai-niem.mp4",
+    "typeValue": "Giải thích khái niệm"
+  },
+  {
+    "id": "type-04",
+    "kind": "type",
+    "title": "Trình bày kiến thức",
+    "subtitle": "Tóm tắt các ý cốt lõi theo thứ tự logic",
+    "steps": [
+      "Nhập các luận điểm hoặc quy tắc theo thứ tự và ví dụ minh họa.",
+      "Chọn Trình bày kiến thức; dùng 24–64 giây, duyệt từng cảnh và ý chuyển tiếp.",
+      "Phát theo đoạn; tạm dừng để học sinh lập sơ đồ hoặc ghi ý chính."
+    ],
+    "note": "Mỗi cảnh tập trung một ý kiến thức, không vượt thời lượng lời thoại.",
+    "video": "05_trinh-bay-kien-thuc.mp4",
+    "typeValue": "Trình bày kiến thức"
+  },
+  {
+    "id": "type-05",
+    "kind": "type",
+    "title": "Minh họa tình huống",
+    "subtitle": "Cho học sinh quan sát một tình huống cụ thể",
+    "steps": [
+      "Nêu nhân vật, hoàn cảnh, quyết định và hậu quả trong tình huống.",
+      "Chọn Minh họa tình huống; kiểm tra Character/Environment Bible và hội thoại.",
+      "Phát video; hỏi học sinh nhân vật nên xử lý thế nào và vì sao."
+    ],
+    "note": "Giữ nhân vật nhất quán, tránh tình huống định kiến hoặc phản cảm.",
+    "video": "06_minh-hoa-tinh-huong.mp4",
+    "typeValue": "Minh họa tình huống"
+  },
+  {
+    "id": "type-06",
+    "kind": "type",
+    "title": "Kể chuyện giáo dục",
+    "subtitle": "Dạy học thông qua câu chuyện có thông điệp",
+    "steps": [
+      "Nhập bối cảnh, nhân vật, xung đột, diễn biến và bài học rút ra.",
+      "Chọn Kể chuyện giáo dục; duyệt lời thoại tự nhiên và tính liên tục các cảnh.",
+      "Phát toàn bộ truyện; yêu cầu học sinh phân tích hành động và thông điệp."
+    ],
+    "note": "Nội dung phù hợp độ tuổi; nhân vật, trang phục không thay đổi tùy tiện.",
+    "video": "07_ke-chuyen-giao-duc.mp4",
+    "typeValue": "Kể chuyện giáo dục"
+  },
+  {
+    "id": "type-07",
+    "kind": "type",
+    "title": "Mô phỏng hiện tượng",
+    "subtitle": "Quan sát các quá trình khó hoặc nguy hiểm khi làm thật",
+    "steps": [
+      "Nhập hiện tượng, điều kiện, diễn biến và kết luận khoa học có căn cứ.",
+      "Chọn Mô phỏng hiện tượng, phong cách Khoa học – mô phỏng; kiểm tra màu, chất, động tác.",
+      "Phát chậm hoặc theo cảnh; yêu cầu học sinh mô tả quan sát rồi giải thích."
+    ],
+    "note": "Mô phỏng phải đúng khoa học; không dùng AI thay thế hướng dẫn an toàn thí nghiệm.",
+    "video": "08_mo-phong-hien-tuong.mp4",
+    "typeValue": "Mô phỏng hiện tượng"
+  },
+  {
+    "id": "type-08",
+    "kind": "type",
+    "title": "Câu hỏi khám phá",
+    "subtitle": "Mở đầu chu trình tìm tòi và dự đoán",
+    "steps": [
+      "Nhập câu hỏi mở, dữ kiện và những giả thuyết học sinh có thể nêu.",
+      "Chọn Câu hỏi khám phá; kiểm tra video đưa đủ dữ kiện nhưng không làm lộ đáp án.",
+      "Phát video và dừng ở câu hỏi; cho học sinh ghi dự đoán, chia sẻ chứng cứ."
+    ],
+    "note": "Ưu tiên câu hỏi có thể giải thích bằng kiến thức của lớp đã chọn.",
+    "video": "09_cau-hoi-kham-pha.mp4",
+    "typeValue": "Câu hỏi khám phá"
+  },
+  {
+    "id": "type-09",
+    "kind": "type",
+    "title": "Luyện tập",
+    "subtitle": "Giúp học sinh áp dụng kiến thức vừa học",
+    "steps": [
+      "Nhập câu hỏi, yêu cầu thao tác và đáp án kèm giải thích để giáo viên kiểm duyệt.",
+      "Chọn Luyện tập; để khoảng dừng hợp lý sau khi nêu đề; kiểm tra kết quả.",
+      "Phát câu hỏi, tạm dừng cho học sinh làm rồi mới hiện phần giải thích."
+    ],
+    "note": "Không hiển thị đáp án quá sớm; đáp án cần được giáo viên kiểm tra.",
+    "video": "10_luyen-tap.mp4",
+    "typeValue": "Luyện tập"
+  },
+  {
+    "id": "type-10",
+    "kind": "type",
+    "title": "Vận dụng",
+    "subtitle": "Kết nối kiến thức với tình huống thực tiễn",
+    "steps": [
+      "Nhập một nhiệm vụ thực tiễn, dữ liệu liên quan và yêu cầu giải quyết.",
+      "Chọn Vận dụng; dùng 24–64 giây và kiểm tra tính hợp lý của dữ kiện.",
+      "Phát tình huống; giao học sinh thảo luận phương án và giải thích lựa chọn."
+    ],
+    "note": "Gắn thực tế, tránh tự bịa dữ kiện sản xuất hoặc kết quả nghiên cứu.",
+    "video": "11_van-dung.mp4",
+    "typeValue": "Vận dụng"
+  },
+  {
+    "id": "type-11",
+    "kind": "type",
+    "title": "Tổng kết bài học",
+    "subtitle": "Hệ thống hóa kiến thức cuối tiết",
+    "steps": [
+      "Nhập các kiến thức trọng tâm, liên hệ và một câu hỏi tự kiểm tra.",
+      "Chọn Tổng kết bài học; dùng 16–40 giây, trình bày 2–4 ý chính.",
+      "Phát cuối tiết; học sinh tự nhắc lại 3 ý và ghi điều còn thắc mắc."
+    ],
+    "note": "Ngắn, chính xác, ưu tiên liên kết giữa các khái niệm.",
+    "video": "12_tong-ket-bai-hoc.mp4",
+    "typeValue": "Tổng kết bài học"
+  },
+  {
+    "id": "stage-12",
+    "kind": "stage",
+    "title": "Phân tích bài học",
+    "subtitle": "Đọc và kiểm tra bản phân tích do Gemini tạo",
+    "steps": [
+      "Mở Sản xuất sau khi nhấn Tạo video; xem tiến trình Phân tích bài học.",
+      "Đọc mục tiêu, kiến thức trọng tâm và cảnh báo; đối chiếu với tài liệu gốc.",
+      "Nếu có lỗi kiến thức, sửa nội dung đầu vào rồi chạy lại phần phụ thuộc."
+    ],
+    "note": "Không tiếp tục biên kịch nếu đầu vào chưa được xác thực.",
+    "video": "13_phan-tich-bai-hoc.mp4",
+    "typeValue": null
+  },
+  {
+    "id": "stage-13",
+    "kind": "stage",
+    "title": "Tạo kịch bản",
+    "subtitle": "Duyệt mạch nội dung, lời thoại và thời lượng",
+    "steps": [
+      "Mở Sản xuất → Kịch bản tổng thể sau khi phân tích hoàn thành.",
+      "Kiểm tra mở đầu, diễn biến, kết thúc; lời thoại đúng chuyên môn và thời lượng.",
+      "Nếu kịch bản chưa đạt, chỉnh nguồn hoặc kịch bản rồi tạo lại phần bị ảnh hưởng."
+    ],
+    "note": "Không sửa sai kịch bản bằng cách sửa riêng prompt video.",
+    "video": "14_tao-kich-ban.mp4",
+    "typeValue": null
+  },
+  {
+    "id": "stage-14",
+    "kind": "stage",
+    "title": "Chia cảnh",
+    "subtitle": "Xem số cảnh, nhịp chuyển và Bible nhất quán",
+    "steps": [
+      "Xem số cảnh bằng thời lượng tổng chia 8 giây; xem mục tiêu mỗi cảnh.",
+      "Đối chiếu Character Bible, Environment Bible, Start State và End State.",
+      "Chỉ chấp nhận dữ liệu khi cảnh tiếp theo nối logic và nhân vật không đổi."
+    ],
+    "note": "Thay đổi Bible cần kiểm tra lại các cảnh đang sử dụng.",
+    "video": "15_chia-canh.mp4",
+    "typeValue": null
+  },
+  {
+    "id": "stage-15",
+    "kind": "stage",
+    "title": "Tạo câu lệnh",
+    "subtitle": "Kiểm tra prompt ảnh và prompt video cho đúng Scene ID",
+    "steps": [
+      "Mở Các cảnh; xem Image Prompt và Video Prompt của từng cảnh.",
+      "Đối chiếu cảnh, nhân vật, đạo cụ, bối cảnh, lời thoại và góc máy.",
+      "Nếu sửa prompt, lưu lại; tạo lại chỉ những tài nguyên phụ thuộc của cảnh đó."
+    ],
+    "note": "Không để lời thoại hoặc ảnh tham chiếu thuộc Scene khác.",
+    "video": "16_tao-cau-lenh.mp4",
+    "typeValue": null
+  },
+  {
+    "id": "stage-16",
+    "kind": "stage",
+    "title": "Tạo hình ảnh",
+    "subtitle": "Duyệt hình ảnh tham chiếu từ Nano Banana",
+    "steps": [
+      "Trong Các cảnh, xem ảnh do Nano Banana tạo sau khi có prompt hợp lệ.",
+      "Kiểm tra 16:9, nhân vật, trang phục, phông nền và tính khoa học.",
+      "Nếu ảnh sai, chọn Tạo lại hình ảnh riêng cảnh; chấp nhận ảnh đúng."
+    ],
+    "note": "Tạo lại ảnh có thể làm video cũ của cảnh hết hiệu lực.",
+    "video": "17_tao-hinh-anh.mp4",
+    "typeValue": null
+  },
+  {
+    "id": "stage-17",
+    "kind": "stage",
+    "title": "Tạo video",
+    "subtitle": "Duyệt clip Veo 3.1 và phát hiện lỗi theo cảnh",
+    "steps": [
+      "Mở Các cảnh, theo dõi trạng thái tạo video của từng Scene ID.",
+      "Xem clip, kiểm tra hành động, âm thanh, lời thoại, điểm đầu và cuối.",
+      "Chọn Tạo lại video nếu chưa đạt; nhấn Chấp nhận cảnh khi clip đã hợp lệ."
+    ],
+    "note": "Không chấp nhận clip chỉ vì đã có mã tác vụ render.",
+    "video": "18_tao-video.mp4",
+    "typeValue": null
+  },
+  {
+    "id": "stage-18",
+    "kind": "stage",
+    "title": "Ghép video",
+    "subtitle": "Xác nhận mọi cảnh trước khi xuất bản",
+    "steps": [
+      "Kiểm tra tất cả cảnh đã có clip hợp lệ và được chấp nhận.",
+      "Nhấn Ghép video → Xuất MP4; theo dõi trạng thái ghép và âm thanh.",
+      "Nếu ghép lỗi, thử lại bước ghép từ clip đã có, không tạo lại toàn bộ cảnh."
+    ],
+    "note": "Nút ghép phải khóa khi thiếu dù chỉ một cảnh được chấp nhận.",
+    "video": "19_ghep-video.mp4",
+    "typeValue": null
+  },
+  {
+    "id": "stage-19",
+    "kind": "stage",
+    "title": "Hoàn thành",
+    "subtitle": "Xem, tải và đưa sản phẩm vào hoạt động dạy học",
+    "steps": [
+      "Mở Video cuối sau khi xuất MP4 thành công.",
+      "Phát thử, kiểm tra tiếng, hình, phụ đề tùy chọn và thời lượng.",
+      "Nhấn Tải MP4; lưu vào giáo án, trình chiếu hoặc kho học liệu của trường."
+    ],
+    "note": "Nếu sửa một cảnh, giữ lại bản MP4 cũ trong lịch sử phiên bản.",
+    "video": "20_hoan-thanh.mp4",
+    "typeValue": null
+  },
+  {
+    "id": "overview-20",
+    "kind": "overview",
+    "title": "Tổng quan ứng dụng",
+    "subtitle": "Từ nội dung bài học đến video MP4 có thể tải về",
+    "steps": [
+      "Vào Tạo video, chọn môn, lớp, tên bài, nhập nội dung và cấu hình video.",
+      "Nhấn Tạo video; theo dõi quy trình, duyệt kịch bản, ảnh và clip từng cảnh.",
+      "Chấp nhận các cảnh đúng, chọn Ghép video và tải sản phẩm MP4."
+    ],
+    "note": "Cần backend và quyền truy cập AI phù hợp để sản xuất video thật.",
+    "video": "21_tong-quan-ung-dung.mp4",
+    "typeValue": null
+  }
+];
+
+</script><script>
+'use strict';
+const $=id=>document.getElementById(id);
+const SUBJECTS=['Tiếng Việt','Ngữ văn','Toán','Tiếng Anh','Ngoại ngữ khác','Đạo đức','Giáo dục công dân','Giáo dục kinh tế và pháp luật','Tự nhiên và Xã hội','Khoa học','Khoa học tự nhiên','Vật lí','Hóa học','Sinh học','Lịch sử','Địa lí','Lịch sử và Địa lí','Tin học','Công nghệ','Âm nhạc','Mĩ thuật','Giáo dục thể chất','Hoạt động trải nghiệm','Hoạt động trải nghiệm, hướng nghiệp','Giáo dục quốc phòng và an ninh','Nội dung giáo dục địa phương','Khác'];
+const TYPES=['Khởi động bài học','Giới thiệu bài học','Đặt vấn đề','Giải thích khái niệm','Trình bày kiến thức','Minh họa tình huống','Kể chuyện giáo dục','Mô phỏng hiện tượng','Câu hỏi khám phá','Luyện tập','Vận dụng','Tổng kết bài học'];
+const STYLES=['Hoạt hình 3D giáo dục','Hoạt hình 2D','Điện ảnh chân thực','Lớp học thực tế','Kể chuyện điện ảnh','Khoa học – mô phỏng','Infographic chuyển động','Khác'];
+const CHARACTERS=['1 nhân vật chính','2 nhân vật đối thoại','Nhiều nhân vật','Không có nhân vật'];
+let project=null, currentPage='create', poller=null, assets=new Map(),busy=false,editingProject=null;
+function fillSelect(id,values,chosen){const el=$(id);for(const v of values){const op=document.createElement('option');op.value=String(v);op.textContent=(typeof v==='number'&&id==='duration')?`${v} giây`:(typeof v==='number'&&id==='grade')?`Lớp ${v}`:v;el.append(op);}if(chosen!==undefined)el.value=String(chosen)}
+fillSelect('subject',SUBJECTS,'Hóa học');fillSelect('grade',Array.from({length:12},(_,i)=>i+1),10);fillSelect('videoType',TYPES,'Mô phỏng hiện tượng');fillSelect('duration',[8,16,24,32,40,48,56,64],32);fillSelect('style',STYLES,'Khoa học – mô phỏng');fillSelect('characterMode',CHARACTERS,'Không có nhân vật');
+$('duration').addEventListener('change',()=>{$('configHint').textContent=`Video ${$('duration').value} giây: ${Number($('duration').value)/8} cảnh × 8 giây`});
+function toast(message,type='info'){const el=document.createElement('div');el.className=`toast ${type}`;el.textContent=message;$('alerts').prepend(el);setTimeout(()=>el.remove(),7500)}
+function token(){return sessionStorage.getItem('app_access_token')||''}
+async function api(path,opts={}){let headers={...(opts.headers||{})};if(opts.body&&! (opts.body instanceof FormData))headers['Content-Type']='application/json';if(token())headers.Authorization='Bearer '+token();let res=await fetch(path,{...opts,headers,cache:'no-store'});if(res.status===401){const t=window.prompt('Nhập APP_ACCESS_TOKEN của ứng dụng (không phải Gemini API key):');if(t){sessionStorage.setItem('app_access_token',t);headers.Authorization='Bearer '+t;res=await fetch(path,{...opts,headers,cache:'no-store'});}}
+ if(!res.ok){let problem;try{problem=(await res.json()).detail}catch{problem=res.statusText}throw Error(typeof problem==='string'?problem:JSON.stringify(problem))}return await res.json();}
+async function securedBlob(path){let headers={};if(token())headers.Authorization='Bearer '+token();let res=await fetch(path,{headers,cache:'no-store'});if(res.status===401){await api('/api/projects');headers={Authorization:'Bearer '+token()};res=await fetch(path,{headers,cache:'no-store'});}if(!res.ok)throw Error(`Không tải được tệp: HTTP ${res.status}`);return res.blob()}
+async function assetURL(path){if(!path)return null;if(assets.has(path))return assets.get(path);const blob=await securedBlob(path);const url=URL.createObjectURL(blob);assets.set(path,url);return url}
+function showPage(page,preserveEditing=false){if(page==='create'&&!preserveEditing){editingProject=null;$('createBtn').textContent='✦ Tạo video';}currentPage=page;document.querySelectorAll('.page').forEach(e=>e.classList.toggle('hidden',e.id!==page));document.querySelectorAll('.nav').forEach(e=>e.classList.toggle('on',e.dataset.page===page));if(page==='projects')loadProjects();if(page==='scenes')renderScenes();if(page==='workflow')renderWorkflow();if(page==='final')renderFinal();if(page==='help')renderGuideCenter();}
+document.querySelectorAll('[data-page]').forEach(b=>b.addEventListener('click',()=>showPage(b.dataset.page)));
+async function health(){try{const r=await api('/api/health');$('serverStatus').textContent=r.ai_ready&&r.veo_project_configured?'Máy chủ đã nhận cấu hình AI':'Cần cấu hình dịch vụ AI';$('serverStatus').className='server-tag '+(r.ai_ready&&r.veo_project_configured?'ok':'bad');if(!r.access_token_protected)toast('Chế độ chưa có APP_ACCESS_TOKEN: chỉ nên chạy cục bộ, không công khai lên Internet.','error')}catch(e){$('serverStatus').textContent='Không kết nối máy chủ';$('serverStatus').classList.add('bad')}}
+function configForm(){return {subject:$('subject').value,grade:Number($('grade').value),title:$('title').value.trim(),content:$('content').value.trim(),video_type:$('videoType').value,duration:Number($('duration').value),style:$('style').value,character_mode:$('characterMode').value,subtitles:$('subtitles').checked}}
+$('projectForm').addEventListener('submit',async e=>{e.preventDefault();if(busy)return;const data=configForm();if(!data.content){toast('Chưa có nội dung bài học','error');return}busy=true;$('createBtn').disabled=true;$('createBtn').textContent='Đang tạo dự án…';try{const prior=editingProject;let p;if(prior){if(!confirm('Thay đổi dữ liệu đầu vào sẽ cần tạo lại các bước phụ thuộc trong toàn dự án. Các tệp phiên bản cũ vẫn được lưu. Tiếp tục?'))return;p=await api(`/api/projects/${prior}`,{method:'PUT',body:JSON.stringify(data)});if(p.status==='READY'){p=await api(`/api/projects/${prior}/resume`,{method:'POST'});}editingProject=null;}else{p=await api('/api/projects',{method:'POST',body:JSON.stringify(data)});}project=p;toast(prior?'Đã cập nhật dự án và chỉ làm mới phần phụ thuộc':'Đã tạo dự án và bắt đầu dây chuyền AI','success');$('createBtn').textContent='✦ Tạo video';showPage('workflow');renderWorkflow();startPoll()}catch(err){toast('Không tạo được dự án: '+err.message,'error')}finally{busy=false;$('createBtn').disabled=false;$('createBtn').textContent=editingProject?'Lưu thay đổi và tạo lại':'✦ Tạo video'}});
+$('sourceFile').addEventListener('change',async e=>{const file=e.target.files?.[0];if(!file)return;$('uploadMessage').textContent='Đang trích xuất tài liệu…';const fd=new FormData();fd.append('file',file);try{const r=await api('/api/extract',{method:'POST',body:fd});$('content').value+=($('content').value?'\n\n':'')+r.text;$('uploadMessage').textContent=`Đã đọc ${r.length} ký tự từ ${r.filename}`;toast('Đã đưa nội dung tài liệu vào ô nhập','success')}catch(err){$('uploadMessage').textContent='Không thể đọc tài liệu';toast(err.message,'error')}});
+async function loadProjects(){try{const all=await api('/api/projects');const list=$('projectList');list.replaceChildren();if(!all.length){list.textContent='Chưa có dự án nào. Hãy tạo dự án video mới.';return;}for(const x of all){const card=document.createElement('article');card.className='project-card';const name=document.createElement('h3');name.textContent=x.title;const meta=document.createElement('p');meta.textContent=`${x.subject} · Lớp ${x.grade} · ${x.total_scenes} cảnh · Trạng thái: ${x.status}`;const btn=document.createElement('button');btn.className='outline';btn.textContent='Mở dự án →';btn.onclick=async()=>{try{project=await api('/api/projects/'+x.id);showPage('workflow');startPoll()}catch(err){toast(err.message,'error')}};card.append(name,meta,btn);list.append(card);}}catch(e){toast(e.message,'error')}}
+$('refreshProjects').onclick=loadProjects;
+const stageIcons={COMPLETED:['✓','Hoàn thành'],RUNNING:['◌','Đang xử lý'],FAILED:['!','Lỗi'],LOCKED:['🔒','Chưa thực hiện'],READY:['•','Chưa thực hiện']};
+function appendObj(parent,name,obj){const title=document.createElement('h3');title.textContent=name;const pre=document.createElement('div');pre.textContent=obj===undefined||obj===null?'Chưa có dữ liệu':(typeof obj==='string'?obj:JSON.stringify(obj,null,2));parent.append(title,pre);}
+function renderWorkflow(){if(!project){$('workflowView').classList.add('hidden');$('workflowEmpty').classList.remove('hidden');return;}$('workflowView').classList.remove('hidden');$('workflowEmpty').classList.add('hidden');$('workflowName').textContent=project.title;$('workflowDesc').textContent=`${project.config.subject} · Lớp ${project.config.grade} · ${project.config.duration} giây · Mã: ${project.id}`;$('projectStatus').textContent=project.status;
+ const done=project.stages8.filter(x=>x.status==='COMPLETED').length;$('progressBar').style.width=`${done/8*100}%`;$('progressText').textContent=`${done}/8 giai đoạn đã hoàn thành · Bước kỹ thuật hiện tại: ${project.step}/14`;
+ const stages=$('stages');stages.replaceChildren();project.stages8.forEach((x,i)=>{const card=document.createElement('div');card.className='stage '+(x.status==='COMPLETED'?'done':x.status==='RUNNING'?'running':x.status==='FAILED'?'failed':'');const id=document.createElement('span');id.className='num';id.textContent=String(i+1).padStart(2,'0');const text=document.createElement('div');text.textContent=x.name;const status=document.createElement('span');status.className='state';status.textContent=stageIcons[x.status]?.[1]||x.status;text.append(status);card.append(id,text);stages.append(card)});
+ for(const id of ['analysis','blueprint','masterScript','biblePrimary','bibleSecondary','errors'])$(id).replaceChildren();
+ appendObj($('analysis'),'Nội dung được phân tích',project.analysis);appendObj($('blueprint'),'Cấu trúc video',project.blueprint);appendObj($('masterScript'),'Kịch bản',project.script);const bible=project.bible||{};appendObj($('biblePrimary'),'Character Bible',bible.character_bible);appendObj($('biblePrimary'),'Environment Bible',bible.environment_bible);appendObj($('bibleSecondary'),'Visual Style',bible.visual_style_bible);appendObj($('bibleSecondary'),'Voice Bible',bible.voice_bible);appendObj($('bibleSecondary'),'Audio Bible',bible.audio_bible);
+ if(project.errors?.length){for(const e of project.errors.slice(-4).reverse())appendObj($('errors'),`Bước ${e.step} ${e.scene_id||''} — ${e.at}`,e.message)}else $('errors').textContent='Chưa ghi nhận lỗi.';
+ $('retryWorkflow').disabled=!['FAILED','READY','AWAITING_ACCEPTANCE'].includes(project.status)||project.step>=13; $('editProject').disabled=['RUNNING','QUEUED'].includes(project.status);
+}
+$('editProject').addEventListener('click',()=>{if(!project)return;editingProject=project.id;const d=project.config;const mapping={subject:'subject',grade:'grade',title:'title',content:'content',video_type:'videoType',duration:'duration',style:'style',character_mode:'characterMode'};for(const [key,id] of Object.entries(mapping))$(id).value=String(d[key]||'');$('subtitles').checked=!!d.subtitles;$('createBtn').textContent='Lưu thay đổi và tạo lại';showPage('create',true);toast('Đang chỉnh sửa dữ liệu đầu vào. Khi lưu, các kết quả phụ thuộc sẽ được tạo lại.');});
+$('retryWorkflow').addEventListener('click',async()=>{if(!project)return;try{project=await api(`/api/projects/${project.id}/resume`,{method:'POST'});toast('Đã tiếp tục quy trình','success');startPoll();renderWorkflow()}catch(err){toast(err.message,'error')}});
+function editField(parent,labelText,key,value){const wrap=document.createElement('div');const lab=document.createElement('label');lab.textContent=labelText;const input=document.createElement('textarea');input.className='editbox';input.value=typeof value==='string'?value:JSON.stringify(value||'');input.dataset.field=key;wrap.append(lab,input);parent.append(wrap);return input}
+function mediaField(parent,labelText,url,kind){const wrap=document.createElement('div');const lab=document.createElement('label');lab.textContent=labelText;const area=document.createElement('div');area.className='asset';area.textContent=url?'Đang tải tệp…':'Chưa có tệp';wrap.append(lab,area);parent.append(wrap);if(url){assetURL(url).then(local=>{area.replaceChildren();if(kind==='image'){const img=new Image();img.src=local;img.alt=labelText;area.append(img)}else{const vid=document.createElement('video');vid.src=local;vid.controls=true;vid.playsInline=true;vid.preload='metadata';area.append(vid)}}).catch(e=>{area.textContent='Không mở được tệp: '+e.message})}}
+function sceneCard(s){const card=document.createElement('article');card.className='scene-card';const head=document.createElement('div');head.className='between wrap';const title=document.createElement('div');const h=document.createElement('h3');h.textContent=`Cảnh ${String(s.order).padStart(2,'0')} · ${s.start_time}–${s.end_time}s`;const hint=document.createElement('span');hint.className='scene-badge';hint.textContent=`${s.id} · Bản ${s.version}`;title.append(h,hint);const status=document.createElement('div');status.className='status '+(s.accepted?'good':s.status==='FAILED'?'error':'');status.textContent=`Trạng thái: ${s.status}${s.accepted?' · Đã duyệt':''}`;head.append(title,status);card.append(head);
+ const grid=document.createElement('div');grid.className='scene-grid';const inputs={};for(const [key,label] of [['goal','Mục tiêu cảnh'],['environment','Bối cảnh'],['characters','Nhân vật'],['action','Hành động / Kịch bản cảnh'],['expression','Biểu cảm'],['props','Đạo cụ'],['shot','Góc máy'],['camera_motion','Chuyển động camera'],['lighting','Ánh sáng'],['sound','Âm thanh'],['dialogue','Lời thoại'],['start_point','Điểm bắt đầu'],['end_point','Điểm kết thúc'],['start_state','Start State – Trạng thái đầu'],['end_state','End State – Trạng thái cuối'],['image_prompt','Prompt ảnh – Nano Banana'],['video_prompt','Prompt video – Veo']]){inputs[key]=editField(grid,label,key,s[key]);if(['action','dialogue','image_prompt','video_prompt'].includes(key))inputs[key].parentElement.classList.add('span')}
+ mediaField(grid,'Ảnh Nano Banana',s.image_url,'image');mediaField(grid,'Video Veo 3.1',s.video_url,'video');card.append(grid);
+ if(s.error){const err=document.createElement('p');err.className='status error';err.textContent='Lỗi: '+s.error;card.append(err)}
+ const bar=document.createElement('div');bar.className='actions';const makeButton=(label,action,disabled,style='outline')=>{const b=document.createElement('button');b.className=`${style} small`;b.textContent=label;b.disabled=disabled;b.onclick=action;bar.append(b)};
+ const fieldStr=k=>(typeof s[k]==='string'?s[k]:JSON.stringify(s[k]??''));const hasChanges=()=>Object.entries(inputs).some(([k,el])=>el.value.trim()!==fieldStr(k));
+ makeButton('Lưu chỉnh sửa',()=>actScene(s,'save',inputs),project.status==='RUNNING'||project.status==='QUEUED');
+ makeButton('✦ Viết lại prompt AI',()=>actScene(s,'prompts'),!project.bible||project.status==='RUNNING'||project.status==='QUEUED');
+ makeButton('✓ Khóa ảnh tham chiếu',()=>{if(hasChanges()){toast('Hãy lưu các chỉnh sửa trước khi duyệt ảnh','error');return;}actScene(s,'accept-image')},!s.image_url||s.image_accepted||project.status==='RUNNING'||project.status==='QUEUED');
+ makeButton('↻ Tạo lại ảnh',()=>{if(hasChanges()){toast('Hãy lưu chỉnh sửa trước khi tạo lại ảnh','error');return;}actScene(s,'image')},!s.image_prompt||!s.video_prompt||project.status==='RUNNING'||project.status==='QUEUED');
+ makeButton('↻ Tạo lại video',()=>{if(hasChanges()){toast('Hãy lưu chỉnh sửa trước khi tạo lại video','error');return;}actScene(s,'video')},!s.image_url||!s.video_prompt||project.status==='RUNNING'||project.status==='QUEUED');
+ makeButton('✓ Chấp nhận cảnh',()=>{if(hasChanges()){toast('Hãy lưu hoặc hủy sửa đổi trước khi chấp nhận','error');return;}actScene(s,'accept')},!s.video_url||s.status==='FAILED'||project.status==='RUNNING'||project.status==='QUEUED'||s.accepted,'primary');
+ card.append(bar);return card;}
+function renderScenes(){if(!project||!project.scenes?.length){$('sceneView').classList.add('hidden');$('sceneEmpty').classList.remove('hidden');return;}$('sceneView').classList.remove('hidden');$('sceneEmpty').classList.add('hidden');const approved=project.scenes.filter(s=>s.accepted&&s.status==='ACCEPTED'&&s.video_url).length;$('sceneSummary').textContent=`${approved}/${project.scenes.length} cảnh được chấp nhận`;$('mergeBtn').disabled=approved!==project.scenes.length||project.status==='RUNNING'||project.status==='QUEUED';$('sceneList').replaceChildren();project.scenes.forEach(s=>$('sceneList').append(sceneCard(s)));}
+async function actScene(scene,mode,inputs){if(!project||busy)return;let uri=`/api/projects/${project.id}/scenes/${scene.id}`;let method='POST',body;switch(mode){case 'save':{const patch={};for(const [k,e] of Object.entries(inputs)){const v=e.value.trim();if(v!==(typeof scene[k]==='string'?scene[k]:JSON.stringify(scene[k]??'')))patch[k]=v;}if(!Object.keys(patch).length){toast('Không có thay đổi để lưu');return;}if(!confirm('Lưu thay đổi sẽ khiến các kết quả phụ thuộc của cảnh cần tạo lại. Tiếp tục?'))return;method='PATCH';body=JSON.stringify({patch});break}case 'accept-image':uri+='/accept-image';break;case 'prompts':if(!confirm('Chỉ tạo lại prompt của cảnh này bằng Gemini, đồng thời khóa ảnh/video cũ của cảnh. Tiếp tục?'))return;uri+='/regenerate-prompts';break;case 'image':if(!confirm('Tạo lại ảnh sẽ khiến clip hiện hành của cảnh này không còn hợp lệ. Tiếp tục?'))return;uri+='/regenerate-image';break;case 'video':if(!confirm('Chỉ tạo lại video của cảnh này, không thay đổi các cảnh khác. Tiếp tục?'))return;uri+='/regenerate-video';break;case 'accept':uri+='/accept';break;default:return}
+ busy=true;try{project=await api(uri,{method,body});toast('Đã gửi yêu cầu thành công','success');renderScenes();renderWorkflow();startPoll();}catch(e){toast(e.message,'error')}finally{busy=false}}
+$('mergeBtn').onclick=async()=>{if(!project)return;if(!confirm('Tất cả cảnh đã được duyệt. Ghép video và xuất MP4?'))return;try{project=await api(`/api/projects/${project.id}/merge`,{method:'POST'});toast('Đã bắt đầu ghép video','success');showPage('workflow');startPoll()}catch(e){toast(e.message,'error')}};
+async function renderFinal(){renderResultUsage();if(!project?.video?.url){$('finalReady').classList.add('hidden');$('finalEmpty').classList.remove('hidden');return;}$('finalReady').classList.remove('hidden');$('finalEmpty').classList.add('hidden');$('finalMetadata').textContent=`${project.title} · ${project.video.duration?.toFixed?.(1)||project.video.duration}s · ${project.video.width}×${project.video.height}`;try{$('finalPlayer').src=await assetURL(project.video.url)}catch(e){toast(e.message,'error')}}
+$('downloadBtn').onclick=async()=>{if(!project)return;try{const blob=await securedBlob(`/api/projects/${project.id}/download`);const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download=`EDUVIDEO_${project.id}.mp4`;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),30000)}catch(e){toast(e.message,'error')}};
+$('backToScenes').onclick=()=>showPage('scenes');
+function startPoll(){if(poller)clearInterval(poller);poller=setInterval(refreshCurrent,4500);}
+async function refreshCurrent(){if(!project||busy)return;try{const fresh=await api(`/api/projects/${project.id}`);const changed=JSON.stringify(project)!==JSON.stringify(fresh);if(changed){const old=project;project=fresh;if(currentPage==='workflow')renderWorkflow();if(currentPage==='scenes'){/* Avoid wiping unsaved edits while user is typing. Refresh only when scene statuses changed */const oldSig=old.scenes.map(s=>`${s.id}:${s.status}:${s.accepted}:${s.image_version}:${s.video_version}`).join('|');const newSig=fresh.scenes.map(s=>`${s.id}:${s.status}:${s.accepted}:${s.image_version}:${s.video_version}`).join('|');if(oldSig!==newSig)renderScenes();else{$('mergeBtn').disabled=!fresh.scenes.length||!fresh.scenes.every(s=>s.accepted&&s.video_url)}}if(currentPage==='final')renderFinal();if(old.status!==fresh.status){if(fresh.status==='COMPLETED')toast('MP4 đã xuất thành công','success');if(fresh.status==='FAILED')toast('Có lỗi sản xuất, kiểm tra lịch sử lỗi để thử lại','error');}}}catch(e){console.warn('Polling failed',e)}}
+
+function renderResultUsage(){
+ const wrapper=$('finalUsage');if(!project?.video?.url){wrapper.classList.add('hidden');return}
+ const kind=project?.config?.video_type;const g=HELP_GUIDES.find(x=>x.kind==='type'&&x.title===kind);
+ if(!g){wrapper.classList.add('hidden');return}
+ wrapper.classList.remove('hidden');$('finalUsageTitle').textContent='Cách sử dụng sản phẩm: '+g.title;
+ const steps=$('finalUsageSteps');steps.replaceChildren();g.steps.forEach((step,i)=>{let li=document.createElement('li');li.textContent=step;steps.append(li)});
+ $('helpForResult').onclick=()=>openGuide('type',kind);
+}
+// TRUNG TAM HUONG DAN: 12 loai video, 8 giai doan, 1 tong quan.
+let selectedGuideId=null, guideFilter='type';
+function guideVideoPath(g){
+ const base=location.protocol==='file:'?'./static/tutorials/':'/static/tutorials/';
+ return base+encodeURIComponent(g.video);
+}
+function openGuide(kind,title){
+ guideFilter=kind;
+ const target=HELP_GUIDES.find(g=>g.kind===kind&&(!title||g.title===title));
+ selectedGuideId=target?.id||null;
+ $('guideSearch').value='';
+ showPage('help');
+}
+function renderGuideCenter(){
+ if(!Array.isArray(HELP_GUIDES))return;
+ document.querySelectorAll('[data-guide-kind]').forEach(b=>b.classList.toggle('on',b.dataset.guideKind===guideFilter));
+ const search=$('guideSearch').value.trim().toLocaleLowerCase('vi');
+ const match=HELP_GUIDES.filter(g=>g.kind===guideFilter&&(!search||[g.title,g.subtitle,...g.steps,g.note].join(' ').toLocaleLowerCase('vi').includes(search)));
+ const list=$('guideList');list.replaceChildren();
+ if(!match.length){const p=document.createElement('p');p.className='subtle';p.textContent='Không có hướng dẫn phù hợp. Hãy thử từ khóa khác.';list.append(p);$('guideDetail').classList.add('hidden');return;}
+ let selected=match.find(g=>g.id===selectedGuideId)||match[0];selectedGuideId=selected.id;
+ for(const g of match){const b=document.createElement('button');b.type='button';b.className='guide-item'+(g.id===selected.id?' on':'');b.textContent=g.title;b.onclick=()=>{selectedGuideId=g.id;renderGuideCenter()};list.append(b)}
+ const detail=$('guideDetail');detail.classList.remove('hidden');
+ $('guideKindLabel').textContent=selected.kind==='type'?'DẠNG SẢN PHẨM VIDEO':selected.kind==='stage'?'CÔNG ĐOẠN SẢN XUẤT':'HƯỚNG DẪN TỔNG QUAN';
+ $('guideTitle').textContent=selected.title;
+ $('guideIntro').textContent=selected.subtitle;
+ $('guideStepHeading').textContent=selected.kind==='type'?'Cách tạo và sử dụng sản phẩm trong tiết học':'Hướng dẫn thao tác';
+ const ol=$('guideSteps');ol.replaceChildren();selected.steps.forEach((s,i)=>{const li=document.createElement('li');const b=document.createElement('strong');b.textContent=selected.kind==='type'?['Chuẩn bị nội dung: ','Tạo và kiểm tra video: ','Sử dụng trong dạy học: '][i]:`Bước ${i+1}: `;li.append(b,document.createTextNode(s));ol.append(li)});
+ $('guideNote').textContent='Lưu ý: '+selected.note;
+ const source=guideVideoPath(selected), player=$('guidePlayer');
+ if(player.getAttribute('src')!==source){player.pause();player.src=source;player.load()}
+ $('guideVideoError').classList.add('hidden');
+ $('guideDownload').href=source;
+ $('guideDownload').download=selected.video;
+ $('guideApply').textContent=selected.kind==='type'?'Áp dụng dạng video này':selected.kind==='overview'?'Bắt đầu tạo video':'Mở màn hình liên quan';
+ $('guideApply').onclick=()=>{
+   if(selected.kind==='type'){$('videoType').value=selected.typeValue;showPage('create');toast('Đã chọn dạng video: '+selected.title,'success');return}
+   if(selected.kind==='overview'){showPage('create');return}
+   const index=HELP_GUIDES.filter(g=>g.kind==='stage').findIndex(g=>g.id===selected.id);
+   const page=index<4?'workflow':index<7?'scenes':'final';
+   showPage(project?page:'create');
+   if(!project)toast('Hãy tạo hoặc mở một dự án để xem bước này.','info');
+ };
+}
+$('guidePlayer').addEventListener('error',()=>{$('guideVideoError').classList.remove('hidden')});
+document.querySelectorAll('[data-guide-kind]').forEach(b=>b.addEventListener('click',()=>{guideFilter=b.dataset.guideKind;selectedGuideId=null;$('guideSearch').value='';renderGuideCenter()}));
+$('guideSearch').addEventListener('input',()=>renderGuideCenter());
+$('helpForType').addEventListener('click',()=>openGuide('type',$('videoType').value));
+$('helpWorkflow').addEventListener('click',()=>openGuide('stage','Phân tích bài học'));
+$('helpScenes').addEventListener('click',()=>openGuide('stage','Tạo video'));
+$('helpFinal').addEventListener('click',()=>openGuide('stage','Hoàn thành'));
+
+health();
+
+if(location.protocol === "file:"){document.getElementById("fileModeWarning").classList.remove("hidden");document.getElementById("createBtn").disabled = true;document.getElementById("serverStatus").textContent = "Cần khởi động máy chủ";}
+</script></body></html>
