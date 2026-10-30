@@ -1,8 +1,0 @@
-EDU EXAM A4 - HƯỚNG DẪN NHANH
-
-CHƯA CÓ SUPABASE: Mở index.html -> GIÁO VIÊN -> Mở bộ nhập Word chưa kết nối -> tải đề DOCX -> kiểm tra/duyệt -> xuất JSON.
-CẦN THI ONLINE: Triển khai migration SQL + Edge Function trong thư mục supabase, dùng hosting HTTPS cho thư mục web, kết nối Project URL và publishable key.
-TẠO GIÁO VIÊN: Tạo tài khoản Supabase Auth và cấp role=teacher trong bảng app_profiles qua SQL Editor.
-TẠO PHÒNG: Đăng nhập -> Ngân hàng đề -> Nhập/duyệt Word -> Lưu -> Phòng thi -> Tạo phòng -> chia sẻ link/QR.
-HỌC SINH: Điền mã phòng, họ tên, lớp -> làm bài -> nộp bài. Không nhìn thấy điểm hoặc đáp án.
-LƯU Ý: Bộ đề Hóa 10 gốc có 8 ảnh WMF cần thay bằng ảnh gốc PNG/JPEG, và chưa có biểu điểm đầy đủ.
