@@ -1,0 +1,1 @@
+{"name":"edu-game-studio-ai","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.mjs","build":"python assemble.py"},"description":"Vietnamese educational game creator with 8 self-contained HTML game exporters"}
