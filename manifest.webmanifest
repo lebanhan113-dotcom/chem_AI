@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Phòng thi trực tuyến – Bản thử nghiệm",
+  "short_name": "Phòng thi",
+  "description": "WebApp phòng thi trực tuyến, có hai khu vực học sinh và giáo viên, sử dụng dữ liệu cục bộ.",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fc",
+  "theme_color": "#112548",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
