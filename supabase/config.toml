@@ -1,3 +1,0 @@
-[functions.exam-api]
-# Người học vào bằng mã phòng + token phiên ngẫu nhiên. Mỗi API tự xác thực và phân quyền.
-verify_jwt = false
