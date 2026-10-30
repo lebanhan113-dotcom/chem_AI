@@ -1,0 +1,749 @@
+{
+  "meta": {
+    "title": "Nguon GK1 Hoa 10-001 - TRONDE - 3P",
+    "subject": "Hóa học",
+    "grade": "",
+    "topic": "",
+    "source_file": "Nguon GK1 Hoa 10-001 - TRONDE - 3P.docx"
+  },
+  "questions": [
+    {
+      "id": "b4d917b5-1581-4a26-a0c7-f5593cccc699",
+      "position": 1,
+      "section": "I",
+      "type": "mcq",
+      "number": 1,
+      "body": "Hạt nhân của hầu hết các nguyên tử được cấu tạo bởi các hạt nào sau đây?",
+      "options": [
+        {
+          "id": "A",
+          "text": "proton và neutron.",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "electron và proton.",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "electron và neutron.",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "electron, proton và neutron.",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "A",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "9bff079b-6ca7-4213-9bbe-6f96a3fc6172",
+      "position": 2,
+      "section": "I",
+      "type": "mcq",
+      "number": 2,
+      "body": "Phát biểu nào sau đây định nghĩa đúng về nguyên tố hóa học?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nguyên tố hóa học là tập hợp các nguyên tử có cùng số neutron.",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "Nguyên tố hóa học là tập hợp các nguyên tử có cùng số khối.",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "Nguyên tố hóa học là tập hợp các nguyên tử có cùng điện tích hạt nhân.",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "Nguyên tố hóa học là tập hợp các nguyên tử có cùng số proton và neutron.",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "C",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "dcfc3874-e041-48a3-89a0-a066fae428ce",
+      "position": 3,
+      "section": "I",
+      "type": "mcq",
+      "number": 3,
+      "body": "Nguyên tử của nguyên tố X có tổng số hạt (p, n, e) là 52 và có 17 proton. Kí hiệu nguyên tử của X là:",
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "A",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": [
+        "Phương án A chứa ảnh word/media/image1.wmf chưa chuyển được; cần bổ sung ảnh gốc.",
+        "Phương án B chứa ảnh word/media/image2.wmf chưa chuyển được; cần bổ sung ảnh gốc.",
+        "Phương án C chứa ảnh word/media/image3.wmf chưa chuyển được; cần bổ sung ảnh gốc.",
+        "Phương án D chứa ảnh word/media/image4.wmf chưa chuyển được; cần bổ sung ảnh gốc."
+      ]
+    },
+    {
+      "id": "1d7aad8b-5337-43ff-a1a1-e4825f179a6e",
+      "position": 4,
+      "section": "I",
+      "type": "mcq",
+      "number": 4,
+      "body": "Theo mô hình nguyên tử hiện đại, lớp electron thứ 3 (lớp M) có bao nhiêu phân lớp?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "C",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "72dd60f1-3064-4450-8653-b1919928fbad",
+      "position": 5,
+      "section": "I",
+      "type": "mcq",
+      "number": 5,
+      "body": "Orbital nguyên tử (AO) p có hình dạng nào sau đây?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hình cầu.",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "Hình số tám nổi.",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "Hình hoa thị.",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "Hình vuông.",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "B",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "5126383a-9d29-470f-b4d0-7ce7c12dd380",
+      "position": 6,
+      "section": "I",
+      "type": "mcq",
+      "number": 6,
+      "body": "Cấu hình electron của nguyên tử có Z = 19 là:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1s²2s²2p⁶3s²3p⁶4s¹.",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "1s²2s²2p⁶3s²3p⁷.",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "1s²2s²2p⁶3s²3p⁶3d¹.",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "1s²2s²2p⁶3s²3p⁵4s².",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "A",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "dab3f695-49ea-4bbb-ab97-ea9c78b7ab50",
+      "position": 7,
+      "section": "I",
+      "type": "mcq",
+      "number": 7,
+      "body": "Nguyên tử của nguyên tố R có cấu hình electron lớp ngoài cùng là 3s²3p⁵. Tính chất hóa học cơ bản của R là:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kim loại.",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "Phi kim.",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "Khí hiếm.",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "Kim loại lưỡng tính.",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "B",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "b0f032a4-4923-47fd-aa24-9cb61d5e1f2e",
+      "position": 8,
+      "section": "I",
+      "type": "mcq",
+      "number": 8,
+      "body": "Nguyên tắc nào sau đây không được sử dụng để sắp xếp các nguyên tố trong bảng tuần hoàn hiện đại?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sắp xếp theo chiều tăng dần điện tích hạt nhân.",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "Các nguyên tố có cùng số lớp electron được xếp vào cùng một chu kì.",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "Các nguyên tố có cùng số electron hóa trị được xếp vào cùng một nhóm A",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "Sắp xếp theo chiều tăng dần khối lượng nguyên tử.",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "D",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "4b3a778d-77a6-4299-aed1-91df184de092",
+      "position": 9,
+      "section": "I",
+      "type": "mcq",
+      "number": 9,
+      "body": "Nguyên tố X có cấu hình electron 1s²2s²2p⁶3s²3p⁶3d⁵4s². X thuộc loại nguyên tố nào?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nguyên tố s.",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "Nguyên tố p.",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "Nguyên tố d.",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "Nguyên tố f.",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "C",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "d4892723-f3a7-4011-ad5e-616e7393019b",
+      "position": 10,
+      "section": "I",
+      "type": "mcq",
+      "number": 10,
+      "body": "Trong một chu kì (theo chiều tăng dần của điện tích hạt nhân), tính chất nào sau đây tăng dần?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bán kính nguyên tử.",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "Tính kim loại.",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "Độ âm điện.",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "Tính base của hydroxide.",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "C",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "c8017cef-77fb-4666-ae19-6e23425ac4cb",
+      "position": 11,
+      "section": "I",
+      "type": "mcq",
+      "number": 11,
+      "body": "Trong nhóm IA (theo chiều từ trên xuống dưới), tính kim loại của các nguyên tố:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tăng dần.",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "Giảm dần.",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "Không đổi.",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "Vừa tăng vừa giảm.",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "A",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "a827141d-53e7-433f-bf27-b696e7b998e5",
+      "position": 12,
+      "section": "I",
+      "type": "mcq",
+      "number": 12,
+      "body": "Dãy các nguyên tố nào sau đây được sắp xếp theo chiều tăng dần của bán kính nguyên tử?",
+      "options": [
+        {
+          "id": "A",
+          "text": "F, O, N.",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "Na, Mg, Al.",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "Li, Na, K.",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "Cl, S, P.",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "C",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "30534f1f-4b15-43d3-b1bd-2bc250c981eb",
+      "position": 13,
+      "section": "I",
+      "type": "mcq",
+      "number": 13,
+      "body": "Cho các oxide: Na₂O, MgO, Al₂O₃, P₂O₅. Oxide có tính acid mạnh nhất là:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Na₂O.",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "MgO.",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "Al₂O₃.",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "P₂O₅.",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "D",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "ca2ef8b1-08bf-4603-93d1-b2e697b71efb",
+      "position": 14,
+      "section": "I",
+      "type": "mcq",
+      "number": 14,
+      "body": "Chromium được sử dụng nhiều trong luyện kim để chế tạo hợp kim chống ăn mòn và đánh bóng bề mặt. Nguyên tử chromium có cấu hình electron viết gọn là [Ar]3d54s1. Vị trí của chromium trong bảng tuần hoàn là",
+      "options": [
+        {
+          "id": "A",
+          "text": "ô số 17, chu kì 4, nhóm IA",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "ô số 24, chu kì 4, nhóm VIB",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "ô số 24, chu kì 3, nhóm VB",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "ô số 27, chu kì 4, nhóm IB",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "B",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "f3119a4b-9a1d-4c34-bc77-3a255a8a88b1",
+      "position": 15,
+      "section": "I",
+      "type": "mcq",
+      "number": 15,
+      "body": "Để chứng minh quy luật biến đổi về tính kim loại của các nguyên tố trong một chu kì một nhóm học sinh tiến hành các thí nghiệm như sau:\nBước 1: Cho 5mL H2O vào 3 ống nghiệm được đánh số thứ tự từ 1 đến 3 và nhỏ vài giọt dung dịch phenolphtalein.\nBước 2: Cho lần lượt 3 mẫu Na, Mg, Al vào 3 ống nghiệm.\nBước 3: Đun nóng 2 ống nghiệm chứa Mg và Al.\nDự đoán kết quả thí nghiệm nào sau đây không đúng (Biết trong dung dịch kiềm phenolphtalein có màu hồng):",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sau bước 2, ống nghiệm 1 có khí thoát ra mạnh và dung dịch chuyển sang màu hồng đậm.",
+          "media": []
+        },
+        {
+          "id": "B",
+          "text": "Sau bước 3, ống nghiệm 2 có khí thoát ra chậm và dung dịch chuyển sang màu hồng nhạt.",
+          "media": []
+        },
+        {
+          "id": "C",
+          "text": "Sau bước 3, ống nghiệm 3 vẫn không có khí thoát ra và dung dịch không đổi.",
+          "media": []
+        },
+        {
+          "id": "D",
+          "text": "Sau bước 2, Cả 3 ống nghiệm đều có khí thoát ra và dung dịch chuyển sang màu hồng đậm.",
+          "media": []
+        }
+      ],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "D",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "71c710db-5a6d-444e-a112-df4cb6021fae",
+      "position": 16,
+      "section": "II",
+      "type": "tf",
+      "number": 1,
+      "body": "Aluminum được sử dụng phổ biến trong đời sống (chế tạo dụng cụ nhà bếp, cửa,…) cũng như trong công nghiệp (chế tạo một số bộ phân của máy bay). Nguyên tử của nguyên tố Aluminum có 13 electron.",
+      "options": [],
+      "statements": [
+        {
+          "id": "a",
+          "text": "Aluminum có 3 lớp electron, lớp ngoài cùng có 3 electron.",
+          "media": []
+        },
+        {
+          "id": "b",
+          "text": "Cấu hình electron của ion Al3+ trùng với cấu hình electron của nguyên tử Ne (Z = 10).",
+          "media": []
+        },
+        {
+          "id": "c",
+          "text": "Trong nguyên tử aluminum còn 2 orbital trống ở phân lớp 3p.",
+          "media": []
+        },
+        {
+          "id": "d",
+          "text": "Tổng số hạt mang điện của ion Al3+ là 26.",
+          "media": []
+        }
+      ],
+      "media": [],
+      "points": 0,
+      "answer": {
+        "a": true,
+        "b": true,
+        "c": true,
+        "d": false
+      },
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": [
+        "Đáp án Đúng/Sai suy từ chữ đỏ; cần giáo viên kiểm tra từng ý và thiết lập quy tắc chấm."
+      ]
+    },
+    {
+      "id": "70d5561f-4ee3-4914-bb13-e691fd3e677b",
+      "position": 17,
+      "section": "II",
+      "type": "tf",
+      "number": 2,
+      "body": "Trong công nghiệp, một trong những nguồn chính để sản xuất iodine là rong biển. Người ta phơi khô rong biển, đốt thành tro, ngâm trong nước để hoà tan hết các muối. Gạn lấy dung dịch, đem cô cạn cho đến khi các muối kết tinh, làm lạnh dung dịch xuống 20oC, phần lớn muối sodium chlorinde và muối sulfat lắng xuống còn lại muối iodine ở lại trong dung dịch. Cho dung dịch này tác dụng với khí chlorine ta thu được iodine theo phương trình phản ứng: .\n(Biết Cl có Z=17 và I có Z=53, nguyên tử khối của Cl=35,5, I=127).",
+      "options": [],
+      "statements": [
+        {
+          "id": "a",
+          "text": "Chlorine và Iodine cùng thuộc nhóm VIIA trong bảng tuần hoàn hoá học các nguyên tố.",
+          "media": []
+        },
+        {
+          "id": "b",
+          "text": "Bán kính nguyên tử của Chlorine lớn hơn Iodine.",
+          "media": []
+        },
+        {
+          "id": "c",
+          "text": "Tính phi kim của chlorine mạnh hơn Iodine nên đẩy được iodine ra khỏi muối sodium iodate.",
+          "media": []
+        },
+        {
+          "id": "d",
+          "text": "Để thu được 1,27 tấn iodine cần dùng 123 m3 khí chlorine (đo ở đkc)",
+          "media": []
+        }
+      ],
+      "media": [],
+      "points": 0,
+      "answer": {
+        "a": true,
+        "b": false,
+        "c": true,
+        "d": false
+      },
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": [
+        "Ảnh hoặc công thức word/media/image5.wmf ở định dạng WMF chưa hỗ trợ. Cần thay bằng ảnh PNG/JPEG đúng hình gốc.",
+        "Đáp án Đúng/Sai suy từ chữ đỏ; cần giáo viên kiểm tra từng ý và thiết lập quy tắc chấm."
+      ]
+    },
+    {
+      "id": "6336f76c-5f76-4465-8149-2381d111db87",
+      "position": 18,
+      "section": "III",
+      "type": "short",
+      "number": 1,
+      "body": "Nguyên tử của nguyên tố Calcium (Ca) có 4 lớp electron, lớp ngoài cùng có 2 electron. Số hiệu nguyên tử của Ca là bao nhiêu?",
+      "options": [],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "20",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "fb467df3-c627-40a9-824b-7ca31c52a26a",
+      "position": 19,
+      "section": "III",
+      "type": "short",
+      "number": 2,
+      "body": "Nguyên tố R có số hiệu nguyên tử là 16. R thuộc chu kì bao nhiêu trong bảng tuần hoàn?",
+      "options": [],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "3",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    },
+    {
+      "id": "5f68c62e-7a48-44b4-9cbd-b2dd96335f09",
+      "position": 20,
+      "section": "III",
+      "type": "short",
+      "number": 3,
+      "body": "Copper (Cu) trong tự nhiên có hai đồng vị là và . Nguyên tử khối trung bình của Cu là 63,54. Đồng vị chiếm bao nhiêu % về số nguyên tử (làm tròn đến hàng đơn vị)?",
+      "options": [],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "73",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": [
+        "Ảnh hoặc công thức word/media/image6.wmf ở định dạng WMF chưa hỗ trợ. Cần thay bằng ảnh PNG/JPEG đúng hình gốc.",
+        "Ảnh hoặc công thức word/media/image7.wmf ở định dạng WMF chưa hỗ trợ. Cần thay bằng ảnh PNG/JPEG đúng hình gốc.",
+        "Ảnh hoặc công thức word/media/image8.wmf ở định dạng WMF chưa hỗ trợ. Cần thay bằng ảnh PNG/JPEG đúng hình gốc."
+      ]
+    },
+    {
+      "id": "402c2f26-ea13-4a91-88f0-13889f5f69de",
+      "position": 21,
+      "section": "III",
+      "type": "short",
+      "number": 4,
+      "body": "Nguyên tố R được dùng sản xuất phân bón, làm môi trường trơ trong công nghiệp hóa chất, thực phẩm, điện tử để bảo quản và bảo vệ sản phẩm khỏi oxy hóa. Oxide cao nhất của nguyên tố R (thuộc nhóm A) có dạng R₂O₅. Trong hợp chất khí với hydrogen, R chiếm 82,35% về khối lượng (cho H=1). Nguyên tử khối của R là bao nhiêu (làm tròn đến hàng đơn vị)?",
+      "options": [],
+      "statements": [],
+      "media": [],
+      "points": 0,
+      "answer": "14",
+      "grading": {},
+      "rubric": "",
+      "approved": false,
+      "issues": []
+    }
+  ]
+}
