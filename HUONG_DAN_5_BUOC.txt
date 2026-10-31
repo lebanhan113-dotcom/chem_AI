@@ -1,0 +1,16 @@
+WEBAPP PHONG THI AI - CHI DUNG GITHUB + VERCEL, KHONG DUNG SUPABASE
+Tac gia: Le Ba Nhan - Truong THPT Hon Dat
+
+1. github.com/new -> tao repo Private -> Upload toan bo file trong thu muc WebApp, giu nguyen thu muc api, lib, vendor.
+2. vercel.com/new -> Import GitHub repo -> Framework Other, Root Directory ./ -> Deploy.
+3. Vercel Project -> Storage -> Create Blob Store -> chon PRIVATE -> Connect vao project.
+4. Vercel Project -> Settings -> Environment Variables:
+   ADMIN_EMAIL = email quan tri cua ban
+   ADMIN_PASSWORD = MAT KHAU MOI, KHONG DUNG MAT KHAU DA GUI TRONG CHAT
+   SESSION_SECRET = chuoi bi mat dai it nhat 32 ky tu
+   Sau do chon Redeploy.
+5. Mo website Vercel -> Trang chu kiem tra API -> GIÁO VIÊN dang nhap -> Nhap Word, duyet de, tao phong.
+
+KHONG CAN: Supabase, exam-api cua Supabase, project URL, publishable key, PowerShell, npm trong may giao vien.
+Ghi chu: Bản nay su dung Vercel Blob Private, can Storage duoc ket noi moi luu duoc de thi va bai lam tren nhieu thiet bi.
+Xem README.md de biet gioi han bao mat va kiem thu.
