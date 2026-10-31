@@ -1,9 +1,0 @@
-{
-  "name": "phong-thi-ai-vercel-only",
-  "version": "5.0.0",
-  "private": true,
-  "type": "module",
-  "scripts": {"test":"node --test tests/*.test.mjs"},
-  "dependencies": {"@vercel/blob":"^2.3.0"},
-  "engines": {"node":">=20"}
-}
