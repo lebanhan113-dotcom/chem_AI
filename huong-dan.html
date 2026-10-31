@@ -1,0 +1,319 @@
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#091f44"><title>Quy trình AI • WebApp Phòng thi trực tuyến</title><style>
+:root{font-family:Inter,'Segoe UI',Arial,sans-serif;color:#15243d;background:#f3f6fc;line-height:1.55}*{box-sizing:border-box}body{margin:0}button,input{font:inherit}button{cursor:pointer}header{background:#091f44;color:#fff;padding:20px max(18px,calc((100% - 1220px)/2));box-shadow:0 3px 15px #071a3c33}header small{color:#c5dafe;font-size:13px}header h1{margin:6px 0 7px;font-size:clamp(21px,2.5vw,31px);line-height:1.2}.nav{display:flex;gap:9px;margin-top:15px;flex-wrap:wrap}.nav a{padding:9px 14px;border:1px solid #6c8fcb;color:#fff;border-radius:10px;text-decoration:none}.nav a.active{background:#2563eb;border-color:#2563eb}.wrapper{max-width:1220px;padding:26px 18px 70px;margin:auto}.hero{display:grid;grid-template-columns:1fr auto;gap:18px;align-items:center;background:#fff;border:1px solid #dae5f3;border-radius:17px;padding:25px;margin-bottom:20px}.hero h2{margin:0 0 9px;color:#092c61;font-size:21px}.hero p{margin:0;color:#5c6e88}.hero .pills{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}.tag{border:1px solid #a9cdfb;border-radius:99px;color:#124b8e;background:#edf5ff;padding:4px 11px;font-size:12px}.progressCircle{width:94px;height:94px;border-radius:50%;background:conic-gradient(#2773ed var(--pct),#dce7f9 0);display:grid;place-items:center}.progressCircle:before{content:'';position:absolute;width:66px;height:66px;border-radius:50%;background:white}.progressCircle span{position:relative;color:#124b8e;font-weight:750}.tabbar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:17px}.tabbar button,.btn{border:1px solid #cddcec;border-radius:10px;padding:10px 15px;background:white;color:#1b3863;font-weight:650}.tabbar button.active,.btn.primary{background:#1d66d3;color:#fff;border-color:#1d66d3}.content{display:grid;grid-template-columns:290px minmax(0,1fr);gap:18px}.sidebar,.panel{background:#fff;border:1px solid #dde7f4;border-radius:15px;padding:18px}.sidebar{height:max-content;position:sticky;top:14px}.search{padding:11px;border:1px solid #c7d4e4;border-radius:9px;width:100%;outline-color:#2563eb}.sideItem{display:flex;align-items:flex-start;gap:9px;text-align:left;width:100%;border:0;background:#fff;border-radius:9px;padding:12px 8px;color:#234267;font-size:13px}.sideItem:hover,.sideItem.active{background:#eaf3ff}.number{min-width:27px;min-height:27px;background:#e9f2ff;color:#1455ae;border-radius:8px;display:grid;place-items:center;font-weight:800}.panel h2{margin:0 0 12px;font-size:23px;color:#0b3164}.panel h3{margin:18px 0 8px;font-size:16px;color:#163d71}.panel p{color:#465b78}.panel ol{padding-left:25px;line-height:1.75}.panel li{margin-bottom:8px}.card{border:1px solid #dbe7f4;border-radius:12px;padding:15px;background:#fbfdff;margin:12px 0}.note{border-left:4px solid #f1aa30;background:#fffaf0;border-radius:5px;padding:11px 14px;margin:15px 0;color:#75541b}.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.between{justify-content:space-between}.check{display:flex;gap:10px;align-items:center;border:1px solid #d8e6f4;padding:11px;border-radius:10px;margin-top:15px}.check input{width:18px;height:18px;accent-color:#216cdf}.small{color:#677b95;font-size:12px}.promptGrid{display:grid;gap:13px}.promptHeader{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}.prompt{border:1px solid #dbe7f5;border-radius:12px;padding:16px;background:#fff}.prompt h3{margin:2px 0 8px}.prompt details{margin-top:8px}.prompt pre{font-family:inherit;white-space:pre-wrap;overflow-wrap:anywhere;border-radius:10px;padding:15px;background:#f5f8fc;color:#243c5e;font-size:14px;line-height:1.55}.buttonSm{background:#e9f3ff;border:1px solid #b9d4ff;color:#1457ab;border-radius:8px;padding:7px 12px;font-weight:650;white-space:nowrap}.issue{padding:13px;border-radius:10px;background:#fff;border:1px solid #dbe5f2;margin:9px 0}.issue strong{display:block;color:#173a6b}.issue p{margin:5px 0;font-size:14px}.footer{font-size:13px;color:#62758e;margin-top:24px;text-align:center}a{color:#1966ca}#toast{position:fixed;bottom:20px;right:20px;background:#103c79;color:#fff;padding:11px 16px;border-radius:9px;display:none;box-shadow:0 6px 24px #152f5b55}#backTop{position:fixed;right:20px;bottom:80px;border:0;background:#175fce;color:#fff;padding:9px 13px;border-radius:9px}@media(max-width:780px){.content{grid-template-columns:1fr}.sidebar{position:static}.hero{grid-template-columns:1fr}.hero .progressCircle{display:none}.wrapper{padding:16px 12px 50px}.panel{padding:16px}.sidebar{padding:12px}.nav a{font-size:12px;padding:8px}}
+</style></head><body>
+<header><small>GIẢI PHÁP GIÁO DỤC • HƯỚNG DẪN THỰC HÀNH</small><h1>QUY TRÌNH XÂY DỰNG WEBAPP PHÒNG THI AI</h1><small>ChatGPT + Google AI Studio + Supabase + Vercel</small><nav class="nav"><a href="index.html">← Vào phòng thi A4</a><a class="active" href="huong-dan.html" aria-current="page">Quy trình AI</a><a href="https://aistudio.google.com/" target="_blank" rel="noopener">Google AI Studio</a></nav></header>
+<div class="wrapper"><div class="hero"><div><h2>Cẩm nang triển khai tương tác</h2><p>13 bước từ đề Word đến phòng thi trực tuyến; 8 Master Prompt có thể sao chép; bảng kiểm và xử lý lỗi Supabase.</p><div class="pills"><span class="tag">Tác giả: Lê Bá Nhẫn – Trường THPT Hòn Đất</span><span class="tag" id="progressCount">0 / 13 bước hoàn thành</span></div></div><div class="progressCircle" id="progress" style="--pct:0%"><span id="progressText">0%</span></div></div>
+<div class="tabbar" role="tablist" aria-label="Các nội dung hướng dẫn"><button type="button" role="tab" class="active" data-tab="steps">13 bước thực hiện</button><button type="button" role="tab" data-tab="prompts">8 Master Prompt</button><button type="button" role="tab" data-tab="issues">Sửa lỗi thường gặp</button><button type="button" role="tab" data-tab="roadmap">Bảng kiểm tiến độ</button></div>
+<div id="mainContent"></div><p class="footer">Tác giả giải pháp: <b>Lê Bá Nhẫn – Trường THPT Hòn Đất</b><br>Nội dung dựa trên tài liệu quy trình dự án AI đã biên soạn. Trạng thái triển khai thật cần xác minh trên Supabase và Vercel.</p></div><button id="backTop" aria-label="Về đầu trang">↑</button><div id="toast" role="status"></div>
+<script>window.GUIDE_DATA={
+  "steps": [
+    {
+      "number": 0,
+      "title": "Tổ chức thư mục dự án trên máy tính",
+      "items": [
+        "Giải nén gói Fullstack, mở thư mục PHONG_THI_A4_ADMIN_RELEASE (hoặc thư mục gốc tương đương).",
+        "Kiểm tra có web/index.html, web/app.js, web/api.js, web/word.js và web/vendor/.",
+        "Kiểm tra có supabase/migrations/ và supabase/functions/exam-api/index.ts, scoring.mjs.",
+        "Tạo bản sao “BACKUP_TRUOC_CHINH_SUA.zip”; dùng bản sao khi thử thay đổi bằng AI Studio."
+      ],
+      "notes": [
+        "Mở được các thư mục web, supabase, docs, tests. Không nhầm file index.html đóng gói A3 với thư mục web của A4 khi triển khai Vercel."
+      ]
+    },
+    {
+      "number": 1,
+      "title": "Dùng ChatGPT xác định yêu cầu và cấu trúc đề",
+      "items": [
+        "Mở ChatGPT, tạo cuộc trò chuyện dành riêng cho WebApp Phòng thi trực tuyến AI.",
+        "Tải file Word đề gốc và đáp án/hướng dẫn chấm lên cùng một cuộc trò chuyện.",
+        "Dán Master Prompt A1 ở Phần III. Yêu cầu trích xuất đầy đủ số câu, phần, phương án, công thức và hình ảnh; cảnh báo những chỗ không đọc được.",
+        "So sánh với tài liệu Word gốc, tuyệt đối không thay công thức khó đọc bằng dữ kiện tự đoán."
+      ],
+      "notes": [
+        "Bộ đề Hóa học 10 dùng để kiểm thử",
+        "Cảnh báo hiện có: Bản nhập Word đã phát hiện 8 hình WMF chứa công thức/hình chưa hiển thị an toàn trên trình duyệt; cần giữ nguyên hình gốc hoặc chuyển đúng định dạng rồi đối chiếu. Biểu điểm phải nhập từ nguồn chấm thật."
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Khóa dữ liệu đề và duyệt nội dung",
+      "items": [
+        "Lập bảng kiểm từng câu theo số thứ tự gốc, trang, loại câu và tình trạng công thức/hình.",
+        "Ở PHẦN I, chữ đỏ của A/B/C/D là gợi ý nhận diện; giáo viên đối chiếu đáp án chính thức.",
+        "Ở PHẦN II, giáo viên xác nhận riêng từng ý a/b/c/d là Đúng hay Sai, khai báo quy tắc chấm theo hướng dẫn gốc.",
+        "Ở PHẦN III, nhập giá trị từ dòng “Đáp án:”; quy tắc sai số/đơn vị không được suy đoán.",
+        "Chỉ đánh dấu “ĐÃ DUYỆT” khi nội dung, ảnh, đáp án, điểm đã chính xác; khóa phiên bản đã duyệt và giữ bản dự phòng."
+      ],
+      "notes": [
+        "Số câu và thứ tự khớp Word gốc; không còn cảnh báo không giải quyết; không có câu thiếu điểm hoặc đáp án mà vẫn cho xuất bản."
+      ]
+    },
+    {
+      "number": 3,
+      "title": "ChatGPT thiết kế giao diện rồi chốt A2",
+      "items": [
+        "Dán Master Prompt A2 (Phần III); yêu cầu 4 màn hình: Bắt đầu, Làm bài, Đã nộp, Dashboard giáo viên.",
+        "Chế độ giáo viên được xem đáp án màu đỏ và duyệt đề; chế độ học sinh không nhìn thấy đáp án hoặc điểm sau nộp.",
+        "Kiểm tra trên máy tính và màn hình điện thoại, bảng biểu và công thức không tràn khung.",
+        "Chốt giao diện trước khi yêu cầu AI viết lại logic backend để tránh sửa nhiều vòng."
+      ],
+      "notes": []
+    },
+    {
+      "number": 4,
+      "title": "Dùng Google AI Studio Build để chỉnh sửa và phát triển WebApp",
+      "items": [
+        "Truy cập https://aistudio.google.com/; chọn Build (tên mục có thể thay đổi theo giao diện mới).",
+        "Nhập mã nguồn A4 hiện có vào AI Studio bằng chức năng import GitHub hoặc tải tệp mà môi trường Build hỗ trợ; ưu tiên đồng bộ GitHub để bảo toàn lịch sử mã nguồn.",
+        "Dán Master Prompt A3/A4 ở Phần III, yêu cầu sửa trực tiếp project hiện có, không tạo một ứng dụng không liên quan và không ghi đè toàn bộ dữ liệu thật.",
+        "Xem trước và thử từng chức năng: nhập Word → duyệt → ngân hàng đề → tạo phòng → học sinh nộp → giáo viên chấm.",
+        "Nhờ AI Studio xuất phiên bản mã nguồn/sync GitHub; so sánh thay đổi trước khi merge/đẩy lên nhánh chính."
+      ],
+      "notes": [
+        "Lưu ý: Google AI Studio hỗ trợ tạo app full-stack và đồng bộ GitHub, nhưng việc triển khai trên Vercel + Supabase phải theo kiến trúc đang chọn. Không dùng lệnh “deploy Cloud Run” cho quy trình này nếu mục tiêu là Vercel."
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Kiểm tra bộ đọc Word, xử lý hình ảnh và công thức",
+      "items": [
+        "Tải tệp .docx vào mục GIÁO VIÊN → Nhập Word/JSON → Duyệt đề.",
+        "Đối chiếu danh sách 21 câu và các PHẦN I, II, III với file Word mở bên cạnh.",
+        "Chuyển WMF/EMF/OMML khó đọc sang cách thể hiện kiểm chứng được, giữ hình gốc, không tự vẽ minh họa.",
+        "Xác nhận đáp án và điểm từng câu, kiểm tra lỗi dấu điện tích, đồng vị, chỉ số trên/dưới, phương trình phản ứng.",
+        "Sao lưu dữ liệu JSON và chỉ duyệt phát hành khi sạch cảnh báo."
+      ],
+      "notes": []
+    },
+    {
+      "number": 6,
+      "title": "Tạo Supabase Project và cơ sở dữ liệu",
+      "items": [
+        "Vào https://supabase.com/dashboard → New Project → nhập tên dự án, khu vực phù hợp, đặt Database Password riêng.",
+        "Trong Project Settings → API Keys, lấy Project URL và Publishable Key; không lấy secret key để dán vào frontend.",
+        "Mở SQL Editor → New query; chạy migration đầu tiên: supabase/migrations/202610300001_init.sql.",
+        "Chạy migration tiếp theo: supabase/migrations/202610310002_teacher_registration.sql (nếu dùng tính năng tự đăng ký và lời mời giáo viên).",
+        "Mở Table Editor, xác nhận các bảng app_profiles, exams, exam_questions, exam_versions, exam_rooms, exam_attempts; kiểm tra Storage bucket theo migration."
+      ],
+      "notes": [
+        "Quan trọng: Nếu đã chạy migration bằng Supabase CLI thì không chạy cùng file SQL lần nữa mà chưa đối chiếu trạng thái. Một dự án mới phải chạy migrations đúng thứ tự."
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Triển khai Edge Function exam-api trên Supabase",
+      "items": [
+        "Cài Node.js LTS từ https://nodejs.org/ rồi mở PowerShell trong thư mục gốc có thư mục supabase/.",
+        "Chạy npx supabase login; đăng nhập tài khoản chủ dự án theo hướng dẫn.",
+        "Chạy npx supabase link --project-ref MA_DU_AN (thay MA_DU_AN bằng Project Reference ID thực tế).",
+        "Chạy npx supabase functions deploy exam-api --use-api để triển khai không cần Docker.",
+        "Vào Supabase Dashboard → Edge Functions, xác nhận exam-api xuất hiện; vào Logs/Invocations nếu còn lỗi."
+      ],
+      "notes": [
+        "Lệnh thực hiện trong PowerShell",
+        "Cấu hình của A4: supabase/config.toml có [functions.exam-api] verify_jwt = false để nhận yêu cầu qua mã phòng; bản thân exam-api phải kiểm tra phiên giáo viên, token bài làm và quyền riêng đối với từng action. Không coi “tắt JWT kiểm tra gateway” là an toàn mặc định."
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Kích hoạt tài khoản quản trị viên và giáo viên",
+      "items": [
+        "Trong Authentication → Users: tạo hoặc xác nhận tài khoản admin thật; xác minh email.",
+        "Chủ dự án chạy setup/CAP_QUYEN_ADMIN_THU_CONG.sql bằng SQL Editor; kiểm tra vai trò admin trong app_profiles.",
+        "Không đưa mật khẩu admin vào Google AI Studio, ChatGPT, GitHub hay config.js. Mật khẩu đã từng chia sẻ trong chat nên cần thay mật khẩu mới, duy nhất.",
+        "Quản trị viên mời giáo viên; giáo viên tự đăng ký và xác thực email rồi được tự cấp role teacher nếu trùng lời mời hợp lệ.",
+        "Cấu hình Supabase Authentication → URL Configuration: Site URL và Redirect URLs theo địa chỉ Vercel HTTPS thật."
+      ],
+      "notes": [
+        "Đăng nhập admin được, nhìn thấy chức năng Mời giáo viên; giáo viên được mời quản lý được đề của mình, giáo viên không được mời không truy cập được đề."
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Đưa giao diện WebApp lên GitHub và Vercel",
+      "items": [
+        "Tạo GitHub Repository riêng tư để lưu mã frontend; chỉ đưa nội dung thư mục web/ lên repo nếu muốn cách dễ nhất.",
+        "Kiểm tra thư mục gốc repo có index.html, app.js, api.js, word.js, config.js, vendor/, vercel.json.",
+        "Truy cập https://vercel.com/new → Import repository từ GitHub; Framework Preset: Other.",
+        "Root Directory là “./” khi repo chỉ chứa frontend; hoặc “web” nếu repo chứa toàn bộ Fullstack. Build Command để trống, Output Directory “.” theo cấu hình repo hiện tại.",
+        "Chọn Deploy; mở đường link HTTPS được Vercel cấp và kiểm tra trang chủ, không chỉ nhìn trạng thái Deployment Ready.",
+        "Khi mã thay đổi trên nhánh GitHub đã nối với Vercel, theo dõi lần deploy mới và kiểm tra lỗi trước khi dùng."
+      ],
+      "notes": [
+        "Lưu ý: Không đưa supabase/, setup/, docs/ có đáp án hoặc tệp dữ liệu nội bộ lên thư mục frontend phát hành công khai."
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Kết nối frontend Vercel với Supabase",
+      "items": [
+        "Mở WebApp trên địa chỉ Vercel HTTPS → THIẾT LẬP KẾT NỐI.",
+        "Dán Project URL + Publishable Key từ cùng một dự án; nhấn LƯU CẤU HÌNH và KIỂM TRA MÁY CHỦ.",
+        "Nếu thành công, tải “config.js CHO VERCEL” trong WebApp; cập nhật tệp config.js ở GitHub để học sinh không phải nhập lại từng máy.",
+        "Trong Supabase, giới hạn ALLOWED_ORIGIN đúng origin Vercel để xử lý CORS khi cần; kiểm tra preflight OPTIONS và headers thực tế trong Logs.",
+        "Sau mỗi lần cập nhật config.js, chờ GitHub/Vercel triển khai xong và thử bằng cửa sổ ẩn danh để xác nhận cấu hình dùng chung."
+      ],
+      "notes": [
+        "Không dán sb_secret_, service_role hoặc mật khẩu trong config.js. Không tin rằng frontend đã chạy là backend đã hoạt động."
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Giáo viên tạo phòng thi và học sinh thực hiện",
+      "items": [
+        "Đăng nhập giáo viên → Nhập Word → Duyệt đề → Lưu ngân hàng đề.",
+        "Chọn đề đã duyệt, nhập thời lượng và thời gian phòng mở; tạo phòng, lấy mã phòng hoặc URL ?room=MA_PHONG.",
+        "Học sinh trên điện thoại khác mở link Vercel, nhập tên/lớp, làm bài; hệ thống lưu tạm khi đứt mạng.",
+        "Nhấn NỘP BÀI; học sinh chỉ thấy xác nhận nộp thành công, không thấy điểm/đáp án.",
+        "Giáo viên xem kết quả, xử lý bài tự luận CHỜ CHẤM, chấm bổ sung rồi xuất Excel."
+      ],
+      "notes": []
+    },
+    {
+      "number": 12,
+      "title": "Kiểm thử thật, nghiệm thu và đưa vào vận hành",
+      "items": [
+        "Kiểm thử ít nhất một đề 21 câu bằng hai tài khoản giáo viên khác nhau và một nhóm học sinh thử nghiệm.",
+        "Kiểm tra đúng ảnh/công thức, đáp án, quy tắc chấm, điểm tạm tính và điểm chính thức.",
+        "Thử tải lại, mất kết nối, nộp trùng, quá giờ, học sinh nhập mã sai; kiểm tra Logs máy chủ.",
+        "Kiểm tra quyền truy cập chéo: học sinh không đọc được đáp án, giáo viên A không được sửa đề của B nếu không có quyền.",
+        "Thiết lập sao lưu, giữ log, chính sách bảo vệ dữ liệu học sinh trước khi áp dụng rộng."
+      ],
+      "notes": []
+    }
+  ],
+  "prompts": [
+    {
+      "title": "PROMPT 01 – A1: ĐỌC ĐỀ GỐC VÀ KHÓA DỮ LIỆU (ChatGPT)",
+      "content": "Bạn là chuyên gia số hóa đề thi, am hiểu Hóa học THPT, Word, PDF, công thức OMML và LaTeX.\nTôi đã tải đề gốc và (nếu có) đáp án/hướng dẫn chấm. Hãy đọc TẤT CẢ trang, bảo toàn nguyên văn câu hỏi, A–D, a–d, số câu, bảng, hình, ký hiệu hóa học, định dạng gạch chân/màu đánh dấu.\nLập bảng: Phần – Số câu – Loại – Nội dung – Phương án – Đáp án nguồn – Điểm – Trang – Tài nguyên – Trạng thái xác nhận.\nKhông sáng tác hoặc sửa đề. Với nội dung OMML/WMF/EMF chưa chuyển được, chỉ rõ câu và trang, yêu cầu giữ ảnh gốc để duyệt; không bịa hình thay thế.\nNhận diện: PHẦN I chữ đỏ A–D chỉ là đáp án nghi vấn; PHẦN II chữ đỏ ở từng ý cần giáo viên xác nhận Đúng/Sai; PHẦN III dùng dòng “Đáp án:”; PHẦN IV cần rubric.\nXuất JSON cấu trúc cho ứng dụng và báo cáo câu thiếu dữ kiện. CHƯA tạo HTML."
+    },
+    {
+      "title": "PROMPT 02 – A2: DUYỆT GIAO DIỆN VÀ TOÀN BỘ ĐỀ (ChatGPT)",
+      "content": "Dựa DUY NHẤT vào dữ liệu đã khóa ở Bước A1, hãy thiết kế UI/UX Phòng thi trực tuyến: Bắt đầu – Làm bài – Đã nộp – Dashboard giáo viên.\nPhải cho giáo viên xem trước TOÀN BỘ câu thật, đúng thứ tự; có danh sách câu và nút Câu trước/Câu tiếp theo. Giữ nguyên ảnh, bảng, công thức. Không tạo câu minh họa.\nGiáo viên thấy đáp án PHẦN I/II tô đỏ, PHẦN III “Đáp án:”; học sinh không thấy đáp án hay điểm. Hỗ trợ 4 dạng câu hỏi, điều hướng, đánh dấu xem lại, đếm giờ, nộp tự động.\nLiệt kê đầy đủ điểm chưa thể dựng, danh sách câu thiếu. Chưa phát hành ứng dụng cho học sinh đến khi tôi duyệt."
+    },
+    {
+      "title": "PROMPT 03 – A3: BẢO TOÀN VÀ NÂNG CẤP FRONTEND (Google AI Studio Build)",
+      "content": "Bạn đang làm việc trên project WebApp phòng thi A4 đã nhập từ GitHub. Hãy SỬA TRỰC TIẾP mã nguồn hiện hữu; giữ nguyên cấu trúc web/index.html, app.js, api.js, word.js, vendor, config.js và đường dẫn ?room=.\nKhông thay mã nguồn thật bằng demo, dữ liệu giả hoặc API giả. Tách rõ chế độ Học sinh/Giáo viên. Giữ giao diện tiếng Việt navy–trắng, đáp án giáo viên PHẦN I/II tô đỏ, PHẦN III có “Đáp án:”.\nHọc sinh: chỉ nhận câu hỏi công khai từ API, lưu bài, đếm giờ, nộp, sau nộp chỉ thấy xác nhận.\nGiáo viên: nhập Word, duyệt câu, ngân hàng đề, tạo phòng, chấm tự luận, thống kê, Excel.\nTrước khi sửa: liệt kê tệp sẽ thay và lý do. Sau khi sửa: cho biết từng chức năng đã chạy được và bằng chứng kiểm thử; giữ khả năng deploy trên Vercel."
+    },
+    {
+      "title": "PROMPT 04 – A4: CHUẨN HÓA WORD VÀ QUY TRÌNH DUYỆT (AI Studio)",
+      "content": "Cải tiến bộ đọc Word hiện có, không viết lại toàn bộ dự án. Nhận diện 4 dạng câu, công thức Hóa học, chỉ số trên/dưới, hình ảnh nhúng và bảng từ DOCX.\nNhận diện chữ đỏ ở PHẦN I để đề xuất phương án đúng, ở PHẦN II chỉ tạo gợi ý cần xác minh, dòng “Đáp án:” ở PHẦN III.\nTừng câu phải có trạng thái CHƯA DUYỆT / CẦN SỬA / ĐÃ DUYỆT. Không cho xuất bản nếu thiếu bất kỳ nội dung, công thức, hình, đáp án hoặc điểm bắt buộc.\nKhông giả định chuyển WMF/OMML hoàn hảo. Đánh dấu câu có nguy cơ mất hình; cho xem file gốc để đối chiếu, bảo đảm không thay ý nghĩa đề.\nKiểm thử bằng file đề Hóa 10 15+2+4 câu đã cung cấp; báo số câu đọc, số cảnh báo, số câu được duyệt, không nhận sai đáp án là thành công."
+    },
+    {
+      "title": "PROMPT 05 – KIỂM TRA BACKEND SUPABASE (Google AI Studio)",
+      "content": "Kiểm tra mã supabase/functions/exam-api và các migration đã có. Yêu cầu: Auth/RLS an toàn, phân vai admin/teacher, học sinh dùng mã phòng và token bài làm; đáp án và scoring chỉ ở backend.\nKhông hiển thị hoặc hard-code Supabase secret key hay mật khẩu. Kiểm tra health action, CORS preflight OPTIONS, ALLOWED_ORIGIN, config.toml và lời gọi API từ web/api.js.\nChỉ đề xuất chỉnh sửa từng tệp có giải thích. Sinh bước kiểm tra: SQL migrations → Edge Function deploy → health → đăng nhập giáo viên → làm bài → xem kết quả.\nKhông khẳng định API đã lên Supabase nếu chưa có nhật ký deploy và health 200 OK thực tế."
+    },
+    {
+      "title": "PROMPT 06 – KHẮC PHỤC “FAILED TO FETCH” (Google AI Studio)",
+      "content": "WebApp trên Vercel báo “Failed to fetch” khi KIỂM TRA MÁY CHỦ. Hãy phân tích dựa trên các tệp thật index.html, api.js, config.js, supabase/config.toml, exam-api/index.ts.\nKiểm tra theo thứ tự: Project URL; publishable key; địa chỉ /functions/v1/exam-api; function có được deploy chưa; preflight OPTIONS; Access-Control-Allow-Origin; headers apikey/authorization; lỗi JavaScript; Network/Logs.\nĐưa ra bảng: giả thuyết → cách tự kiểm tra → lỗi quan sát được → sửa trong tệp nào → cách xác minh lại. Không đề xuất vô hiệu hóa xác thực hoặc công khai secret để “chữa” lỗi."
+    },
+    {
+      "title": "PROMPT 07 – TRIỂN KHAI VERCEL VÀ GITHUB (Google AI Studio)",
+      "content": "Ứng dụng đã có frontend web/ và backend riêng Supabase. Hãy chuẩn hóa cho Vercel hosting tĩnh, KHÔNG chuyển backend Supabase vào frontend.\nKiểm tra index.html, đường dẫn app.js/api.js/word.js/vendor, config.js, vercel.json và URL ?room=MA_PHONG.\nNếu repo chỉ có thư mục frontend ở root: cấu hình Vercel Framework Other, Root ./; nếu repo Fullstack: Root web. Chỉ frontend được deploy công khai. Không kèm dữ liệu đề bí mật, setup, migrations, service_role.\nXuất checklist GitHub → Import Vercel → Deploy HTTPS → cập nhật config.js công khai → kết nối Supabase → thử link học sinh, kèm cách rollback khi lỗi."
+    },
+    {
+      "title": "PROMPT 08 – KIỂM THỬ VÀ NGHIỆM THU (ChatGPT/AI Studio)",
+      "content": "Hãy xây dựng test plan cho WebApp phòng thi thực tế có bốn vai trò: admin, teacher, student, unauthenticated.\nKiểm thử: đọc Word 21 câu 15+2+4, thiếu ảnh WMF, điểm/đáp án chưa duyệt, thay đổi rubric, mất mạng, tải lại trang, hết giờ, nộp hai lần, QR/link mã phòng, xuất Excel, nhiều thiết bị, phân quyền chéo, dữ liệu nhạy cảm.\nVới mỗi test ghi: đầu vào – thao tác – kết quả mong đợi – thực tế – đạt/chưa đạt – ảnh/log minh chứng – hướng xử lý.\nKhông bịa kết quả đã kiểm thử; chỉ đánh dấu ĐẠT khi có minh chứng thực tế."
+    }
+  ],
+  "issues": [
+    {
+      "topic": "1. Function đã có?",
+      "reason": "Supabase → Edge Functions, tìm exam-api.",
+      "fix": "Nếu thiếu: npx supabase functions deploy exam-api --use-api."
+    },
+    {
+      "topic": "2. URL/key?",
+      "reason": "Project Settings → API Keys; kiểm tra cùng dự án.",
+      "fix": "Dán lại URL và publishable key đúng."
+    },
+    {
+      "topic": "3. Health?",
+      "reason": "Gửi POST action=health trong Function test hoặc WebApp.",
+      "fix": "Đọc Invocations/Logs nếu phản hồi lỗi."
+    },
+    {
+      "topic": "4. CORS?",
+      "reason": "F12 → Network, xem OPTIONS/POST và Console.",
+      "fix": "Kiểm tra ALLOWED_ORIGIN, các header CORS và redeploy."
+    },
+    {
+      "topic": "5. Frontend dùng chung?",
+      "reason": "Mở link Vercel trong cửa sổ ẩn danh.",
+      "fix": "Cập nhật config.js lên GitHub, chờ Vercel redeploy."
+    },
+    {
+      "topic": "Trang Vercel trắng/404",
+      "reason": "Sai Root Directory hoặc thiếu index.html.",
+      "fix": "Kiểm tra repo và Vercel deploy logs."
+    },
+    {
+      "topic": "Bấm nút không chạy",
+      "reason": "Thiếu app.js/api.js/word.js/vendor.",
+      "fix": "Đẩy toàn bộ frontend, mở DevTools Console."
+    },
+    {
+      "topic": "Đăng nhập giáo viên nhưng bị từ chối",
+      "reason": "Email chưa xác minh, chưa có role hoặc migration thiếu.",
+      "fix": "Kiểm tra Auth Users và app_profiles."
+    },
+    {
+      "topic": "Học sinh không thấy bài chung",
+      "reason": "Chưa cấu hình config.js, sai dự án Supabase.",
+      "fix": "Kiểm tra dự án trên mọi thiết bị."
+    },
+    {
+      "topic": "Điểm sai / câu mất ảnh",
+      "reason": "Chưa duyệt đáp án, rubric, WMF/OMML.",
+      "fix": "Quay về bản Word và kiểm duyệt từng câu."
+    },
+    {
+      "topic": "Nộp lại khi mất mạng",
+      "reason": "Chưa có xác nhận server, yêu cầu hết giờ.",
+      "fix": "Kiểm tra nhật ký và quy tắc nộp ở backend."
+    }
+  ],
+  "refs": [
+    "Google AI Studio Build Mode: https://ai.google.dev/gemini-api/docs/aistudio-build-mode",
+    "Google AI Studio: https://aistudio.google.com/",
+    "Supabase Edge Functions: https://supabase.com/docs/guides/functions/quickstart",
+    "Triển khai Functions: https://supabase.com/docs/guides/functions/deploy",
+    "Supabase API Keys: https://supabase.com/docs/guides/getting-started/api-keys",
+    "Supabase CORS: https://supabase.com/docs/guides/functions/cors",
+    "Vercel Deployments: https://vercel.com/docs/deployments",
+    "GitHub: https://github.com/"
+  ],
+  "author": "Lê Bá Nhẫn – Trường THPT Hòn Đất",
+  "updated": "31/10/2026"
+};</script><script>
+(function(){'use strict';
+const DATA=window.GUIDE_DATA;
+const $=id=>document.getElementById(id);
+const escapeHTML=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let tab='steps', selected=0, query='', done=new Set();
+try{done=new Set(JSON.parse(localStorage.getItem('edu_guide_v2')||'[]'))}catch{}
+function toast(t){$('toast').textContent=t;$('toast').style.display='block';clearTimeout(window.guideToastTimer);window.guideToastTimer=setTimeout(()=>$('toast').style.display='none',2300)}
+function updateProgress(){let n=done.size;let percent=Math.round(n/DATA.steps.length*100);$('progress').style.setProperty('--pct', percent+'%');$('progressText').textContent=percent+'%';$('progressCount').textContent=n+' / '+DATA.steps.length+' bước hoàn thành'}
+function saveDone(){try{localStorage.setItem('edu_guide_v2',JSON.stringify([...done]))}catch{}updateProgress()}
+function chooseTab(t){tab=t;document.querySelectorAll('[data-tab]').forEach(b=>{b.classList.toggle('active',b.dataset.tab===t);b.setAttribute('aria-selected',b.dataset.tab===t?'true':'false')});render()}
+function buildSteps(){const s=DATA.steps[selected];let left=DATA.steps.filter(x=>!query||(`${x.title} ${x.items.join(' ')}`).toLocaleLowerCase('vi').includes(query.toLocaleLowerCase('vi')));let sidebar=left.map(x=>`<button class="sideItem ${x.number===s.number?'active':''}" data-step="${x.number}"><span class="number">${done.has(x.number)?'✓':x.number}</span><span>${escapeHTML(x.title)}</span></button>`).join('')||'<p class="small">Không tìm thấy bước phù hợp.</p>';let content=`<h2>Bước ${s.number}. ${escapeHTML(s.title)}</h2><p class="small">Tài liệu hướng dẫn dự án · ChatGPT + Google AI Studio + Supabase + Vercel</p>`;
+content+=s.items.length?'<h3>Các thao tác cần thực hiện</h3><ol>'+s.items.map(x=>`<li>${escapeHTML(x)}</li>`).join('')+'</ol>':'';
+if(s.notes.length)content+='<div class="note">'+s.notes.map(x=>`<p>${escapeHTML(x)}</p>`).join('')+'</div>';
+if(s.number===7)content+='<div class="card"><h3>Lệnh triển khai Edge Function</h3><pre>npx supabase login\nnpx supabase link --project-ref MA_DU_AN\nnpx supabase functions deploy exam-api --use-api</pre><button class="buttonSm" data-copy="commands">Sao chép 3 lệnh</button></div>';
+if(s.number===9)content+='<div class="card"><a href="https://vercel.com/new" target="_blank" rel="noopener">Mở Vercel – Import Project</a></div>';
+content+=`<label class="check"><input type="checkbox" id="checkStep" ${done.has(s.number)?'checked':''}><span>Tôi đã hoàn thành Bước ${s.number} và kiểm tra kết quả</span></label><div class="row between" style="margin-top:20px"><button class="btn" id="prevStep" ${selected===0?'disabled':''}>← Bước trước</button><button class="btn primary" id="nextStep" ${selected===DATA.steps.length-1?'disabled':''}>Bước tiếp theo →</button></div>`;
+$('mainContent').innerHTML=`<div class="content"><aside class="sidebar"><input class="search" type="search" id="searchSteps" placeholder="Tìm bước triển khai..." value="${escapeHTML(query)}" aria-label="Tìm bước"><div style="margin-top:10px">${sidebar}</div></aside><section class="panel">${content}</section></div>`;
+$('searchSteps').addEventListener('input',ev=>{query=ev.target.value;let cur=$('searchSteps').selectionStart;buildSteps();$('searchSteps').focus();$('searchSteps').setSelectionRange(cur,cur)});
+document.querySelectorAll('[data-step]').forEach(b=>b.addEventListener('click',()=>{selected=DATA.steps.findIndex(x=>x.number===Number(b.dataset.step));buildSteps()}));
+$('checkStep').addEventListener('change',e=>{e.target.checked?done.add(s.number):done.delete(s.number);saveDone();buildSteps()});
+$('prevStep').addEventListener('click',()=>{if(selected>0){selected--;query='';buildSteps()}});$('nextStep').addEventListener('click',()=>{if(selected<DATA.steps.length-1){selected++;query='';buildSteps()}});
+const cb=document.querySelector('[data-copy="commands"]');if(cb)cb.addEventListener('click',()=>copyText('npx supabase login\nnpx supabase link --project-ref MA_DU_AN\nnpx supabase functions deploy exam-api --use-api'));
+}
+async function copyText(t){try{if(navigator.clipboard&&isSecureContext){await navigator.clipboard.writeText(t)}else{let a=document.createElement('textarea');a.value=t;a.style.cssText='position:fixed;left:-9999px';document.body.appendChild(a);a.select();if(!document.execCommand('copy'))throw Error('copy');a.remove()}toast('Đã sao chép vào bộ nhớ tạm')}catch{toast('Không thể sao chép tự động; hãy mở nội dung và dùng Ctrl+C')}}
+function buildPrompts(){const view=DATA.prompts.map((p,i)=>`<article class="prompt"><div class="promptHeader"><h3>${escapeHTML(p.title)}</h3><button class="buttonSm" data-prompt="${i}">Sao chép prompt</button></div><details><summary>Xem toàn bộ câu lệnh</summary><pre>${escapeHTML(p.content)}</pre></details></article>`).join('');$('mainContent').innerHTML=`<section class="panel"><h2>8 Master Prompt – Sao chép và sử dụng</h2><p>Mỗi prompt được trích từ tài liệu Word đã biên soạn. Dùng trên ChatGPT hoặc Google AI Studio theo tên ở đầu prompt. Không dán mật khẩu hay secret key.</p><div class="promptGrid">${view}</div></section>`;document.querySelectorAll('[data-prompt]').forEach(b=>b.addEventListener('click',()=>copyText(DATA.prompts[Number(b.dataset.prompt)].content)))}
+function buildIssues(){let view=DATA.issues.map(x=>`<article class="issue"><strong>${escapeHTML(x.topic)}</strong><p><b>Kiểm tra:</b> ${escapeHTML(x.reason)}</p><p><b>Cách xử lý:</b> ${escapeHTML(x.fix)}</p></article>`).join('');$('mainContent').innerHTML=`<section class="panel"><h2>Xử lý sự cố khi triển khai</h2><div class="note"><strong>Lỗi đang gặp nhiều:</strong> “Failed to fetch” không nhất thiết do Publishable Key sai. Hãy kiểm tra có <code>exam-api</code> trong Edge Functions chưa, thử health và xem Logs, sau đó kiểm tra CORS.</div>${view}<h3>Tài liệu tham khảo chính thức</h3><ul>${DATA.refs.map(x=>`<li>${escapeHTML(x)}</li>`).join('')}</ul></section>`}
+function buildRoadmap(){let c=DATA.steps.map(s=>`<label class="check"><input type="checkbox" data-done="${s.number}" ${done.has(s.number)?'checked':''}><span><b>Bước ${s.number}</b> – ${escapeHTML(s.title)}</span></label>`).join('');$('mainContent').innerHTML=`<section class="panel"><h2>Tiến độ hoàn thành dự án</h2><p>Đánh dấu các bước đã thực hiện; hệ thống lưu tiến độ trên chính trình duyệt hiện tại (không đồng bộ qua nhiều máy).</p>${c}<div class="row" style="margin-top:18px"><button class="btn" id="copyProgress">Sao chép báo cáo tiến độ</button><button class="btn" id="resetProgress">Xóa dấu tích</button></div></section>`;document.querySelectorAll('[data-done]').forEach(el=>el.addEventListener('change',()=>{let n=Number(el.dataset.done);el.checked?done.add(n):done.delete(n);saveDone()}));$('copyProgress').onclick=()=>copyText(DATA.steps.map(x=>(done.has(x.number)?'[x]':'[ ]')+' Bước '+x.number+'. '+x.title).join('\n'));$('resetProgress').onclick=()=>{if(confirm('Xóa toàn bộ dấu tích tiến độ trên trình duyệt này?')){done.clear();saveDone();buildRoadmap()}}}
+function render(){if(tab==='steps')buildSteps();else if(tab==='prompts')buildPrompts();else if(tab==='issues')buildIssues();else buildRoadmap()}
+document.querySelectorAll('[data-tab]').forEach(b=>b.addEventListener('click',()=>chooseTab(b.dataset.tab)));$('backTop').onclick=()=>window.scrollTo({top:0,behavior:'smooth'});updateProgress();render();
+})();
+</script></body></html>
